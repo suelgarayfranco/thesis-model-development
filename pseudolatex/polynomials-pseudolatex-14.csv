@@ -1,0 +1,31 @@
+;pseudolatex
+420;VC.x - VC
+421;VC.x^{7} + VC - VC.x^{9} + VC.x^{3} - VC.x^{5} - VC.x + VC.x^{6} - VC.x^{8} + VC.x^{4} + VC.x^{2} + VC.x^{10}
+422;- VC.x^{2} + VC.x^{3} - VC.x^{4} - VC + VC.x + VC.x^{6} + VC.x^{5}
+423;- VC.x^{4} - VC.x^{3} - VC - VC.x^{6} - VC.x^{8} + VC.x^{2} - VC.x^{5} + VC.x + VC.x^{7} - VC.x^{9}
+424;- VC + VC.x
+425;- VC.x^{2} + VC.x - VC.x^{6} + VC + VC.x^{3} - VC.x^{7} + VC.x^{8} - VC.x^{9} - VC.x^{10} + VC.x^{5} - VC.x^{4}
+426;VC.x + VC + VC.x^{3} - VC.x^{2} + VC.x^{4}
+427;VC.x^{5} - VC.x^{6} + VC.x^{3} + VC.x^{4} - VC + VC.x^{2} + VC.x
+428;VC.x^{3} - VC - VC.x^{2} + VC.x
+429;- VC.x^{2} - VC.x^{4} - VC - VC.x - VC.x^{5} - VC.x^{3}
+430;- VC.x^{3} - VC.x^{2} - VC.x^{5} - VC.x - VC.x^{6} - VC - VC.x^{4}
+431;- VC.x - VC - VC.x^{3} - VC.x^{2}
+432;- VC.x^{2} - VC.x^{3} - VC.x - VC.x^{4} - VC.x^{5} - VC
+433;- VC.x - VC.x^{3} - VC - VC.x^{4} - VC.x^{5} - VC.x^{2}
+434;- VC.x^{2} - VC.x - VC
+435;- VC - VC.x^{2} - VC.x
+436;- VC.x^{6} - VC.x^{10} - VC.x^{5} - VC - VC.x^{8} - VC.x - VC.x^{4} - VC.x^{2} - VC.x^{9} - VC.x^{7} - VC.x^{3}
+437;- VC.x^{2} - VC.x - VC
+438;- VC.x^{4} - VC.x^{5} - VC - VC.x - VC.x^{7} - VC.x^{3} - VC.x^{2} - VC.x^{8} - VC.x^{6}
+439;VC.x^{5} + VC.x + VC.x^{4} + VC.x^{2} + VC + VC.x^{3}
+440;VC.x^{2} + VC.x + VC + VC.x^{4} + VC.x^{3}
+441;VC.x^{10} + VC.x^{5} + VC.x^{8} + VC.x^{7} + VC.x^{4} + VC + VC.x + VC.x^{9} + VC.x^{2} + VC.x^{6} + VC.x^{3}
+442;VC.x^{2} + VC.x + VC.x^{4} + VC.x^{3} + VC
+443;VC.x^{3} + VC.x^{4} + VC.x^{2} + VC.x + VC
+444;VC.x^{4} + VC.x^{3} + VC.x^{2} + VC.x^{7} + VC.x^{6} + VC.x + VC.x^{5} + VC + VC.x^{8}
+445;VC.x^{6} + VC.x^{4} + VC.x^{3} + VC.x + VC.x^{2} + VC.x^{5} + VC.x^{9} + VC + VC.x^{7} + VC.x^{8} + VC.x^{10}
+446;VC.x^{5} + VC.x^{2} + VC.x + VC.x^{3} + VC.x^{6} + VC + VC.x^{4}
+447;VC.x^{4} + VC.x^{7} + VC.x^{6} + VC.x + VC.x^{8} + VC.x^{2} + VC.x^{5} + VC + VC.x^{3}
+448;VC.x^{4} + VC.x^{10} + VC.x^{2} + VC.x^{5} + VC.x^{9} + VC.x^{7} + VC + VC.x + VC.x^{6} + VC.x^{3} + VC.x^{8}
+449;- VC - VC.x + VC.x^{2} - VC.x^{3} - VC.x^{4} - VC.x^{5} - VC.x^{6} + VC.x^{7}

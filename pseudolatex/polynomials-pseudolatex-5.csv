@@ -1,0 +1,31 @@
+;pseudolatex
+150;VD + VD.x + VD.x^{2}
+151;- VD.x^{5} + VD.x + VD + VD.x^{3} - VD.x^{6} + VD.x^{2} + VD.x^{4} + VD.x^{7}
+152;VD - VD.x
+153;- VD.x^{8} - VD.x^{4} + VD.x^{7} + VD.x - VD.x^{5} + VD.x^{2} + VD.x^{3} - VD - VD.x^{6}
+154;VD.x^{2} - VD.x + VD.x^{3} - VD - VD.x^{7} + VD.x^{6} + VD.x^{4} + VD.x^{5}
+155;- VD.x - VD.x^{9} - VD + VD.x^{7} + VD.x^{8} + VD.x^{6} - VD.x^{2} - VD.x^{5} - VD.x^{3} + VD.x^{4}
+156;VD.x^{6} + VD.x^{5} - VD.x^{3} - VD.x^{4} - VD.x^{2} - VD.x^{7} + VD.x^{10} + VD.x + VD - VD.x^{8} - VD.x^{9}
+157;VD.x^{3} + VD.x^{5} + VD.x - VD - VD.x^{4} + VD.x^{7} - VD.x^{2} - VD.x^{6}
+158;- VD.x^{2} + VD.x^{4} - VD - VD.x^{3} - VD.x^{5} + VD.x
+159;VD.x^{4} + VD + VD.x^{3} + VD.x + VD.x^{2} - VD.x^{5}
+160;- VD.x - VD - VD.x^{2} - VD.x^{3}
+161;- VD.x - VD.x^{7} - VD.x^{8} - VD.x^{6} - VD.x^{2} - VD.x^{4} - VD - VD.x^{9} - VD.x^{5} - VD.x^{3}
+162;- VD - VD.x^{2} - VD.x^{3} - VD.x
+163;- VD - VD.x^{5} - VD.x^{7} - VD.x^{10} - VD.x^{4} - VD.x^{8} - VD.x^{3} - VD.x^{2} - VD.x - VD.x^{6} - VD.x^{9}
+164;- VD.x - VD
+165;- VD.x^{7} - VD.x^{2} - VD.x - VD.x^{8} - VD.x^{3} - VD.x^{6} - VD.x^{4} - VD - VD.x^{5}
+166;- VD.x^{2} - VD.x^{5} - VD.x^{4} - VD - VD.x^{6} - VD.x^{3} - VD.x
+167;- VD.x^{3} - VD.x^{4} - VD.x - VD.x^{2} - VD
+168;- VD.x^{6} - VD - VD.x^{3} - VD.x - VD.x^{7} - VD.x^{4} - VD.x^{2} - VD.x^{5}
+169;- VD.x^{6} - VD.x^{2} - VD.x^{4} - VD.x^{5} - VD.x^{8} - VD.x^{10} - VD.x^{9} - VD.x^{3} - VD.x^{7} - VD - VD.x
+170;VD.x^{5} + VD.x^{2} + VD + VD.x^{7} + VD.x^{3} + VD.x + VD.x^{8} + VD.x^{6} + VD.x^{4}
+171;VD.x^{5} + VD + VD.x^{6} + VD.x^{2} + VD.x^{4} + VD.x^{3} + VD.x^{8} + VD.x^{7} + VD.x^{10} + VD.x + VD.x^{9}
+172;VD.x + VD.x^{6} + VD.x^{3} + VD + VD.x^{2} + VD.x^{7} + VD.x^{4} + VD.x^{5}
+173;VD.x + VD.x^{2} + VD + VD.x^{3} + VD.x^{4}
+174;VD.x^{2} + VD + VD.x
+175;VD.x^{6} + VD.x^{5} + VD.x^{4} + VD.x^{2} + VD + VD.x^{3} + VD.x
+176;VD + VD.x + VD.x^{3} + VD.x^{2} + VD.x^{4}
+177;VD.x^{3} + VD.x^{2} + VD.x + VD
+178;VD.x^{2} + VD.x^{3} + VD + VD.x
+179;VD + VD.x

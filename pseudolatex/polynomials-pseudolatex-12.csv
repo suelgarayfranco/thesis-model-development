@@ -1,0 +1,31 @@
+;pseudolatex
+360;- VR - VR.x - VR.x^{2} - VR.x^{3} - VR.x^{4}
+361;- VR - VR.x - VR.x^{2} - VR.x^{3} - VR.x^{4} - VR.x^{5} - VR.x^{6} - VR.x^{7} - VR.x^{8} - VR.x^{9}
+362;- VR - VR.x - VR.x^{2} - VR.x^{3} - VR.x^{4} - VR.x^{5} - VR.x^{6} - VR.x^{7}
+363;- VR - VR.x - VR.x^{2} - VR.x^{3} - VR.x^{4} - VR.x^{5} - VR.x^{6} - VR.x^{7} - VR.x^{8} - VR.x^{9}
+364;- VR - VR.x - VR.x^{2} - VR.x^{3} - VR.x^{4} - VR.x^{5} - VR.x^{6} - VR.x^{7}
+365;- VR - VR.x - VR.x^{2} - VR.x^{3} - VR.x^{4}
+366;- VR - VR.x - VR.x^{2}
+367;- VR - VR.x - VR.x^{2} - VR.x^{3} - VR.x^{4} - VR.x^{5} - VR.x^{6} - VR.x^{7} - VR.x^{8}
+368;- VR - VR.x - VR.x^{2} - VR.x^{3} - VR.x^{4} - VR.x^{5} - VR.x^{6} - VR.x^{7} - VR.x^{8} - VR.x^{9} - VR.x^{10}
+369;VR + VR.x + VR.x^{2} + VR.x^{3} + VR.x^{4}
+370;VR + VR.x + VR.x^{2} + VR.x^{3} + VR.x^{4} + VR.x^{5} + VR.x^{6} + VR.x^{7}
+371;VR + VR.x + VR.x^{2} + VR.x^{3} + VR.x^{4} + VR.x^{5} + VR.x^{6}
+372;VR + VR.x + VR.x^{2} + VR.x^{3} + VR.x^{4} + VR.x^{5} + VR.x^{6}
+373;VR + VR.x + VR.x^{2} + VR.x^{3} + VR.x^{4} + VR.x^{5}
+374;VR + VR.x + VR.x^{2} + VR.x^{3} + VR.x^{4} + VR.x^{5} + VR.x^{6} + VR.x^{7}
+375;VR + VR.x
+376;VR + VR.x
+377;VR + VR.x + VR.x^{2}
+378;VR + VR.x + VR.x^{2} + VR.x^{3} + VR.x^{4} + VR.x^{5}
+379;VR.x^{2} + VR.x + VR
+380;VR.x^{4} + VR.x^{3} + VR.x^{2} + VR.x + VR
+381;VR.x - VR
+382;VR.x^{2} + VR.x + VR
+383;- VR.x^{2} + VR.x - VR
+384;VR.x^{5} + VR.x^{4} - VR.x^{3} + VR.x^{2} + VR.x + VR
+385;VR.x^{6} - VR.x^{5} - VR.x^{4} + VR.x^{3} - VR.x^{2} + VR.x + VR
+386;VR.x^{6} - VR.x^{5} - VR.x^{4} - VR.x^{3} - VR.x^{2} + VR.x - VR
+387;VR.x^{9} + VR.x^{8} + VR.x^{7} - VR.x^{6} + VR.x^{5} - VR.x^{4} - VR.x^{3} - VR.x^{2} - VR.x - VR
+388;- VR.x^{8} + VR.x^{7} - VR.x^{6} + VR.x^{5} + VR.x^{4} + VR.x^{3} + VR.x^{2} + VR.x - VR
+389;- VR.x^{3} - VR.x^{2} - VR.x - VR

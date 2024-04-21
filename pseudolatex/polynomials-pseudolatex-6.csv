@@ -1,0 +1,31 @@
+;pseudolatex
+180;- VD.x^{3} + VD.x^{2} + VD.x - VD
+181;VD.x^{2} - VD.x - VD
+182;- VD.x^{5} + VD.x^{4} + VD.x^{3} - VD.x^{2} - VD.x - VD
+183;VD.x^{10} - VD.x^{9} - VD.x^{8} + VD.x^{7} + VD.x^{6} - VD.x^{5} - VD.x^{4} + VD.x^{3} - VD.x^{2} - VD.x - VD
+184;- VD.x^{3} + VD.x^{2} - VD.x - VD
+185;- VD.x^{10} + VD.x^{9} + VD.x^{8} + VD.x^{7} + VD.x^{6} - VD.x^{5} + VD.x^{4} - VD.x^{3} - VD.x^{2} + VD.x - VD
+186;VD.x^{3} + VD.x^{2} - VD.x - VD
+187;- VD.x^{5} - VD.x^{4} + VD.x^{3} - VD.x^{2} + VD.x + VD
+188;VD.x^{6} - VD.x^{5} + VD.x^{4} - VD.x^{3} + VD.x^{2} + VD.x - VD
+189;VD.x^{2} - VD.x - VD
+190;- VD.x
+191;VD.x
+192;- VD.x^{7} + VD
+193;- VD.x^{3} - VD.x + VD
+194;VD.x^{5}
+195;- VD.x^{7} + VD.x^{5} - VD.x^{4} - VD.x^{3} + VD.x^{2} + VD.x - VD
+196;- VD.x^{6} - VD.x^{5} - VD.x^{4} + VD.x
+197;VD.x^{2}
+198;VD.x^{2} + VD
+199;- VD.x^{4}
+200;- VD.x^{5} - VD.x^{2}
+201;- VD.x^{3}
+202;- VD.x^{10} - VD.x^{9} - VD.x^{6} - VD.x^{5}
+203;- VD.x^{9} - VD.x^{8} - VD.x^{3}
+204;- VD.x
+205;- VD.x
+206;- VD.x^{10} - VD.x^{8} - VD.x^{7} - VD.x^{6} - VD.x^{2} - VD.x - VD
+207;- VD.x^{10} - VD.x^{9} - VD.x^{6}
+208;- VD.x^{6} - VD.x^{5} - VD.x^{4} - VD.x^{2} - VD.x - VD
+209;- VD.x^{6} - VD.x^{5} - VD.x^{4} - VD.x^{3} - VD.x^{2}

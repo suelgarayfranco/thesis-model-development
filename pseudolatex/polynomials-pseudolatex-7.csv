@@ -1,0 +1,31 @@
+;pseudolatex
+210;- VC.x^{8}
+211;VC.x^{14} + VF.x^{8} + VF.x^{11} + VC.x^{19} + VN.x^{9} - VC.x^{15} + VC.x^{10}
+212;VF + VC.x^{2}
+213;- VF.x^{3} + VN.x^{2} + VC.x - VF.x^{4}
+214;- VF.x^{8} + VC.x^{19} - VR.x^{11} - VC.x + VN.x^{2} - VC.x^{20} + VC.x^{12}
+215;- VN.x^{5} - VN.x^{12} + VR.x^{15}
+216;VF.x^{11} + VC + VF.x^{10} - VC.x^{9} - VN.x^{5} + VF.x^{2} - VR.x^{12} - VF.x + VR.x^{4}
+217;- VC.x^{7} - VN.x^{3} - VC.x^{8} + VR.x - VR.x^{4} + VR - VC.x^{2}
+218;VF - VF.x^{10} + VN.x^{11} - VF.x^{2} - VC.x^{3} + VF.x - VR.x^{4} - VF.x^{5} + VR.x^{7} - VC.x^{6}
+219;VF.x^{11} - VC.x - VN.x^{10}
+220;- VC.x^{14} + VF.x^{13} - VF.x^{6} - VF.x^{12} + VF.x^{20} - VN.x^{7} + VN.x^{16} + VC.x + VC.x^{10} + VF.x^{9} + VN.x^{17} - VC.x^{11}
+221;VF.x^{5} + VN.x^{2}
+222;VF.x^{3} + VR.x + VR.x^{6} - VR.x^{4}
+223;- VC.x^{8} + VF.x^{9} + VF.x^{7}
+224;- VF.x^{5} + VC - VC.x^{4}
+225;VN.x - VC.x^{15} - VN.x^{7} + VN.x^{10}
+226;- VN.x^{19} - VN.x^{17} - VR + VN.x^{10} + VF.x^{3} + VF.x^{20} - VN.x - VN.x^{5} + VR.x^{8} - VR.x^{4} + VR.x^{2} + VN.x^{18} - VR.x^{16} + VF.x^{13} + VF.x^{7}
+227;- VC.x^{15}
+228;- VR.x^{6} - VC.x + VF + VF.x^{11} - VR.x^{13} + VN.x^{5} - VF.x^{3} - VR.x^{15} + VN.x^{9} + VF.x^{4} - VR.x^{2} + VF.x^{7} - VN.x^{10}
+229;- VF.x^{7} + VF.x^{4} + VR.x^{11} - VN.x^{15} + VN.x^{12} - VN.x + VC.x^{9} - VC.x^{8} + VN.x^{6} - VC.x^{14} - VN.x^{2}
+230;- VC.x^{3} - VF.x^{6} - VF.x + VN.x^{2}
+231;VF.x^{4} - VC.x^{7} - VC.x^{5} + VC.x^{6} - VN.x^{10}
+232;VC - VF.x^{11} - VC.x^{7} - VC.x^{4} + VN.x^{2} - VN.x^{10} - VC.x^{12} + VC.x^{13} - VN.x^{3} + VC.x + VC.x^{8} + VN.x^{9} - VF.x^{5}
+233;VF.x - VN.x^{3} + VC.x^{6} - VN.x^{7} - VN + VN.x^{2}
+234;- VF.x^{11} - VN.x^{13} + VF.x^{2} + VR.x^{15} - VR.x^{7} - VC.x^{17} - VR.x^{4} + VR.x^{6} - VN.x^{12} + VF.x^{16} - VN.x^{14} + VN + VC.x^{5} - VR.x^{8}
+235;- VC.x^{8} + VC.x^{7} - VF.x^{6}
+236;VN.x - VF - VN.x^{7} - VR.x^{9} - VF.x^{2} + VN.x^{11} + VF.x^{13} - VC.x^{5} - VF.x^{4} - VR.x^{8} + VC.x^{3} + VF.x^{12}
+237;VR.x + VN.x^{2}
+238;VC.x^{4} - VF.x^{7} + VC.x^{11}
+239;VF.x^{6}

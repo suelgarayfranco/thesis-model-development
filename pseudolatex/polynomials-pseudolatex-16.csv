@@ -1,0 +1,31 @@
+;pseudolatex
+480;- VC.x^{10} + VC.x^{9} + VC.x^{8} - VC.x^{7} + VC.x^{6} - VC.x^{5} + VC.x^{4} + VC.x^{3} - VC.x^{2} - VC.x + VC
+481;- VC.x^{5} - VC.x^{4} + VC.x^{3} - VC.x^{2} + VC.x + VC
+482;VC.x + VC
+483;VC.x^{6} - VC.x^{5} + VC.x^{4} - VC.x^{3} + VC.x^{2} + VC.x + VC
+484;VC.x^{8} - VC.x^{7} - VC.x^{6} - VC.x^{5} - VC.x^{4} - VC.x^{3} + VC.x^{2} - VC.x - VC
+485;VC.x^{8} + VC.x^{7} - VC.x^{6} - VC.x^{5} - VC.x^{4} + VC.x^{3} - VC.x^{2} + VC.x + VC
+486;- VC.x^{10} + VC.x^{9} - VC.x^{8} + VC.x^{7} - VC.x^{6} - VC.x^{5} - VC.x^{4} - VC.x^{3} + VC.x^{2} - VC.x - VC
+487;VC.x^{6} - VC.x^{5} + VC.x^{4} + VC.x^{3} - VC.x^{2} + VC.x + VC
+488;VC.x^{2} - VC.x - VC
+489;- VC.x^{9} - VC.x^{8} - VC.x^{7} - VC.x^{6} - VC.x^{5} - VC.x^{4} - VC.x^{3} - VC.x^{2} - VC.x - VC
+490;- VC.x^{7} - VC.x^{6} - VC.x^{5} - VC.x^{4} - VC.x^{3} - VC.x^{2} - VC.x - VC
+491;- VC.x^{2} - VC.x - VC
+492;- VC.x^{3} - VC.x^{2} - VC.x - VC
+493;- VC.x^{8} - VC.x^{7} - VC.x^{6} - VC.x^{5} - VC.x^{4} - VC.x^{3} - VC.x^{2} - VC.x - VC
+494;- VC.x^{5} - VC.x^{4} - VC.x^{3} - VC.x^{2} - VC.x - VC
+495;- VC.x - VC
+496;- VC.x^{8} - VC.x^{7} - VC.x^{6} - VC.x^{5} - VC.x^{4} - VC.x^{3} - VC.x^{2} - VC.x - VC
+497;- VC.x^{2} - VC.x - VC
+498;- VC.x^{3} - VC.x^{2} - VC.x - VC
+499;VC.x^{10} + VC.x^{9} + VC.x^{8} + VC.x^{7} + VC.x^{6} + VC.x^{5} + VC.x^{4} + VC.x^{3} + VC.x^{2} + VC.x + VC
+500;VC.x^{5} + VC.x^{4} + VC.x^{3} + VC.x^{2} + VC.x + VC
+501;VC.x^{9} + VC.x^{8} + VC.x^{7} + VC.x^{6} + VC.x^{5} + VC.x^{4} + VC.x^{3} + VC.x^{2} + VC.x + VC
+502;VC.x^{4} + VC.x^{3} + VC.x^{2} + VC.x + VC
+503;VC.x + VC
+504;VC.x^{7} + VC.x^{6} + VC.x^{5} + VC.x^{4} + VC.x^{3} + VC.x^{2} + VC.x + VC
+505;VC.x^{8} + VC.x^{7} + VC.x^{6} + VC.x^{5} + VC.x^{4} + VC.x^{3} + VC.x^{2} + VC.x + VC
+506;VC.x + VC
+507;VC.x^{2} + VC.x + VC
+508;VC.x + VC
+509;VN.x^{6} - VN.x^{5} + VN.x^{7} - VN.x^{8} - VN - VN.x^{2} - VN.x^{3} + VN.x^{4} - VN.x

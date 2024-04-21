@@ -1,0 +1,31 @@
+;pseudolatex
+540;VN.x^{3} + VN.x^{9} + VN.x^{4} + VN + VN.x^{6} + VN.x^{10} + VN.x^{2} + VN.x^{8} + VN.x + VN.x^{5} + VN.x^{7}
+541;VN.x^{6} + VN.x^{5} + VN.x^{4} + VN.x^{2} + VN.x^{3} + VN.x + VN
+542;VN.x^{4} + VN.x^{2} + VN.x^{7} + VN.x^{6} + VN + VN.x^{5} + VN.x + VN.x^{8} + VN.x^{3}
+543;VN.x^{7} + VN.x^{5} + VN.x^{3} + VN.x^{6} + VN.x^{4} + VN.x + VN + VN.x^{2}
+544;VN.x^{6} + VN.x^{2} + VN + VN.x^{10} + VN.x^{4} + VN.x^{3} + VN.x^{9} + VN.x + VN.x^{7} + VN.x^{8} + VN.x^{5}
+545;VN + VN.x
+546;VN.x + VN + VN.x^{3} + VN.x^{2}
+547;VN + VN.x + VN.x^{2} + VN.x^{3}
+548;VN.x^{2} + VN.x^{3} + VN.x^{5} + VN.x + VN + VN.x^{4}
+549;VN + VN.x - VN.x^{2} - VN.x^{3} - VN.x^{4} + VN.x^{5} - VN.x^{6} + VN.x^{7} - VN.x^{8}
+550;- VN - VN.x - VN.x^{2} - VN.x^{3} + VN.x^{4} - VN.x^{5} - VN.x^{6} - VN.x^{7}
+551;VN - VN.x + VN.x^{2} + VN.x^{3} + VN.x^{4} + VN.x^{5} - VN.x^{6} + VN.x^{7} + VN.x^{8}
+552;VN - VN.x - VN.x^{2} - VN.x^{3} + VN.x^{4} - VN.x^{5}
+553;VN - VN.x + VN.x^{2} - VN.x^{3} + VN.x^{4} + VN.x^{5} + VN.x^{6} + VN.x^{7} - VN.x^{8}
+554;VN + VN.x + VN.x^{2} - VN.x^{3} + VN.x^{4} - VN.x^{5} + VN.x^{6} + VN.x^{7} + VN.x^{8}
+555;- VN + VN.x + VN.x^{2} + VN.x^{3} - VN.x^{4} + VN.x^{5} - VN.x^{6} + VN.x^{7} + VN.x^{8} + VN.x^{9} + VN.x^{10}
+556;VN - VN.x + VN.x^{2} - VN.x^{3} + VN.x^{4} + VN.x^{5} - VN.x^{6}
+557;VN - VN.x - VN.x^{2} - VN.x^{3} + VN.x^{4} - VN.x^{5} + VN.x^{6} - VN.x^{7} - VN.x^{8} - VN.x^{9}
+558;- VN - VN.x + VN.x^{2}
+559;- VN - VN.x - VN.x^{2} - VN.x^{3} - VN.x^{4} - VN.x^{5}
+560;- VN - VN.x - VN.x^{2}
+561;- VN - VN.x - VN.x^{2} - VN.x^{3} - VN.x^{4} - VN.x^{5} - VN.x^{6} - VN.x^{7}
+562;- VN - VN.x - VN.x^{2}
+563;- VN - VN.x - VN.x^{2} - VN.x^{3} - VN.x^{4} - VN.x^{5}
+564;- VN - VN.x - VN.x^{2} - VN.x^{3} - VN.x^{4}
+565;- VN - VN.x - VN.x^{2} - VN.x^{3} - VN.x^{4} - VN.x^{5} - VN.x^{6}
+566;- VN - VN.x - VN.x^{2} - VN.x^{3} - VN.x^{4} - VN.x^{5}
+567;- VN - VN.x - VN.x^{2}
+568;- VN - VN.x
+569;VN + VN.x + VN.x^{2} + VN.x^{3} + VN.x^{4} + VN.x^{5} + VN.x^{6} + VN.x^{7} + VN.x^{8}

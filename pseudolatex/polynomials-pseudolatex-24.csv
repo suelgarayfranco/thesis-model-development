@@ -1,0 +1,31 @@
+;pseudolatex
+720;VF.x + VF.x^{2} - VF
+721;VN.x^{6} + VN.x^{4} + VF.x^{5} - VF.x^{3} - VF.x^{2} + VF + VN.x^{9} - VF.x^{11} + VN.x + VN.x^{7} - VN.x^{10} + VN.x^{8}
+722;- VF.x^{4} - VN.x^{9} + VF.x^{10} + VN.x^{8} + VF.x^{13} + VF.x^{3} + VN - VN.x^{7} - VN.x + VN.x^{6} + VF.x^{2} + VF.x^{5} - VN.x^{11} - VF.x^{12}
+723;VF - VN.x
+724;- VN.x^{4} - VN.x^{3} + VN.x^{2} + VF.x + VN.x^{5} + VN
+725;VN.x^{12} - VN + VF.x^{7} - VN.x^{5} + VN.x^{14} + VN.x^{8} - VF.x^{2} - VN.x^{13} + VF.x^{9} - VF.x - VN.x^{10} - VF.x^{11} + VN.x^{6} - VF.x^{3} - VN.x^{4}
+726;VN.x^{2} + VF.x^{5} - VF.x^{4} - VN.x^{13} + VF - VN.x^{11} + VF.x^{10} - VF.x^{12} + VF.x^{14} + VN.x^{3} - VF.x + VN.x^{7} - VN.x^{9} + VF.x^{15} + VF.x^{8} + VF.x^{6}
+727;- VF.x^{10} + VN.x^{5} - VF.x - VF.x^{7} - VN.x^{8} - VN.x^{3} - VF.x^{9} + VF + VF.x^{2} - VN.x^{6} + VF.x^{4}
+728;VF.x^{5} + VF + VF.x^{3} - VN.x^{2} - VN.x^{4} - VF.x
+729;- VN.x^{12} - VF.x^{2} + VN.x^{9} + VN.x + VF + VN.x^{7} + VN.x^{5} + VN.x^{10} + VF.x^{8} + VN.x^{13} - VF.x^{11} + VF.x^{4} - VF.x^{14} - VN.x^{6} - VF.x^{3}
+730;- VF.x - VF
+731;VN.x^{4} + VF.x^{6} - VN.x^{5} + VN.x^{8} - VF.x^{3} - VN.x + VN.x^{2} - VF.x^{11} + VN.x^{7} + VF + VF.x^{9} + VF.x^{10}
+732;- VF.x + VF.x^{3} + VN.x^{2} - VF
+733;- VN + VN.x - VN.x^{12} + VN.x^{9} + VN.x^{2} - VN.x^{8} + VF.x^{3} + VF.x^{11} + VF.x^{6} + VF.x^{7} - VN.x^{4} - VN.x^{10} + VF.x^{5}
+734;- VF - VF.x^{3} - VN.x^{4} + VF.x^{2} - VN.x^{5} - VF.x
+735;- VF.x^{9} - VN.x^{6} + VF.x^{10} + VF.x^{3} - VN.x^{7} + VN - VF.x^{11} + VN.x^{8} - VN.x - VN.x^{4} + VF.x^{2} - VF.x^{5}
+736;VF.x - VF.x^{3} - VN - VN.x^{2}
+737;- VF.x^{7} + VF.x^{2} + VN.x^{8} - VF - VF.x^{4} - VF.x^{9} + VN.x^{6} + VN.x^{5} + VN.x^{3} - VN.x
+738;VN.x^{5} - VN.x^{4} + VF.x^{10} - VF.x + VF.x^{2} - VN.x^{7} - VF.x^{6} + VF.x^{3} - VF.x^{8} + VN + VF.x^{9}
+739;- VN.x^{10} - VF.x^{5} - VF.x^{7} + VN.x^{12} - VF.x^{14} - VF.x^{15} + VN.x^{9} - VN.x^{3} - VN.x + VF.x^{8} + VF + VN.x^{6} - VN.x^{11} + VF.x^{2} - VF.x^{13} + VN.x^{4}
+740;VF.x^{4} + VN.x^{5} - VN.x^{2} - VN.x + VF.x^{3} + VF
+741;- VN.x^{7} + VN.x^{3} - VN.x^{8} + VN.x - VN.x^{5} - VF.x^{10} - VF - VF.x^{6} - VN.x^{9} + VF.x^{2} - VF.x^{4}
+742;- VF.x^{3} + VN.x^{10} - VN.x^{11} + VN.x^{4} - VF.x^{12} - VF.x^{2} - VN.x^{5} - VF.x - VF.x^{7} + VF + VN.x^{6} + VN.x^{8} + VN.x^{9}
+743;- VN.x^{6} + VN.x - VN.x^{2} - VF.x^{3} - VN + VN.x^{4} + VN.x^{5}
+744;VF.x + VN.x^{5} + VN.x^{6} + VN.x^{4} + VF.x^{2} - VF.x^{3} + VF
+745;- VN.x^{8} - VN.x^{5} - VF.x + VF.x^{4} + VN.x^{9} + VF.x^{7} + VF.x^{3} + VN - VF.x^{2} + VN.x^{6}
+746;VN.x^{5} + VN.x^{10} + VN.x^{6} - VF.x^{2} - VN.x^{4} - VN.x^{9} - VN.x^{7} + VF - VN.x^{3} - VN.x^{11} + VN.x - VF.x^{8}
+747;VF.x^{6} - VN.x^{3} + VF.x^{8} + VF.x^{14} - VN.x^{15} - VN.x^{10} - VN + VN.x^{2} - VF.x^{12} - VF.x - VF.x^{7} + VN.x^{4} + VF.x^{5} - VN.x^{13} - VF.x^{11} - VN.x^{9}
+748;- VF.x^{4} - VF.x^{8} + VF.x^{5} + VN.x^{11} - VN.x^{7} + VN.x^{10} - VN.x^{9} + VF.x + VN + VF.x^{2} + VN.x^{6} + VN.x^{3}
+749;- VN.x^{2} + VN.x^{11} - VN.x^{6} + VF.x^{10} + VN.x^{8} + VF.x^{4} + VF - VN.x^{12} + VN.x^{5} + VF.x^{9} - VF.x^{3} - VF.x - VF.x^{7}
