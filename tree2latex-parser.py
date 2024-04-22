@@ -1,5 +1,6 @@
 from dictionaries import isBinaryOperator, isNaryOperator, isUnaryOperator, isFinishOperand, isOperand, isOperator, NaryOperators, BinaryOperators, UnaryOperators,computeString
 import pandas as pd
+import glob
 
 def parse_and_complete_tree(treeString:str):
     tree = treeString.split(',')
@@ -78,7 +79,7 @@ def solveUnaryOperator(tree, operator):
 
 expression = ','.join(['CASES', 'EQ', 'SUM', 'MUL', 'VC', 'y', 'E', 'E', '0', 'EQ', 'SUM', 'MUL', 'VF', 'z', 'E', 'MUL', 'VN', 'y', 'E', 'NEG', 'MUL', 'VF', 'x', 'E', 'E', '0', 'EQ', 'SUM', 'NEG', 'MUL', 'VN', 'x', 'E', 'NEG', 'MUL', 'VC', 'y', 'E', 'E', '0', 'E'])
 
-print(parse_and_complete_tree("CASES,EQ,SUM,NEG,MUL,VN,y,E,NEG,MUL,VN,x,E,E,VN,EQ,SUM,MUL,VF,x,E,NEG,MUL,VF,y,E,E,VN,E"))
+print(parse_and_complete_tree("CASES,EQ,SUM,MUL,VN,d,E,MUL,VN,c,E,MUL,VN,b,E,NEG,MUL,VN,a,E,E,0,EQ,SUM,MUL,VN,d,E,NEG,MUL,VN,c,E,NEG,MUL,VN,b,E,MUL,VN,a,E,E,0,EQ,SUM,NEG,MUL,VF,d,E,MUL,VN,c,E,NEG,MUL,VN,b,E,NEG,MUL,VN,a,E,E,0,EQ,SUM,MUL,VN,d,E,NEG,MUL,VN,c,E,NEG,MUL,VN,b,E,MUL,VF,a,E,E,0,E"))
 
 # UNCOMMENT to translate trees to pseudolatex and insert in file
 '''
@@ -98,3 +99,13 @@ list_df = [df['pseudolatex'][i:i+n] for i in range(0,len(df), n)]
 for idx, x in enumerate(list_df):
     x.to_csv(f'polynomials-pseudolatex-{idx}.csv', sep=';')
 '''
+
+files = glob.glob('./expressions/**/*.csv', recursive=True)
+
+for x in files:
+    tree_df = pd.read_csv(x, header=None, names=['tree'])
+    group = x.split('/')[2].split('_')[1]
+
+    pseudolatex_df = tree_df['tree'].apply(parse_and_complete_tree)
+
+    pseudolatex_df.to_csv(f'./expressions/psudolatex_{group}.csv', header=None, index=None)

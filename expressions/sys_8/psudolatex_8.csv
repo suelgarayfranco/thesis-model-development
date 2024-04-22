@@ -1,0 +1,120 @@
+"\begin{cases}
+- VN.y - VN.x = VN \\ 
+VF.x - VF.y = VN
+\end{cases}"
+"\begin{cases}
+- VF.x - VN.y = VF \\ 
+- VF.x + VN.y = VN
+\end{cases}"
+"\begin{cases}
+VF.y - VN.x = VF \\ 
+- VF.y - VF.x = VN
+\end{cases}"
+"\begin{cases}
+VF.x + VN.y = VN \\ 
+- VN.y + VF.x = VN
+\end{cases}"
+"\begin{cases}
+VN.x - VF.y = VF \\ 
+- VN.x - VN.y = VF
+\end{cases}"
+"\begin{cases}
+VF.y = VN \\ 
+- VN.y - VF.x = VF
+\end{cases}"
+"\begin{cases}
+- VN.y = VF \\ 
+- VF.x = VN
+\end{cases}"
+"\begin{cases}
+- VF.y + VN.x = VN \\ 
+VF.x = VN
+\end{cases}"
+"\begin{cases}
+VN.y = VN \\ 
+VF.x = VN
+\end{cases}"
+"\begin{cases}
+VF.y = VN \\ 
+- VN.y - VN.x = VF
+\end{cases}"
+"\begin{cases}
+- VN.x - VN.y = VN \\ 
+- VF.y - VF.x = VF
+\end{cases}"
+"\begin{cases}
+- VN.x - VN.y = VN \\ 
+- VN.x - VF.y = VF
+\end{cases}"
+"\begin{cases}
+- VN.y - VN.x = VN \\ 
+- VF.x - VF.y = VF
+\end{cases}"
+"\begin{cases}
+- VF.x - VF.y = VF \\ 
+- VF.x - VN.y = VF
+\end{cases}"
+"\begin{cases}
+- VN.y - VN.x = VN \\ 
+- VF.x - VN.y = VF
+\end{cases}"
+"\begin{cases}
+- VN.x = VN \\ 
+- VF.x - VF.y = VF
+\end{cases}"
+"\begin{cases}
+- VF.x = VF \\ 
+- VN.x = VF
+\end{cases}"
+"\begin{cases}
+- VN.x - VF.y = VN \\ 
+- VF.y - VN.x = VN
+\end{cases}"
+"\begin{cases}
+- VF.x - VN.y = VN \\ 
+- VF.y - VF.x = VF
+\end{cases}"
+"\begin{cases}
+- VF.x - VF.y = VF \\ 
+- VN.y = VN
+\end{cases}"
+"\begin{cases}
+VN.y + VN.x = VF \\ 
+VN.x + VF.y = VF
+\end{cases}"
+"\begin{cases}
+VF.x + VN.y = VF \\ 
+VF.y + VF.x = VF
+\end{cases}"
+"\begin{cases}
+VF.y + VF.x = VF \\ 
+VF.y + VF.x = VN
+\end{cases}"
+"\begin{cases}
+VN.x + VN.y = VN \\ 
+VN.y + VN.x = VF
+\end{cases}"
+"\begin{cases}
+VF.x + VF.y = VF \\ 
+VN.y + VF.x = VF
+\end{cases}"
+"\begin{cases}
+VN.y = VN \\ 
+VF.x = VN
+\end{cases}"
+"\begin{cases}
+VN.x + VF.y = VN \\ 
+VN.x = VF
+\end{cases}"
+"\begin{cases}
+VF.y + VN.x = VF \\ 
+VN.x + VF.y = VN
+\end{cases}"
+"\begin{cases}
+VF.y + VN.x = VN \\ 
+VN.x = VF
+\end{cases}"
+"\begin{cases}
+VF.x = VF \\ 
+VF.x + VN.y = VF
+\end{cases}"

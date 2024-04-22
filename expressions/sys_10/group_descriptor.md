@@ -1,19 +1,19 @@
-## Group 8
+## Group 10
 
 - ### Expression Type: 
     `SYSTEM_OF_EQ`
 
 - ### Number of expressions:
-    `30`
+    `50`
 
 - ### Coefficients:
     `[fractional, natural]` 
 
 - ### Parameters:
-    - **variables:** `["x","y"]`
+    - **variables:** `["x","y","z"]`
+    - **is_ordered:** `[true, false]`
+    - **sign:** `['mixed']`
     - **is_complete:** `[true, false]`
-    - **sign:** `['mixed', 'negative', 'positive']`
-    - **is_ordered:** `true`
-    - **homogeneous:** `false`
-    - **both_sides:** `false`, 
-    - **num_equations:** `2`,
+    - **homogeneous:** `[true, false]`
+    - **both_sides:** `[true, false]`, 
+    - **num_equations:** `[2,3]`,

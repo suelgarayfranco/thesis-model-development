@@ -18,13 +18,13 @@
         "is_complete": false
     },
     "systems":{
-        "variables": ["x","y"],
+        "variables": ["a","b","c","d"],
         "is_ordered": false, 
-        "sign": "positive", 
-        "both_sides": false, 
-        "is_complete": true,
-        "num_unknowns": 2,
-        "num_equations": 2,        
-        "homogeneous": true
+        "sign": "mixed", 
+        "both_sides": true, 
+        "is_complete": false,
+        "num_unknowns": 4,
+        "num_equations": 4,        
+        "homogeneous": false
     }
 }

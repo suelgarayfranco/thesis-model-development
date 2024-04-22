@@ -3,6 +3,8 @@ from dictionaries import isNaryOperator, NaryOperators, getRandomNaryOperator, g
 import random
 import numpy as np
 import csv
+import glob
+import os
 import pandas as pd
 
 def removeRandomTerm(terms, degree, order):
@@ -186,12 +188,27 @@ def generate_trees():
     return trees
 
 # UNCOMMENT to generate trees and insert in file
-
+'''
 trees = [[','.join(tree)] for tree in generate_trees()]
 
-with open('expressions/sys_9/expressions_sys_9.csv', 'a') as f:
+with open('expressions/sys_11/expressions_sys_11.csv', 'a') as f:
     writer = csv.writer(f)
     writer.writerows(trees)
-
+'''
 
 #print(generate_trees())
+
+'''dataFrames = []
+
+files = glob.glob('./expressions/**/*.csv', recursive=True)
+
+for x in files:
+    exp_df = pd.read_csv(x, header=None, names=['tree'])
+    group = x.split('/')[2].split('_')[1]
+
+    exp_df['group'] = group
+
+    dataFrames.append(exp_df)
+
+df = pd.concat(dataFrames)
+df.to_csv('./expressions/expression_trees.csv')'''

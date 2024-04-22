@@ -1,0 +1,200 @@
+"\begin{cases}
+- VF.b + VN.c - VN.a - VF.d = VF \\ 
+- VF.b - VN.c + VF.a - VN.d = VN
+\end{cases}"
+"\begin{cases}
+VF.c + VN.d + VF.a + VN.b = VN \\ 
+VF.c + VF.d - VF.a - VN.b = VN
+\end{cases}"
+"\begin{cases}
+- VN.d - VN.a - VN.b - VN.c = VF \\ 
+- VN.d - VN.a + VF.b - VN.c = VF
+\end{cases}"
+"\begin{cases}
+- VF.a + VN.b - VN.c - VN.d = VF \\ 
+VF.a + VF.b - VF.c - VF.d = VF
+\end{cases}"
+"\begin{cases}
+- VF.d + VF.b + VF.a - VN.c = VN \\ 
+VN.d - VN.b - VF.a + VN.c = VN
+\end{cases}"
+"\begin{cases}
+- VF.b - VF.a - VN.c - VN.d = VN \\ 
+- VN.b - VF.a + VN.d - VN.c = VF
+\end{cases}"
+"\begin{cases}
+- VF.d - VF.b - VF.c - VN.a = VF \\ 
+VF.b + VN.a - VN.d - VN.c = VF
+\end{cases}"
+"\begin{cases}
+- VN.b + VN.d - VN.a + VN.c = VN \\ 
+- VN.c + VF.d + VF.a - VF.b = VN
+\end{cases}"
+"\begin{cases}
+- VF.d - VN.c - VN.a - VF.b = VN \\ 
+VF.b + VN.c - VF.a + VN.d = VF
+\end{cases}"
+"\begin{cases}
+VN.b + VF.d + VF.a - VN.c = VF \\ 
+- VN.d - VN.a + VN.c - VF.b = VF
+\end{cases}"
+"\begin{cases}
+- VN.d - VF.a - VN.b - VN.c = VF \\ 
+- VF.b - VN.c + VF.a + VF.d = VN
+\end{cases}"
+"\begin{cases}
+- VF.b + VN.c - VN.a = VN \\ 
+- VF.a - VN.b = VN
+\end{cases}"
+"\begin{cases}
+- VN.a = VF \\ 
+VN.c + VF.d + VN.a - VF.b = VN
+\end{cases}"
+"\begin{cases}
+VN.a - VN.b = VN \\ 
+- VN.b + VN.c + VN.d = VF
+\end{cases}"
+"\begin{cases}
+- VF.c - VN.d - VN.a - VN.b = VF \\ 
+- VF.d - VN.a = VF
+\end{cases}"
+"\begin{cases}
+- VN.c - VN.a - VF.b + VN.d = VN \\ 
+VN.c + VF.a + VF.b + VF.d = VF \\ 
+VN.c + VF.a + VF.b + VN.d = VF
+\end{cases}"
+"\begin{cases}
+VF.d + VF.c + VF.a - VN.b = VN \\ 
+VN.d + VF.c + VF.a - VF.b = VN \\ 
+VN.d - VN.c - VF.a + VN.b = VN
+\end{cases}"
+"\begin{cases}
+- VF.d - VF.c + VN.a + VN.b = VN \\ 
+VN.d + VF.c + VF.a - VF.b = VN \\ 
+- VF.d + VN.c - VF.a + VN.b = VN
+\end{cases}"
+"\begin{cases}
+VF.d + VF.a + VN.b - VN.c = VN \\ 
+VN.d + VN.a - VN.b + VF.c = VN \\ 
+- VN.d + VF.a - VN.b - VF.c = VN
+\end{cases}"
+"\begin{cases}
+- VN.b - VF.a + VN.c + VN.d = VF \\ 
+VF.b - VN.a - VN.c + VF.d = VF \\ 
+- VF.b - VF.a - VN.c - VF.d = VN
+\end{cases}"
+"\begin{cases}
+VN.b + VN.c + VN.a - VN.d = VN \\ 
+VN.d - VF.a - VF.c + VF.b = VN \\ 
+VN.c - VN.b - VF.d - VN.a = VN
+\end{cases}"
+"\begin{cases}
+VN.d + VF.a + VF.b + VF.c = VN \\ 
+- VN.a - VN.d + VF.c + VN.b = VN \\ 
+VN.a + VN.b + VN.d + VN.c = VN
+\end{cases}"
+"\begin{cases}
+VN.b + VN.c + VN.d - VN.a = VN \\ 
+VF.d - VF.a - VN.b + VN.c = VN \\ 
+- VN.b + VN.d + VN.a + VF.c = VF
+\end{cases}"
+"\begin{cases}
+- VN.d + VF.c + VF.b + VF.a = VF \\ 
+VN.d + VN.c - VN.a - VF.b = VF \\ 
+- VF.c + VF.a + VN.d + VF.b = VN
+\end{cases}"
+"\begin{cases}
+VN.d + VF.a + VN.b + VF.c = VN \\ 
+- VF.b + VF.d + VF.a - VN.c = VN \\ 
+- VF.d + VN.c + VN.b + VN.a = VF
+\end{cases}"
+"\begin{cases}
+VN.d + VN.c + VN.b - VN.a = 0 \\ 
+VN.d - VN.c - VN.b + VN.a = 0 \\ 
+- VF.d + VN.c - VN.b - VN.a = 0 \\ 
+VN.d - VN.c - VN.b + VF.a = 0
+\end{cases}"
+"\begin{cases}
+- VF.c - VN.a - VN.b - VN.d = 0 \\ 
+VN.c + VN.a - VN.b - VN.d = 0 \\ 
+VF.c + VF.a + VN.b + VN.d = 0 \\ 
+VN.c + VN.a + VN.b - VF.d = 0
+\end{cases}"
+"\begin{cases}
+VF.c + VF.a - VF.b + VN.d = 0 \\ 
+- VN.c + VF.a + VF.b + VF.d = 0 \\ 
+VF.c + VF.a - VN.b + VN.d = 0 \\ 
+VN.c + VN.a - VN.b - VF.d = 0
+\end{cases}"
+"\begin{cases}
+VN.a - VN.c + VN.d - VF.b = 0 \\ 
+VF.a - VF.c + VF.d + VN.b = 0 \\ 
+- VF.a - VF.c - VF.d - VN.b = 0 \\ 
+- VF.a - VN.c - VF.d - VN.b = 0
+\end{cases}"
+"\begin{cases}
+VF.d + VN.b - VF.c + VN.a = 0 \\ 
+- VF.d - VF.b - VF.c - VF.a = 0 \\ 
+- VF.d - VN.b - VN.c - VN.a = 0 \\ 
+VF.d - VN.b + VF.c + VF.a = 0
+\end{cases}"
+"\begin{cases}
+VN.c + VN.a = VN.d + VF.b + VF \\ 
+VF = - VN.d - VN.b - VF.c + VN.a \\ 
+- VN.d + VN.c = VN.b - VF.a + VF \\ 
+VF = VN.c + VF.b - VN.a + VF.d
+\end{cases}"
+"\begin{cases}
+VF.c = - VN.b - VN.d - VF.a + VF \\ 
+- VF.c + VF.a - VN.d = VN.b + VF \\ 
+VF = - VN.b + VN.d - VN.c + VF.a \\ 
+- VN.c - VF.d + VF.a = VF.b + VN
+\end{cases}"
+"\begin{cases}
+VN.c = VN.d + VF.b - VN.a + VN \\ 
+- VN.a = - VF.c + VN.b - VF.d + VF \\ 
+VF.a + VN.d = VF.c + VN.b + VF \\ 
+- VN.c = VN.b + VN.a - VF.d + VN
+\end{cases}"
+"\begin{cases}
+- VN.b + VN.a - VN.c = - VN.d + VN \\ 
+- VF.b + VF.c - VN.a = VN.d + VN \\ 
+- VN.d - VF.a = VN.c + VF.b + VF \\ 
+VF.c = VF.d - VN.a + VF.b + VN
+\end{cases}"
+"\begin{cases}
+VN = VN.b - VF.a - VF.c + VN.d \\ 
+VN.a + VF.b = VN.d - VN.c + VF \\ 
+VF.c + VF.d = - VF.b - VN.a + VN \\ 
+VN.d = - VN.b + VN.a - VF.c + VN
+\end{cases}"
+"\begin{cases}
+- VN.d + VF.b = VF.c + VN \\ 
+VF = - VN.a + VN.b + VN.c \\ 
+- VF.b - VN.c = - VN.a + VF.d + VN \\ 
+VF.b = - VF.a - VF.d + VF
+\end{cases}"
+"\begin{cases}
+- VF.c + VN.a - VN.b = - VF.d + VF \\ 
+- VF.c = - VN.a + VF.b + VF \\ 
+VF.d = - VN.a - VN.b + VN \\ 
+VN.b = VF.c - VF.d - VN.a + VF
+\end{cases}"
+"\begin{cases}
+- VF.c = VF.a + VN \\ 
+- VF.b + VF.d + VF.a = VN.c + VF \\ 
+VF = - VF.b \\ 
+VN = - VF.c
+\end{cases}"
+"\begin{cases}
+- VN.c = VF.a - VF.b + VF \\ 
+VN = VN.b - VN.d + VN.a \\ 
+VF = VN.b + VF.d \\ 
+- VF.b + VF.d + VF.a = - VF.c + VF
+\end{cases}"
+"\begin{cases}
+VF = VN.d - VN.b \\ 
+- VF.c = - VF.a - VN.d + VN \\ 
+- VF.c = VF.b + VN \\ 
+VF = - VF.b + VF.d - VN.a
+\end{cases}"
