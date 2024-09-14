@@ -1,0 +1,45 @@
+- VFx - VF
+- VFx - VF
+- VFx^{3} - VFx^{2} - VFx - VF
+- VFx^{7} - VFx^{6} - VFx^{5} - VFx^{4} - VFx^{3} - VFx^{2} - VFx - VF
+- VFx^{4} - VFx^{3} - VFx^{2} - VFx - VF
+VFx^{6} + VFx^{5} + VFx^{4} + VFx^{3} + VFx^{2} + VFx + VF
+VFx^{3} + VFx^{2} + VFx + VF
+VFx^{4} + VFx^{3} + VFx^{2} + VFx + VF
+VFx^{6} + VFx^{5} + VFx^{4} + VFx^{3} + VFx^{2} + VFx + VF
+VFx^{5} + VFx^{4} + VFx^{3} + VFx^{2} + VFx + VF
+VFx^{6} - VFx^{5} + VFx^{4} - VFx^{3} + VFx^{2} + VFx + VF
+- VFx^{4} + VFx^{3} - VFx^{2} + VFx + VF
+- VFx^{6} + VFx^{5} - VFx^{4} + VFx^{3} + VFx^{2} + VFx + VF
+- VFx^{5} + VFx^{4} + VFx^{3} + VFx^{2} + VFx - VF
+VFx^{8} - VFx^{7} - VFx^{6} + VFx^{5} - VFx^{4} - VFx^{3} + VFx^{2} - VFx - VF
+VF + VFx - VFx^{2} + VFx^{3} - VFx^{4} - VFx^{5} + VFx^{6} - VFx^{7} - VFx^{8}
+VF - VFx + VFx^{2} + VFx^{3} - VFx^{4} - VFx^{5}
+VF + VFx + VFx^{2} + VFx^{3} + VFx^{4} - VFx^{5} + VFx^{6}
+VF + VFx - VFx^{2}
+- VF + VFx
+- VF - VFx - VFx^{2} - VFx^{3} - VFx^{4} - VFx^{5} - VFx^{6} - VFx^{7}
+- VF - VFx - VFx^{2} - VFx^{3}
+- VF - VFx
+- VF - VFx - VFx^{2} - VFx^{3} - VFx^{4} - VFx^{5} - VFx^{6}
+- VF - VFx - VFx^{2} - VFx^{3} - VFx^{4} - VFx^{5} - VFx^{6} - VFx^{7}
+VF + VFx + VFx^{2} + VFx^{3} + VFx^{4} + VFx^{5} + VFx^{6} + VFx^{7}
+VF + VFx + VFx^{2} + VFx^{3}
+VF + VFx + VFx^{2} + VFx^{3} + VFx^{4} + VFx^{5} + VFx^{6} + VFx^{7} + VFx^{8}
+VF + VFx
+VF + VFx + VFx^{2}
+VFx^{4} + VFx^{3} + VFx^{6} - VFx^{5} + VF - VFx + VFx^{2}
+VFx^{2} - VF + VFx^{5} + VFx^{3} + VFx - VFx^{4}
+VFx - VFx^{4} - VFx^{2} - VFx^{3} - VF
+VFx^{2} - VFx + VF
+- VF + VFx^{2} - VFx - VFx^{3}
+- VFx^{8} - VFx^{3} - VFx - VFx^{2} - VFx^{7} - VFx^{6} - VFx^{5} - VF - VFx^{4}
+- VFx - VFx^{7} - VFx^{2} - VFx^{4} - VF - VFx^{5} - VFx^{6} - VFx^{3}
+- VFx^{5} - VFx - VF - VFx^{3} - VFx^{7} - VFx^{4} - VFx^{2} - VFx^{6}
+- VFx^{2} - VFx^{4} - VF - VFx - VFx^{3}
+- VF - VFx
+VFx^{2} + VF + VFx^{3} + VFx
+VFx^{3} + VFx + VFx^{4} + VFx^{5} + VFx^{2} + VF + VFx^{6}
+VF + VFx + VFx^{2} + VFx^{4} + VFx^{3}
+VFx^{3} + VF + VFx^{6} + VFx^{5} + VFx^{2} + VFx + VFx^{7} + VFx^{4}
+VF + VFx

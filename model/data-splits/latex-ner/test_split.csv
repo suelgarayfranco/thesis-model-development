@@ -1,0 +1,144 @@
+input,target
+generar pseudolatex: Polinomio de grado 7 completo con coeficientes enteros,- VNx^{7} - VNx^{6} - VNx^{5} + VNx^{4} + VNx^{3} + VNx^{2} + VNx - VN
+generar pseudolatex: Sistema de tres ecuaciones. Una de ellas de tres variables y las dos restantes de dos variables o incógnitas.,\begin{cases} VF = - VN.x - VN.y \\VN.y = - VF.x + VN.z + VN \\VF = VF.x + VN.z \end{cases}
+generar pseudolatex: Polinomio completo de séptimo grado con todos sus coeficientes decimales negativos. El polinomio está ordenado en orden descendente,- VDx^{7} - VDx^{6} - VDx^{5} - VDx^{4} - VDx^{3} - VDx^{2} - VDx - VD
+generar pseudolatex: un polinomio de noveno grado incompleto con variable z,VC.z^{9} + VC.z^{7} - VC.z^{8}
+generar pseudolatex: Sistema de ecuaciones,\begin{cases} VF.x + VF.y = VF \\VN.y + VF.x = VF \end{cases}
+"generar pseudolatex: Sistema de ecuacion de 2 ecuaciones lineales de dos variables, con coeficientes distintos de 0",\begin{cases} VN.x + VN.y = VN \\VN.y + VN.x = VF \end{cases}
+generar pseudolatex: Polinomio de grado 1 incompleto con 1 término,VFx
+generar pseudolatex: polinomio de grado 4 con cinco terminos,VNx^{4} + VNx^{3} + VNx^{2} + VNx - VN
+generar pseudolatex: Sistema de ecuaciones homogeneo,\begin{cases} VF.y + VF.x = 0 \\VF.y + VF.x = 0 \end{cases}
+"generar pseudolatex: Sistema de ecuaciones de 4 incógnitas y dos ecuaciones, compatible indeterminado",\begin{cases} - VF.b + VN.c - VN.a - VF.d = VF \\- VF.b - VN.c + VF.a - VN.d = VN \end{cases}
+"generar pseudolatex: Polinomio con coeficientes complejo y naturales, de noveno grado e incompleto. Tiene 5 términos",- VC.z^{4} - VNz^{8} + VC.z^{6} - VNz^{9} + VN
+"generar pseudolatex: Polinomio de grado 15, con siete términos, y todos ellos restando",- VNx^{10} - VNx^{9} - VNx^{8} - VFx^{3} - VNx^{4} - VN - VFx^{15}
+generar pseudolatex: Polinomio de grado uno incompleto con uno término,VFx
+generar pseudolatex: Polinomio en orden ascendente de potencias de quinto grado con valores fraccionarios,VF - VFx + VFx^{2} + VFx^{3} - VFx^{4} - VFx^{5}
+"generar pseudolatex: Sist. de ecuaciones, dos variables, dos ecuaciones. Homogeneo",\begin{cases} - VF.y + VN.x = 0 \\- VF.y + VN.x = 0 \end{cases}
+"generar pseudolatex: Una expresión polinomica de grado 4, con coeficiente principal 38.3, coeficiente de grado 3 de 1.5, coeficiente de grado 2 de 6.3, coeficiente primer grado de 13.1 y termino independiente de 4",VD - VDx^{2} - VDx^{3} + VDx - VDx^{4}
+"generar pseudolatex: sistema de ecuaciones de 2 ecuaciones igualadas a 0, con 2 incognitas",\begin{cases} - VN.x - VF.y = 0 \\- VF.x - VN.y = 0 \end{cases}
+"generar pseudolatex: Polinomio incompleto de cuarto grado en indeterminada ""y"", le falta solo el termino independiente. El coeficiente principal es un número complejo",- VC.y^{4} - VNy^{3} - VC.y - VNy^{2}
+generar pseudolatex: Polinomio séptimo grado ordendo de forma de grado decreciente,- VFx^{7} - VFx^{6} - VFx^{5} - VFx^{4} - VFx^{3} - VFx^{2} - VFx - VF
+"generar pseudolatex: Sistema lineal de dos ecuaciones con cuatro incógnitas. Las ecuaciones están completas y tienen variables a, b, c y d",\begin{cases} - VF.b + VN.c - VN.a - VF.d = VF \\- VF.b - VN.c + VF.a - VN.d = VN \end{cases}
+"generar pseudolatex: polinomio de grado 4 incompleto con 1 termino de coeficiente negativo y variable ""y""",- VNy^{4}
+generar pseudolatex: Polinomio de grado siete completo de 8 terminos,VNx^{7} + VNx^{6} + VNx^{5} + VNx^{4} + VNx^{3} + VNx^{2} + VNx + VN
+generar pseudolatex: Polinomio de grado cuatro incompleto con tres terminos y coeficiente principal -119,- VNx^{4} - VFx^{3} - VN
+"generar pseudolatex: un polinomio de 7 términos completo, de grado seis siendo las constantes que acompañan a las variables números naturales",VNx^{4} + VN + VNx + VNx^{3} + VNx^{6} + VNx^{5} + VNx^{2}
+"generar pseudolatex: Sistema de dos ecuaciones, homogéneo, completo y en orden.  Tiene coeficientes negativos",\begin{cases} - VN.x - VN.y = 0 \\- VF.x - VF.y = 0 \end{cases}
+generar pseudolatex: Polinomio de grado dos de 3 terminos. Su coeficiente principal es 2/13.,VF + VFx + VFx^{2}
+generar pseudolatex: Polinomio incompleto de grado 10 con 3 terminos,VNy^{9} + VFy^{10} - VFy^{7}
+generar pseudolatex: Polinomio de grado 3 completo con variable x,- VFx^{3} - VFx^{2} - VFx - VF
+generar pseudolatex: Polinomio completo y en orden descendiente. El grado es 2 y los coeficientes son complejos negativos,- VC.x^{2} - VC.x - VC
+generar pseudolatex: Polinomio de décimo grado,VR + VRx + VRx^{2} - VRx^{3} - VRx^{4} - VRx^{5} + VRx^{6} - VRx^{7} - VRx^{8} + VRx^{9} + VRx^{10}
+"generar pseudolatex: Polinomio de grado 6, coeficiente principal -75/154, incompleto",- VNx^{3} - VFx^{6}
+generar pseudolatex: Polinomio de grado cuatro completo,- VRx^{4} - VRx^{3} - VRx^{2} - VRx - VR
+generar pseudolatex: Sistema de ecuaciones con dos incógnitas,\begin{cases} - VN.x - VF.y = 0 \\- VF.x - VN.y = 0 \end{cases}
+generar pseudolatex: Polinomio de primer grado incompleto con 1 término,VFx
+"generar pseudolatex: Sistema de ecuacion de dos ecuaciones lineales de dos variables, con coeficientes distintos de 0",\begin{cases} VN.x + VN.y = VN \\VN.y + VN.x = VF \end{cases}
+"generar pseudolatex: Polinomio de séptimo grado completo, con ocho términos, con coeficiente principal 3, ordenado de menor grado a mayor grado y con una mezcla de coeficientes enteros y fraccionarios",VR + VRx + VRx^{2} + VRx^{3} + VRx^{4} + VRx^{5} + VRx^{6} + VRx^{7}
+generar pseudolatex: Polinomio completo de primer grado con coeficientes negativos,- VR - VRx
+generar pseudolatex: Polinomio de grado 8 completo y en orden ascendente,VR - VRx + VRx^{2} - VRx^{3} + VRx^{4} - VRx^{5} + VRx^{6} - VRx^{7} - VRx^{8}
+"generar pseudolatex: Polinomio de noveno grado incompleto desordenado, variable y, cinco términos, coeficiente principal -24",- VNy^{9} - VC.y^{7} - VNy^{2} + VNy^{3} - VNy
+generar pseudolatex: Polinomio de séptimo grado completo,VNx^{2} + VNx^{6} + VNx + VN - VNx^{7} + VNx^{5} + VNx^{4} - VNx^{3}
+generar pseudolatex: Polinomio de tercer grado completo con variable x,- VFx^{3} - VFx^{2} - VFx - VF
+"generar pseudolatex: Polinomio de grado cinco, hay números complejos, en desorden, tres términos",- VC.y + VN + VC.y^{5}
+generar pseudolatex: Polinomio de grado 8 incompleto,- VC.x^{2} - VC - VC.x^{8} - VC.x^{4} - VC.x^{5} - VC.x - VC.x^{7} - VC.x^{6} - VC.x^{3}
+"generar pseudolatex: Polinomio de grado siete completo, desordenado con todos sus coeficientes fraccionarios y negativos",- VFx - VFx^{7} - VFx^{2} - VFx^{4} - VF - VFx^{5} - VFx^{6} - VFx^{3}
+generar pseudolatex: Polinomio de grado dos incompleto,VC.y^{2}
+generar pseudolatex: Sistema de tres ecuaciones con tres variables. Las dos primeras ecuaciones están incompletas,\begin{cases} - VF.y - VF.z = VN \\VN.y = VF \\- VF.x + VF.z + VF.y = VN \end{cases}
+generar pseudolatex: Polinomio completo de quinto grado con coeficientes imaginarios,VC + VC.x + VC.x^{2} + VC.x^{3} + VC.x^{4} + VC.x^{5}
+"generar pseudolatex: Polinomio de grado doce incompleto, falta un término. Todo los coeficientes son positivos.",VFx^{2} + VNx^{4} + VNx^{7} + VF + VNx^{10} + VNx + VNx^{12} + VNx^{11} + VNx^{9} + VNx^{6} + VFx^{3} + VFx^{5}
+generar pseudolatex: sistema de dos ecuaciones y 3 incognitas,\begin{cases} VN.x + VN.y + VN.z = VF \\- VN.z + VN.y - VF.x = VN \end{cases}
+generar pseudolatex: Polinomio de primer grado incompleto,- VNx
+"generar pseudolatex: Polinomio de grado tres completo. Posee 4 terminos, los terminos dos y tres son negativos.",VD - VDx - VDx^{2} + VDx^{3}
+generar pseudolatex: Polinomio con décimo grado,VRx^{2} + VRx^{3} + VRx^{4} + VR + VRx^{5} + VRx + VRx^{9} + VRx^{7} + VRx^{6} + VRx^{10} + VRx^{8}
+generar pseudolatex: Binomio lineal completo. El coeficiente del término principal es fraccionario negativo,- VRx + VR
+generar pseudolatex: sistema de ecuaciones homogéneo,\begin{cases} VF.y - VN.x + VF.z = 0 \\- VN.x + VN.z - VN.y = 0 \\- VF.z - VN.y - VN.x = 0 \end{cases}
+"generar pseudolatex: polinomio, tiene octavo grado, está ordenado aunque incompleto. El coeficiente principal es -139 y el término independiente es 0.",- VNx^{8} - VNx^{2} - VNx
+generar pseudolatex: polinomio de primer grado completo,- VFx - VF
+generar pseudolatex: Polinomio de grado 6 completo con variable x,VF + VFx + VFx^{2} + VFx^{3} + VFx^{4} - VFx^{5} + VFx^{6}
+generar pseudolatex: Sistema de cuatro ecuaciones con cuatro incognitas. No teniendo todas las incógnitas del mismo lado. Usando coeficientes fraccionarios positivos y negativos,\begin{cases} - VN.d + VF.b = VF.c + VN \\VF = - VN.a + VN.b + VN.c \\- VF.b - VN.c = - VN.a + VF.d + VN \\VF.b = - VF.a - VF.d + VF \end{cases}
+"generar pseudolatex: Polinomio de grado 7 completo, con ocho términos, con coeficiente principal 3, ordenado de menor grado a mayor grado y con una mezcla de coeficientes enteros y fraccionarios",VR + VRx + VRx^{2} + VRx^{3} + VRx^{4} + VRx^{5} + VRx^{6} + VRx^{7}
+"generar pseudolatex: Sistema de ecuaciones conformado de dos ecuaciones. Ecuación 1 de una única variable, ecuación 2 de 2 variables",\begin{cases} VF.x = VF \\VF.x + VN.y = VF \end{cases}
+generar pseudolatex: Polinomio de grado 3 desordenado,VN + VNx^{2} + VNx^{3} + VNx
+generar pseudolatex: Polinomio de cuarto grado completo de 5 terminos,VD + VDx + VDx^{2} + VDx^{3} + VDx^{4}
+generar pseudolatex: Polinomio completo de grado 5 de 6 terminos,- VNx^{5} - VNx^{4} + VNx^{3} - VNx^{2} + VNx - VN
+generar pseudolatex: Polinomio de grado 6 X variable,VRx^{2} + VRx^{3} + VRx^{6} + VRx^{4} + VR + VRx + VRx^{5}
+generar pseudolatex: Polinomio de primer grado con dos términos,- VN - VNx
+generar pseudolatex: Polinomio grado 1,VNx
+"generar pseudolatex: Polinomio con dos coeficientes fraccionarios y uno entero, de grado 9 incompleto",- VFy^{5} - VN + VFy^{9}
+generar pseudolatex: Sistema de dos ecuaciones con tres incognitas,\begin{cases} VN.x + VN.y + VN.z = VF \\- VN.z + VN.y - VF.x = VN \end{cases}
+generar pseudolatex: Polinomio de cuarto grado con coeficientes negativos,- VNx^{3} - VN - VNx^{2} - VNx - VNx^{4}
+"generar pseudolatex: un polinomio de cuatro términos,  de tercer grado completo y con constantes negativas",- VFx^{3} - VFx^{2} - VFx - VF
+generar pseudolatex: polinomio de grado 2 con 2 términos incompleto ,VNy - VFy^{2}
+generar pseudolatex: Polinomio de grado tres incompleto con tres términos. Termino independiente fraccionario,VNx^{3} + VNx + VF
+generar pseudolatex: Polinomio de cuarto grado completo y desordenado. Tiene todos sus coeficientes fraccionarios y negativos,- VFx^{2} - VFx^{4} - VF - VFx - VFx^{3}
+generar pseudolatex: Polinomio de séptimo grado completo y ordenado de forma descendiente,VC.x^{7} + VC.x^{6} + VC.x^{5} + VC.x^{4} + VC.x^{3} + VC.x^{2} + VC.x + VC
+"generar pseudolatex: polinomio de orden 8, no está ordenada y sus coeficientes son fracciones y números enteros",VRx^{3} + VRx^{2} + VR + VRx^{6} + VRx^{4} + VRx + VRx^{7} + VRx^{5} + VRx^{8}
+"generar pseudolatex: Polinomio incompleto, desordenado, de quinto grado con variable ""z""",- VC + VNz^{5} - VNz + VFz^{2}
+generar pseudolatex: Polinomio completo de grado 3,- VNx^{3} - VNx^{2} - VNx - VN
+generar pseudolatex: Sistema de ecuaciones con 3 ecuaciones y 3 incógnitas,\begin{cases} - VF.y + VN.x - VN.z = VF \\VF.y - VN.x + VN.z = VN \\- VN.y - VF.x + VN.z = VF \end{cases}
+"generar pseudolatex: Polinomio de cuarto grado completo y desordenado. Términos enteros y racionales. Coeficiente principal -2, término independiente -39.  Coeficientes negativos. Orden de exponentes: 3, 2, 4, 0, 1",- VRx^{3} - VRx^{2} - VRx^{4} - VR - VRx
+"generar pseudolatex: Sistema de dos ecuaciones con 4 variables a,b,c y d",\begin{cases} - VF.d + VF.b + VF.a - VN.c = VN \\VN.d - VN.b - VF.a + VN.c = VN \end{cases}
+"generar pseudolatex: Polinomio de grado 3 completo. Posee 4 terminos, los terminos dos y 3 son negativos.",VD - VDx - VDx^{2} + VDx^{3}
+"generar pseudolatex: un polinomio de 4 términos,  de grado tres completo y con constantes negativas",- VFx^{3} - VFx^{2} - VFx - VF
+generar pseudolatex: Polinomio de grado 9 X variable,- VR - VRx + VRx^{2} - VRx^{3} + VRx^{4} - VRx^{5} + VRx^{6} + VRx^{7} + VRx^{8} + VRx^{9}
+generar pseudolatex: polinomio de sexto grado completo compuesto de coeficientes racionales y decimales,VRx^{2} + VRx^{3} + VRx^{6} + VRx^{4} + VR + VRx + VRx^{5}
+"generar pseudolatex: Polinomio de grado 9 incompleto desordenado, variable y, 5 términos, coeficiente principal -24",- VNy^{9} - VC.y^{7} - VNy^{2} + VNy^{3} - VNy
+"generar pseudolatex: Polinomio, de grado 7, compuesto por ocho términos y los coeficientes son números complejos",- VC.x^{7} - VC.x^{6} + VC.x^{5} - VC.x^{4} - VC.x^{3} + VC.x^{2} - VC.x - VC
+generar pseudolatex: Polinomio en indeterminada z de grado 13 que incluye tres coeficientes complejos. No está ordenado,VNz^{6} - VNz^{12} + VFz^{7} - VNz - VNz^{13} - VC.z^{11} + VFz^{10} + VC.z^{9} + VC.z^{2} - VNz^{4}
+generar pseudolatex: Polinomio de quinto grado completo y ordenado Coeficientes racionales e irracionales,- VRx^{5} - VRx^{4} - VRx^{3} - VRx^{2} - VRx - VR
+generar pseudolatex: Polinomio de grado 1  X variable,VR - VRx
+"generar pseudolatex: Polinomio incompleto de grado 13 de 13 términos, falta el término con exponente 12.",VNx^{13} + VNx^{11} + VFx^{10} + VNx^{9} + VNx^{8} + VNx^{7} + VNx^{6} + VNx^{5} + VFx^{4} + VFx^{3} + VFx^{2} + VFx + VF
+"generar pseudolatex: Sistema de 2 ecuaciones con 3 incógnitas (x, y, z). Las ecuaciones están completas y desordenadas",\begin{cases} VN.z + VN.y + VF.x = VF \\VN.y + VF.z - VN.x = VN \end{cases}
+generar pseudolatex: Polinomio de séptimo grado completo con coeficientes enteros,- VNx^{7} - VNx^{6} - VNx^{5} + VNx^{4} + VNx^{3} + VNx^{2} + VNx - VN
+"generar pseudolatex: Una expresión polinomica de grado 4, con coeficiente principal 38.3, coeficiente de grado tres de 1.5, coeficiente de grado 2 de 6.3, coeficiente grado uno de 13.1 y termino independiente de 4",VD - VDx^{2} - VDx^{3} + VDx - VDx^{4}
+generar pseudolatex: Polinomio completo de grado 5,VDx^{5} + VDx^{4} + VDx^{3} + VDx^{2} + VDx + VD
+generar pseudolatex: Polinomio completo de tercer grado con 4 términos,VFx^{2} + VF + VFx^{3} + VFx
+generar pseudolatex: Polinomio de grado uno completo,- VRx - VR
+generar pseudolatex: Polinomio completo grado 4,VD + VDx + VDx^{2} + VDx^{3} + VDx^{4}
+generar pseudolatex: Polinomio completo de sexto grado con 7 términos,VR + VRx + VRx^{2} + VRx^{3} + VRx^{4} + VRx^{5} + VRx^{6}
+"generar pseudolatex: Sistema de dos ecuaciones con tres incógnitas, las incógnitas son x, y y z, en un caso, el resultado es una fracción",\begin{cases} - VF.z - VN.x - VN.y = VN \\- VN.z + VF.x + VN.y = VF \end{cases}
+generar pseudolatex: expresion polinomica de grado cinco con seis terminos,- VFx^{5} + VFx^{4} + VFx^{3} + VFx^{2} + VFx - VF
+"generar pseudolatex: Una expresión polinomica de grado 4, con coeficiente principal 38.3, coeficiente de grado 3 de 1.5, coeficiente de grado 2 de 6.3, coeficiente grado 1 de 13.1 y termino independiente de 4",VD - VDx^{2} - VDx^{3} + VDx - VDx^{4}
+generar pseudolatex: Sistema de dos ecuaciones con cuatro incognitas,\begin{cases} - VF.a + VN.b - VN.c - VN.d = VF \\VF.a + VF.b - VF.c - VF.d = VF \end{cases}
+generar pseudolatex: Sistema de dos ecuaciones lineales homogeneo de dos incognitas,\begin{cases} - VF.y - VN.x = 0 \\- VF.x - VF.y = 0 \end{cases}
+generar pseudolatex: Polinomio de grado seis Completo,VRx^{6} + VRx^{5} + VRx^{4} + VRx^{3} + VRx^{2} + VRx + VR
+"generar pseudolatex: Sistema de dos ecuaciones con 3 incógnitas, las incógnitas son x, y y z, en un caso, el resultado es una fracción",\begin{cases} - VF.z - VN.x - VN.y = VN \\- VN.z + VF.x + VN.y = VF \end{cases}
+"generar pseudolatex: Polinomio con coeficientes complejo y naturales, de grado 9 e incompleto. Tiene cinco términos",- VC.z^{4} - VNz^{8} + VC.z^{6} - VNz^{9} + VN
+generar pseudolatex: Sistema de dos ecuaciones homogeneas de variables X e Y,\begin{cases} - VN.y - VF.x = 0 \\VF.x - VF.y = 0 \end{cases}
+generar pseudolatex: Polinomio de sexto grado X variable,VRx^{2} + VRx^{3} + VRx^{6} + VRx^{4} + VR + VRx + VRx^{5}
+generar pseudolatex: Polinomio quinto grado completo y ordenado,VR + VRx + VRx^{2} + VRx^{3} + VRx^{4} + VRx^{5}
+generar pseudolatex: Es un monomio de primer grado con un coeficiente principal igual a 25,VNz
+generar pseudolatex: Un polinomio de 4to grado con coeficientes enteros negativos. Es completo y desordenado,- VNx^{3} - VN - VNx^{2} - VNx - VNx^{4}
+"generar pseudolatex: Polinomio de dos términos, con maximo exponente 1",- VF - VFx
+"generar pseudolatex: Una expresión polinomica de grado 4, con coeficiente principal 38.3, coeficiente de grado 3 de 1.5, coeficiente de grado dos de 6.3, coeficiente primer grado de 13.1 y termino independiente de 4",VD - VDx^{2} - VDx^{3} + VDx - VDx^{4}
+generar pseudolatex: Sistema homogéneo de 2 ecuaciones y 2 incógnitas usando coeficientes enteros escritos de forma fraccionaria,\begin{cases} VF.y + VF.x = 0 \\VN.y + VF.x = 0 \end{cases}
+generar pseudolatex: Polinomio de grado 5 completo con coeficientes negativos,VN + VNx + VNx^{2} + VNx^{3} + VNx^{4} + VNx^{5}
+"generar pseudolatex: Sistema de cuatro ecuaciones lineales con cuatro variables: d, a, b, c",\begin{cases} VF.d + VN.b - VF.c + VN.a = 0 \\- VF.d - VF.b - VF.c - VF.a = 0 \\- VF.d - VN.b - VN.c - VN.a = 0 \\VF.d - VN.b + VF.c + VF.a = 0 \end{cases}
+"generar pseudolatex: sistema de ecuaciones de cuatro variables y tres ecuaciones, no homogeneo con coeficientes reales y fraccionarios",\begin{cases} VN.d + VF.a + VF.b + VF.c = VN \\- VN.a - VN.d + VF.c + VN.b = VN \\VN.a + VN.b + VN.d + VN.c = VN \end{cases}
+generar pseudolatex: Polinomio completo de grado 2,VN - VNx - VNx^{2}
+generar pseudolatex: Polinomio de grado nueve con números complejos,VC.z^{9} + VC.z^{7} - VC.z^{8}
+generar pseudolatex: Polinomio de décimo grado con todos los coeficientes distintos de 0,VR + VRx + VRx^{2} - VRx^{3} - VRx^{4} - VRx^{5} + VRx^{6} - VRx^{7} - VRx^{8} + VRx^{9} + VRx^{10}
+"generar pseudolatex: Polinomio de grado ocho completo, con nueve términos, está en orden",VRx^{8} + VRx^{7} + VRx^{6} + VRx^{5} + VRx^{4} + VRx^{3} + VRx^{2} + VRx + VR
+generar pseudolatex: polinomio de grado 7,VR + VRx + VRx^{2} + VRx^{3} + VRx^{4} + VRx^{5} + VRx^{6} + VRx^{7}
+generar pseudolatex: Polinomios de quinto grado Coeficiente independiente 2/3 Polinomios completo. Cantidad de términos 5 Ordenado,VRx^{5} + VRx^{4} + VRx^{3} + VRx^{2} + VRx + VR
+"generar pseudolatex: Polinomio de grado 8, completo, con nueve términos",- VNx^{2} + VNx^{3} - VNx + VNx^{4} - VN - VNx^{7} + VNx^{8} + VNx^{5} - VNx^{6}
+generar pseudolatex: Polinomio incompleto de grado 10 con variable y,- VNy^{3} - VC + VC.y^{6} - VNy^{10} - VNy^{5} - VNy
+"generar pseudolatex: polinomio grado 12, incompleto, cuatro términos, coeficiente principal 39",VNx^{12} + VNx^{4} + VNx^{2} + VNx
+generar pseudolatex: Polinomio de grado 8 incompleto,- VNx^{8}
+generar pseudolatex: Polinomio grado 12 incompleto,VFz^{11} + VC.z^{12}
+generar pseudolatex: Polinomio de quinto grado de coeficientes positivos y completo. Está en orden,VN + VNx + VNx^{2} + VNx^{3} + VNx^{4} + VNx^{5}
+"generar pseudolatex: Es el opuesto a un polinomio de grado 5, compuesto por 6 términos dónde los coeficientes son números racionales",- VDx^{5} - VDx^{4} + VDx^{3} - VDx^{2} - VDx - VD
+generar pseudolatex: Polinomio de segundo grado completo y con números decimales,VDx + VD + VDx^{2}
+generar pseudolatex: es un polinomio completo de grado uno con coeficiente principal 6/13 y termino independiente 14/3,VF + VFx
+"generar pseudolatex: Polinomios de coeficientes reales, ordenados de mayor a menor grado, a excepción del grado 9,8 y 4",VFx^{14} + VNx^{13} + VFx^{12} + VNx^{11} + VFx^{10} + VNx^{7} + VFx^{6} + VFx^{5} + VNx^{3} + VNx^{2} + VNx + VN
+generar pseudolatex: Polinomio de grado 9 con números complejos,VC.z^{9} + VC.z^{7} - VC.z^{8}
+generar pseudolatex: polinomio grado 7 completo con coeficientes racionales,- VFx^{5} - VFx - VF - VFx^{3} - VFx^{7} - VFx^{4} - VFx^{2} - VFx^{6}
+"generar pseudolatex: polinomio de grado nueve incompleto con numeros complejos, fracciones y enteros",VNz^{7} + VC - VFz - VC.z^{3} + VC.z^{8} + VNz^{5} + VNz^{9}
+generar pseudolatex: polinomio de grado seis completo compuesto de coeficientes racionales y decimales,VRx^{2} + VRx^{3} + VRx^{6} + VRx^{4} + VR + VRx + VRx^{5}
+generar pseudolatex: Polinomio incompleto de grado ocho con variable z,- VC.z^{2} + VNz + VNz^{5} + VNz^{8} + VN - VFz^{3} - VNz^{7} - VNz^{6}
+generar pseudolatex: Polinomio octavo grado,- VNx^{8}
+"generar pseudolatex: Polinomio incompleto y ordenado de forma descendiente, de grado 14 con números mayores a 100 y todos positivos",VFx^{14} + VNx^{13} + VFx^{12} + VNx^{11} + VFx^{10} + VNx^{7} + VFx^{6} + VFx^{5} + VNx^{3} + VNx^{2} + VNx + VN
+generar pseudolatex: Polinomio fraccionario de grado siete completo,- VR - VRx - VRx^{2} - VRx^{3} - VRx^{4} - VRx^{5} - VRx^{6} - VRx^{7}
+"generar pseudolatex: polinomio grado 12, incompleto y solo cuatro términos con coeficientes enteros positivos",VNx^{12} + VNx^{4} + VNx^{2} + VNx
+generar pseudolatex: Polinomio de sexto grado con con una constante de número complejo,- VNy^{4} - VNy^{3} + VNy^{6} + VNy - VC.y^{5} + VF

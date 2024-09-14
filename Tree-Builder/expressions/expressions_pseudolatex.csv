@@ -1,0 +1,91 @@
+,pseudolatex
+0,- VRx - VR
+1,VR - VRx
+2,VRx^{6} + VRx^{4} + VRx^{5} - VR + VRx^{3} - VRx^{2} + VRx
+3,VRx + VRx^{2} - VR
+4,- VRx + VR
+5,VRx^{3} + VR - VRx^{5} + VRx^{4} + VRx^{2} + VRx
+6,- VR - VRx
+7,- VRx^{6} - VRx^{4} + VRx^{3} - VRx^{2} + VR - VRx^{5} + VRx - VRx^{7}
+8,- VRx^{6} + VRx - VRx^{4} + VR - VRx^{3} + VRx^{2} + VRx^{5}
+9,- VRx^{4} - VR + VRx^{3} - VRx + VRx^{9} - VRx^{10} + VRx^{7} - VRx^{5} - VRx^{6} - VRx^{2} + VRx^{8}
+10,- VRx^{2} - VRx^{4} - VRx - VRx^{5} - VRx^{3} - VRx^{6} - VR
+11,- VRx - VR - VRx^{2} - VRx^{3}
+12,- VRx^{3} - VRx^{2} - VRx^{4} - VR - VRx
+13,- VRx^{5} - VRx^{2} - VR - VRx^{4} - VRx - VRx^{3}
+14,- VR - VRx^{2} - VRx^{5} - VRx^{4} - VRx^{6} - VRx^{3} - VRx^{7} - VRx
+15,- VR - VRx^{3} - VRx^{5} - VRx - VRx^{2} - VRx^{4}
+16,- VRx^{5} - VRx^{4} - VRx^{3} - VRx^{2} - VRx - VR
+17,- VRx^{2} - VRx^{3} - VRx^{6} - VRx - VRx^{5} - VRx^{4} - VR
+18,- VRx^{6} - VRx^{5} - VR - VRx^{4} - VRx^{2} - VRx - VRx^{3}
+19,- VRx - VR
+20,VRx^{2} + VRx^{7} + VRx^{3} + VRx^{4} + VR + VRx^{6} + VRx^{8} + VRx^{9} + VRx^{5} + VRx
+21,VRx^{2} + VRx^{3} + VRx^{4} + VR + VRx^{5} + VRx + VRx^{9} + VRx^{7} + VRx^{6} + VRx^{10} + VRx^{8}
+22,VRx^{2} + VR + VRx
+23,VRx^{4} + VRx + VRx^{6} + VRx^{7} + VRx^{5} + VRx^{2} + VRx^{3} + VRx^{8} + VRx^{9} + VR
+24,VR + VRx
+25,VRx^{2} + VRx^{3} + VRx^{6} + VRx^{4} + VR + VRx + VRx^{5}
+26,VRx^{6} + VRx + VRx^{2} + VRx^{4} + VRx^{3} + VRx^{5} + VRx^{8} + VRx^{7} + VR
+27,VRx^{3} + VRx^{2} + VR + VRx^{6} + VRx^{4} + VRx + VRx^{7} + VRx^{5} + VRx^{8}
+28,VRx^{7} + VRx^{8} + VRx^{5} + VRx^{2} + VRx^{4} + VR + VRx^{3} + VRx + VRx^{6}
+29,VRx + VRx^{4} + VRx^{5} + VRx^{3} + VR + VRx^{2}
+30,- VR + VRx - VRx^{2} - VRx^{3}
+31,VR + VRx + VRx^{2} - VRx^{3} - VRx^{4} - VRx^{5} + VRx^{6} - VRx^{7} - VRx^{8} + VRx^{9} + VRx^{10}
+32,- VR - VRx
+33,VR - VRx + VRx^{2} - VRx^{3} + VRx^{4} - VRx^{5} + VRx^{6} - VRx^{7} - VRx^{8}
+34,VR - VRx - VRx^{2}
+35,VR - VRx + VRx^{2} - VRx^{3} - VRx^{4} - VRx^{5} + VRx^{6}
+36,- VR - VRx
+37,- VR - VRx + VRx^{2} - VRx^{3} + VRx^{4} - VRx^{5} + VRx^{6} + VRx^{7} + VRx^{8} + VRx^{9}
+38,- VR - VRx - VRx^{2} + VRx^{3} + VRx^{4} - VRx^{5} + VRx^{6} + VRx^{7} - VRx^{8} + VRx^{9} - VRx^{10}
+39,VR + VRx + VRx^{2} - VRx^{3} - VRx^{4} - VRx^{5} - VRx^{6} - VRx^{7} + VRx^{8} + VRx^{9} + VRx^{10}
+40,- VR - VRx - VRx^{2} - VRx^{3} - VRx^{4} - VRx^{5}
+41,- VR - VRx - VRx^{2} - VRx^{3} - VRx^{4} - VRx^{5} - VRx^{6}
+42,- VR - VRx
+43,- VR - VRx
+44,- VR - VRx - VRx^{2} - VRx^{3} - VRx^{4}
+45,- VR - VRx - VRx^{2} - VRx^{3} - VRx^{4} - VRx^{5} - VRx^{6} - VRx^{7} - VRx^{8} - VRx^{9}
+46,- VR - VRx - VRx^{2} - VRx^{3} - VRx^{4} - VRx^{5}
+47,- VR - VRx - VRx^{2} - VRx^{3} - VRx^{4} - VRx^{5} - VRx^{6} - VRx^{7}
+48,- VR - VRx - VRx^{2} - VRx^{3} - VRx^{4}
+49,- VR - VRx - VRx^{2} - VRx^{3} - VRx^{4} - VRx^{5}
+50,VR + VRx + VRx^{2} + VRx^{3} + VRx^{4}
+51,VR + VRx + VRx^{2} + VRx^{3}
+52,VR + VRx + VRx^{2}
+53,VR + VRx + VRx^{2} + VRx^{3} + VRx^{4} + VRx^{5}
+54,VR + VRx + VRx^{2} + VRx^{3} + VRx^{4} + VRx^{5} + VRx^{6} + VRx^{7}
+55,VR + VRx + VRx^{2} + VRx^{3} + VRx^{4} + VRx^{5}
+56,VR + VRx + VRx^{2} + VRx^{3}
+57,VR + VRx + VRx^{2} + VRx^{3} + VRx^{4} + VRx^{5} + VRx^{6}
+58,VR + VRx + VRx^{2} + VRx^{3} + VRx^{4}
+59,VR + VRx + VRx^{2} + VRx^{3} + VRx^{4} + VRx^{5} + VRx^{6} + VRx^{7}
+60,- VRx^{4} + VRx^{3} + VRx^{2} + VRx - VR
+61,VRx^{10} + VRx^{9} - VRx^{8} - VRx^{7} - VRx^{6} - VRx^{5} - VRx^{4} - VRx^{3} - VRx^{2} + VRx - VR
+62,VRx^{6} - VRx^{5} - VRx^{4} + VRx^{3} + VRx^{2} + VRx + VR
+63,VRx^{10} + VRx^{9} - VRx^{8} + VRx^{7} - VRx^{6} - VRx^{5} + VRx^{4} + VRx^{3} - VRx^{2} - VRx + VR
+64,VRx^{6} + VRx^{5} - VRx^{4} + VRx^{3} - VRx^{2} + VRx - VR
+65,- VRx^{3} + VRx^{2} + VRx + VR
+66,- VRx^{8} + VRx^{7} - VRx^{6} + VRx^{5} - VRx^{4} - VRx^{3} + VRx^{2} + VRx + VR
+67,- VRx^{6} - VRx^{5} - VRx^{4} - VRx^{3} - VRx^{2} + VRx + VR
+68,- VRx^{6} + VRx^{5} + VRx^{4} - VRx^{3} - VRx^{2} - VRx + VR
+69,VRx - VR
+70,- VRx^{4} - VRx^{3} - VRx^{2} - VRx - VR
+71,- VRx^{7} - VRx^{6} - VRx^{5} - VRx^{4} - VRx^{3} - VRx^{2} - VRx - VR
+72,- VRx^{9} - VRx^{8} - VRx^{7} - VRx^{6} - VRx^{5} - VRx^{4} - VRx^{3} - VRx^{2} - VRx - VR
+73,- VRx^{4} - VRx^{3} - VRx^{2} - VRx - VR
+74,- VRx - VR
+75,- VRx^{9} - VRx^{8} - VRx^{7} - VRx^{6} - VRx^{5} - VRx^{4} - VRx^{3} - VRx^{2} - VRx - VR
+76,- VRx^{10} - VRx^{9} - VRx^{8} - VRx^{7} - VRx^{6} - VRx^{5} - VRx^{4} - VRx^{3} - VRx^{2} - VRx - VR
+77,- VRx^{4} - VRx^{3} - VRx^{2} - VRx - VR
+78,- VRx^{3} - VRx^{2} - VRx - VR
+79,- VRx^{10} - VRx^{9} - VRx^{8} - VRx^{7} - VRx^{6} - VRx^{5} - VRx^{4} - VRx^{3} - VRx^{2} - VRx - VR
+80,VRx^{6} + VRx^{5} + VRx^{4} + VRx^{3} + VRx^{2} + VRx + VR
+81,VRx^{4} + VRx^{3} + VRx^{2} + VRx + VR
+82,VRx^{9} + VRx^{8} + VRx^{7} + VRx^{6} + VRx^{5} + VRx^{4} + VRx^{3} + VRx^{2} + VRx + VR
+83,VRx^{5} + VRx^{4} + VRx^{3} + VRx^{2} + VRx + VR
+84,VRx^{3} + VRx^{2} + VRx + VR
+85,VRx^{5} + VRx^{4} + VRx^{3} + VRx^{2} + VRx + VR
+86,VRx^{3} + VRx^{2} + VRx + VR
+87,VRx^{8} + VRx^{7} + VRx^{6} + VRx^{5} + VRx^{4} + VRx^{3} + VRx^{2} + VRx + VR
+88,VRx + VR
+89,VRx^{9} + VRx^{8} + VRx^{7} + VRx^{6} + VRx^{5} + VRx^{4} + VRx^{3} + VRx^{2} + VRx + VR

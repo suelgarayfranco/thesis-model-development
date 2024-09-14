@@ -1,0 +1,30 @@
+{
+    "expression_type": "SYSTEM_OF_EQ",
+    "num_expressions": 5,
+    "coefficients": {
+        "real": false,
+        "complex": false,
+        "fractional": true,
+        "natural": true,
+        "irrational": false,
+        "decimal": false
+    },
+    "polynomials": {
+        "variables": ["z"],
+        "max_degree": 15,
+        "degree": null,
+        "order": null,
+        "sign": "mixed",
+        "is_complete": false
+    },
+    "systems":{
+        "variables": ["a","b","c","d"],
+        "is_ordered": false, 
+        "sign": "mixed", 
+        "both_sides": true, 
+        "is_complete": false,
+        "num_unknowns": 4,
+        "num_equations": 4,        
+        "homogeneous": false
+    }
+}

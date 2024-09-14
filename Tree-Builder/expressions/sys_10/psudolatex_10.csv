@@ -1,0 +1,50 @@
+\begin{cases} VN.y - VN.z - VN.x = VF \\VF.y - VF.z + VN.x = VF \end{cases}
+\begin{cases} VN.z + VF.x - VN.y = VN \\VN.z + VN.x - VF.y = VF \end{cases}
+\begin{cases} - VF.z - VN.x - VN.y = VN \\- VN.z + VF.x + VN.y = VF \end{cases}
+\begin{cases} VN.y - VF.z + VN.x = VF \\VF.y - VN.z - VF.x = VN \end{cases}
+\begin{cases} VF.y + VF.x + VF.z = VF \\- VF.y + VN.x - VN.z = VN \end{cases}
+\begin{cases} VN.x + VN.y + VN.z = VF \\- VN.z + VN.y - VF.x = VN \end{cases}
+\begin{cases} VF.y + VF.z - VF.x = VF \\VF.z - VF.y - VF.x = VF \end{cases}
+\begin{cases} VN.z + VN.y + VF.x = VF \\VN.y + VF.z - VN.x = VN \end{cases}
+\begin{cases} - VN.y - VF.z + VF.x = VF \\- VF.x - VN.y + VN.z = VN \end{cases}
+\begin{cases} - VF.z - VN.x + VF.y = VF \\- VF.y + VF.x - VN.z = VF \end{cases}
+\begin{cases} VF.x = VN \\VF.x + VN.z + VF.y = VF \end{cases}
+\begin{cases} VF.x - VN.z = VF \\- VF.z + VN.y = VF \end{cases}
+\begin{cases} - VF.x - VN.z = VN \\- VF.z - VF.x = VF \end{cases}
+\begin{cases} VN.z = VF \\VN.z + VF.x + VN.y = VN \end{cases}
+\begin{cases} VF.y = VF \\VN.z = VF \end{cases}
+\begin{cases} - VN.x + VF.z + VN.y = VN \\VN.x - VN.z - VN.y = VF \\- VF.x - VF.z - VN.y = VN \end{cases}
+\begin{cases} - VF.y + VN.x - VN.z = VF \\VF.y - VN.x + VN.z = VN \\- VN.y - VF.x + VN.z = VF \end{cases}
+\begin{cases} VF.z - VN.y + VN.x = VN \\VN.z - VF.y + VF.x = VN \\- VN.z + VF.y + VF.x = VF \end{cases}
+\begin{cases} VN.x - VF.z + VF.y = VN \\VF.x + VN.z - VF.y = VN \\VN.x + VF.z - VF.y = VN \end{cases}
+\begin{cases} - VN.z + VN.y - VF.x = VF \\VN.z - VF.y - VF.x = VF \\VN.z + VF.y + VF.x = VN \end{cases}
+\begin{cases} - VN.z + VF.x + VF.y = VN \\- VN.y + VN.z - VF.x = VN \\VN.x - VF.y - VN.z = VF \end{cases}
+\begin{cases} VN.y - VN.x - VF.z = VN \\- VF.z + VN.x - VN.y = VF \\- VN.x - VF.z + VF.y = VF \end{cases}
+\begin{cases} - VF.x - VN.z - VF.y = VF \\- VN.y + VN.z - VN.x = VN \\VF.x - VN.y + VF.z = VN \end{cases}
+\begin{cases} - VN.y + VF.x + VF.z = VN \\- VF.z + VF.x + VN.y = VF \\- VF.y - VN.z + VN.x = VN \end{cases}
+\begin{cases} VN.z + VN.y + VN.x = VF \\VN.y + VF.z - VF.x = VN \\VN.y - VF.z + VN.x = VF \end{cases}
+\begin{cases} VN.z - VF.x = VF \\- VF.z - VF.y = VN \\- VF.y = VN \end{cases}
+\begin{cases} - VN.y + VN.z = VF \\- VN.x + VN.y = VN \\VN.y - VF.z = VN \end{cases}
+\begin{cases} VF.x + VF.z = VN \\VN.y - VN.z = VF \\- VF.z = VN \end{cases}
+\begin{cases} - VF.y - VF.z = VN \\VN.y = VF \\- VF.x + VF.z + VF.y = VN \end{cases}
+\begin{cases} - VF.z - VF.x + VN.y = VN \\- VN.y + VF.x + VF.z = VF \\VN.y - VN.x = VN \end{cases}
+\begin{cases} VF.y - VF.x = - VF.z + VN \\VF = VF.y + VF.x \\- VF.x = VN.y + VF \end{cases}
+\begin{cases} VN = - VF.y \\VN = - VN.y - VF.z + VF.x \\- VN.y = - VF.x + VF \end{cases}
+\begin{cases} VF = VF.z \\VF.z = VN.y - VF.x + VF \\- VN.y = - VF.z + VN.x + VF \end{cases}
+\begin{cases} VF = - VN.x - VN.y \\VN.y = - VF.x + VN.z + VN \\VF = VF.x + VN.z \end{cases}
+\begin{cases} - VF.y + VF.z = - VF.x + VN \\VN.z = VN.x + VF \\- VN.x = VN.y + VN \end{cases}
+\begin{cases} - VF.y + VF.z + VF.x = 0 \\- VN.y + VF.z - VF.x = 0 \\VF.y - VN.z - VN.x = 0 \end{cases}
+\begin{cases} - VF.z - VN.x - VN.y = 0 \\- VF.z - VF.x + VF.y = 0 \\- VN.z - VF.x - VN.y = 0 \end{cases}
+\begin{cases} - VF.y - VN.z + VN.x = 0 \\- VF.y + VN.z - VF.x = 0 \\VF.y - VF.z - VN.x = 0 \end{cases}
+\begin{cases} - VN.y + VN.z + VF.x = 0 \\VF.y - VN.z + VN.x = 0 \\VN.y + VF.z + VF.x = 0 \end{cases}
+\begin{cases} - VN.y + VF.x + VF.z = 0 \\- VF.y + VF.x - VN.z = 0 \\- VN.y - VF.x - VF.z = 0 \end{cases}
+\begin{cases} - VN.z + VF.y + VF.x = 0 \\- VF.y - VF.x - VN.z = 0 \\- VN.x + VF.y - VF.z = 0 \end{cases}
+\begin{cases} VF.y - VN.z + VF.x = 0 \\- VN.y - VN.x - VF.z = 0 \\- VN.z + VF.x + VF.y = 0 \end{cases}
+\begin{cases} VN.z + VF.x + VF.y = 0 \\- VN.y - VN.x + VF.z = 0 \\VF.y + VF.x - VN.z = 0 \end{cases}
+\begin{cases} - VF.z - VF.x + VF.y = 0 \\VN.z + VF.x - VN.y = 0 \\- VN.y - VF.z + VN.x = 0 \end{cases}
+\begin{cases} VF.y - VN.x + VF.z = 0 \\- VN.x + VN.z - VN.y = 0 \\- VF.z - VN.y - VN.x = 0 \end{cases}
+\begin{cases} - VN.z - VN.y - VN.x = 0 \\VN.y = 0 \\- VF.z = 0 \end{cases}
+\begin{cases} VN.z + VF.x = 0 \\- VF.y = 0 \\VN.z + VF.x = 0 \end{cases}
+\begin{cases} VF.z + VF.y - VF.x = 0 \\VF.x + VN.y - VF.z = 0 \\VN.y - VF.z - VF.x = 0 \end{cases}
+\begin{cases} - VN.z = 0 \\VF.y - VF.z = 0 \\- VN.y + VF.z = 0 \end{cases}
+\begin{cases} - VF.z + VF.x + VN.y = 0 \\VN.x - VN.y = 0 \\- VN.y + VN.z - VN.x = 0 \end{cases}

@@ -1,0 +1,21 @@
+inputs,outputs
+generar pseudolatex: Polinomio de grado 7 completo con coeficientes enteros,- VNx^{7} - VNx^{6} + VNx^{5} + VNx^{4} + VNx^{3} + VNx^{2} + VNx - VN
+generar pseudolatex: Sistema de tres ecuaciones. Una de ellas de tres variables y las dos restantes de dos variables o incógnitas.,\begin{cases} VF.x + VN.z = VN \\VN.y + VF.z = VF \end{cases}
+generar pseudolatex: Polinomio completo de séptimo grado con todos sus coeficientes decimales negativos. El polinomio está ordenado en orden descendente,- VDx^{7} - VDx^{6} - VDx^{5} - VDx^{4} - VDx^{3} - VDx^{2} - VDx - VD
+generar pseudolatex: un polinomio de noveno grado incompleto con variable z,VC.z^{9} + VC.z^{7} - VC.z^{8}
+generar pseudolatex: Sistema de ecuaciones,\begin{cases} VF.x + VN.y = VF \\- VF.x + VN.y = VF \end{cases}
+"generar pseudolatex: Sistema de ecuacion de 2 ecuaciones lineales de dos variables, con coeficientes distintos de 0",\begin{cases} VN.x + VN.y = VN \\VN.y + VN.x = VF \end{cases}
+generar pseudolatex: Polinomio de grado 1 incompleto con 1 término,VFx
+generar pseudolatex: polinomio de grado 4 con cinco terminos,VNx^{4} + VNx^{3} + VNx^{2} + VNx - VN
+generar pseudolatex: Sistema de ecuaciones homogeneo,\begin{cases} VF.y + VF.x = 0 \\VF.y + VF.x = 0 \end{cases}
+"generar pseudolatex: Sistema de ecuaciones de 4 incógnitas y dos ecuaciones, compatible indeterminado",\begin{cases} - VF.d - VN.b - VN.c - VN.a = VN \\- VN.b + VN.a - VN.d - VN.c = VN \end{cases}
+"generar pseudolatex: Polinomio con coeficientes complejo y naturales, de noveno grado e incompleto. Tiene 5 términos",- VC.z^{4} - VNz^{8} + VN
+"generar pseudolatex: Polinomio de grado 15, con siete términos, y todos ellos restando",- VNx^{15} - VNx^{9} - VNx^{8} - VNx^{4} - VNx^{3} - VNx^{2} - VNx - VN
+generar pseudolatex: Polinomio de grado uno incompleto con uno término,VFx
+generar pseudolatex: Polinomio en orden ascendente de potencias de quinto grado con valores fraccionarios,VF - VFx + VFx^{2} - VFx^{3} + VFx^{4} - VFx^{5}
+"generar pseudolatex: Sist. de ecuaciones, dos variables, dos ecuaciones. Homogeneo",\begin{cases} VF.y + VF.x = 0 \\VF.y + VF.x = 0 \end{cases}
+"generar pseudolatex: Una expresión polinomica de grado 4, con coeficiente principal 38.3, coeficiente de grado 3 de 1.5, coeficiente de grado 2 de 6.3, coeficiente primer grado de 13.1 y termino independiente de 4",VD - VDx^{2} - VDx^{3} + VDx - VDx^{4}
+"generar pseudolatex: sistema de ecuaciones de 2 ecuaciones igualadas a 0, con 2 incognitas",\begin{cases} - VN.x - VN.y = 0 \\- VN.x - VF.y = 0 \end{cases}
+"generar pseudolatex: Polinomio incompleto de cuarto grado en indeterminada ""y"", le falta solo el termino independiente. El coeficiente principal es un número complejo",- VC.y^{4} - VNy^{3} - VC
+generar pseudolatex: Polinomio séptimo grado ordendo de forma de grado decreciente,- VFx^{7} - VFx^{6} - VFx^{5} - VFx^{4} - VFx^{3} - VFx^{2} - VFx - VF
+"generar pseudolatex: Sistema lineal de dos ecuaciones con cuatro incógnitas. Las ecuaciones están completas y tienen variables a, b, c y d",\begin{cases} - VF.d - VF.b - VN.c - VN.a - VN.d = VF \\- VF.b + VN.d - VF.a + VN.c = VF \end{cases}

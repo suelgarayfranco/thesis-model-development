@@ -1,0 +1,38 @@
+
+{
+    "base":{
+        "test_loss": 6.9929938316345215, 
+        "test_model_preparation_time": 0.0053, 
+        "test_runtime": 58.7502, 
+        "test_samples_per_second": 2.434, 
+        "test_steps_per_second": 0.306
+    },
+    "pseudolatex": {
+        "test_loss": 0.26089024543762207, 
+        "test_model_preparation_time": 0.0078, 
+        "test_runtime": 58.4961, 
+        "test_samples_per_second": 2.445, 
+        "test_steps_per_second": 0.308
+    },
+    "pseudolatex-ner": {
+        "test_loss": 0.13965684175491333, 
+        "test_model_preparation_time": 0.0103, 
+        "test_runtime": 60.3077, 
+        "test_samples_per_second": 2.371, 
+        "test_steps_per_second": 0.298
+    },
+    "pseudolatex-trees": {
+        "test_loss": 0.12346486747264862, 
+        "test_model_preparation_time": 0.0073, 
+        "test_runtime": 61.7198, 
+        "test_samples_per_second": 2.317, 
+        "test_steps_per_second": 0.292
+    },
+    "complete": {
+        "test_loss": 0.11347503960132599, 
+        "test_model_preparation_time": 0.0066, 
+        "test_runtime": 57.2227, 
+        "test_samples_per_second": 2.499, 
+        "test_steps_per_second": 0.315
+    }
+}

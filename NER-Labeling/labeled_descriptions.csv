@@ -1,0 +1,688 @@
+expr_id,labeled_text
+1,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 10 [B-ATVAL] completo [B-EXCHAR] y [O] en [O] orden [B-ATRIB] descendiente [B-ATVAL]
+7,"polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 1 [B-ATVAL] con [O] coeficientes [B-ELEM] reales [B-NSET] y [O] fraccionarios [B-NSET] completo [B-EXCHAR] , [O] tiene [O] dos [B-ELCOUNT] terminos [B-ELEM] , [O] no [O] está [O] en [O] orden [B-ATRIB]"
+7,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 1 [B-ATVAL] con [O] coeficientes [B-ELEM] negativos [B-ELCHAR]
+35,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 5 [B-ATVAL]
+42,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 3 [B-ATVAL] , [O] ordenado [B-EXCHAR] de [O] menor [O] a [O] mayor [O] , [O] con [O] cuatro [B-ELCOUNT] términos [B-ELEM]"
+47,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] dos [B-ATVAL] . [O]
+56,"Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] sexto [B-ATVAL] grado [B-ATRIB] , [O] con [O] coeficientes [B-ELEM] positivos [B-ELCHAR] y [O] negativos [B-ELCHAR] , [O] enteros [B-NSET] y [O] fraccionarios [B-NSET]"
+56,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 6 [B-ATVAL] con [O] variable [B-ELEM] X [B-VAR]
+84,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 5 [B-ATVAL] completo [B-EXCHAR] y [O] ordenado [B-EXCHAR] Coeficientes [B-ELEM] racionales [B-NSET] e [O] irracionales [B-NSET]
+84,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 5 [B-ATVAL] incompleto [B-EXCHAR] con [O] 5 [B-ELCOUNT] términos [B-ELEM]
+87,"Polinomio [B-EXTYPE] completo [B-EXCHAR] en [O] orden [B-ATRIB] de [O] potencias [O] descendiente [B-ATVAL] , [O] de [O] noveno [B-ATVAL] grado [B-ATRIB] con [O] la [O] mayoría [O] de [O] sus [O] coeficientes [B-ELEM] fraccionarios [B-NSET]"
+98,Ecuación [B-EXTYPE] de [O] grado [B-ATRIB] 6 [B-ATVAL] incompleta [B-EXCHAR]
+98,"Polinomio [B-EXTYPE] desordenado [B-EXCHAR] , [O] completo [B-EXCHAR] de [O] grado [B-ATRIB] 6 [B-ATVAL] con [O] todos [O] sus [O] coeficientes [B-ELEM] negativos [B-ELCHAR] y [O] casi [O] todos [O] fraccionarios [B-NSET]"
+108,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 9 [B-ATVAL] completo [B-EXCHAR]
+115,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 1 [B-ATVAL] completo [B-EXCHAR] con [O] coeficiente [B-ELEM] principal [I-ELEM] 3 [B-ELVAL] / [I-ELVAL] 3 [I-ELVAL]
+115,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 1 [B-ATVAL] completo [B-EXCHAR] con [O] coeficientes [B-ELEM] negativos [B-ELCHAR]
+115,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 1 [B-ATVAL] completo [B-EXCHAR] con [O] coeficiente [B-ELEM] principal [I-ELEM] fraccionario [B-NSET]
+115,Resta [B-EXTYPE] a [O] una [O] variable [B-ELEM] lineal [B-ELCHAR]
+143,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 5 [B-ATVAL] completo [B-EXCHAR]
+143,Polinomio [B-EXTYPE] completo [B-EXCHAR] en [O] orden [B-ATRIB] ascendente [B-ATVAL] de [O] potencias. [O] El [O] grado [B-ATRIB] es [O] 5 [B-ATVAL] y [O] todos [O] los [O] coeficientes [B-ELEM] son [O] negativos [B-ELCHAR]
+153,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL] completo [B-EXCHAR] con [O] coeficientes [B-ELEM] racionales [B-NSET]
+153,polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL]
+161,Polinomio [B-EXTYPE] ordenado [B-EXCHAR] de [O] forma [O] descendiente [B-ATVAL] de [O] grado [B-ATRIB] 9 [B-ATVAL] con [O] coeficientes [B-ELEM] negativos [B-ELCHAR]
+161,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 9 [B-ATVAL]
+165,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 8 [B-ATVAL] incompleto [B-EXCHAR]
+170,Un [O] polinomio [B-EXTYPE] completo [B-EXCHAR] y [O] desordenado [B-EXCHAR] de [O] grado [B-ATRIB] 8 [B-ATVAL] con [O] coeficientes [B-ELEM] fraccionarios [B-NSET] y [O] decimales [B-NSET] positivos [B-ELCHAR]
+170,"polinomio [B-EXTYPE] de [O] orden [B-ATRIB] 8 [B-ATVAL] , [O] no [B-EXCHAR] está [I-EXCHAR] ordenada [I-EXCHAR] y [O] sus [O] coeficientes [B-ELEM] son [O] fracciones [B-NSET] y [O] números [O] enteros [B-NSET]"
+174,"un [O] polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] orden [B-ATRIB] 5 [B-ATVAL] , [O] con [O] todos [O] sus [O] coeficientes [B-ELEM] negativos. [B-ELCHAR] Esta [O] desordenada [B-EXCHAR] con [O] respectos [O] a [O] las [O] potencias [O]"
+174,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] quinto [B-ATVAL] grado [B-ATRIB] con [O] todos [O] los [O] números [B-ELEM] negativos. [B-ELCHAR] Es [O] desordenado [B-EXCHAR] y [O] tiene [O] coeficiente [B-ELEM] principal [I-ELEM] -18 [B-ELVAL]
+179,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL] completo [B-EXCHAR]
+179,polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL] completo [B-EXCHAR] con [O] coeficiente [B-ELEM] negativo [B-ELCHAR] de [O] 25.4 [B-ELVAL]
+186,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 9 [B-ATVAL]
+186,"Un [O] polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 9 [B-ATVAL] sin [B-EXCHAR] orden. [I-EXCHAR] Los [O] coeficientes [B-ELEM] son [O] todo [O] positivos [B-ELCHAR] , [O] de [O] tipo [O] fraccionarios [B-NSET] , [O] enteros [B-NSET] y [O] decimales [B-NSET]"
+190,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] tercer [B-ATVAL] grado [B-ATRIB]
+190,"Polinomio [B-EXTYPE] cúbico [B-EXCHAR] completo [B-EXCHAR] con [O] coeficientes [B-ELEM] decimales [B-NSET] , [O] fraccionarios [B-NSET] y [O] enteros. [B-NSET] El [O] término [B-ELEM] independiente [I-ELEM] es [O] 23 [B-ELVAL] y [O] el [O] coeficiente [B-ELEM] del [I-ELEM] término [I-ELEM] principal [I-ELEM] es [O] decimal. [B-NSET] El [O] polinimio [B-EXTYPE] está [O] ordenado [B-EXCHAR] de [O] forma [O] creciente [O]"
+192,Binomio [B-EXTYPE] lineal [B-EXCHAR] completo. [B-EXCHAR] El [O] coeficiente [B-ELEM] del [I-ELEM] término [I-ELEM] principal [I-ELEM] es [O] fraccionario [B-NSET] negativo [B-ELCHAR]
+192,"Polinomio [B-EXTYPE] lineal [B-EXCHAR] , [O] completo [B-EXCHAR] con [O] 2 [B-ELCOUNT] términos [B-ELEM]"
+196,Polinomio [B-EXTYPE] cuadrático [B-EXCHAR] completo [B-EXCHAR] y [O] desordenado [B-EXCHAR]
+196,Polinomio [B-EXTYPE] de [O] segundo [B-ATVAL] grado [B-ATRIB]
+199,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] nueve [B-ATVAL] con [O] números [B-ELEM] negativos [B-ELCHAR]
+199,Polinomio [B-EXTYPE] de [O] noveno [B-ATVAL] grado [B-ATRIB] completo [B-EXCHAR] y [O] ordenado [B-EXCHAR] de [O] menor [O] a [O] mayor [O]
+212,Un [O] polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 5 [B-ATVAL] completo [B-EXCHAR] y [O] en [B-EXCHAR] orden. [I-EXCHAR] El [O] coeficiente [B-ELEM] principal [I-ELEM] debe [O] ser [O] 3 [B-ELVAL] / [I-ELVAL] 2 [I-ELVAL]
+212,Polinomios [B-EXTYPE] de [O] grado [B-ATRIB] 5 [B-ATVAL] Coeficiente [B-ELEM] independiente [I-ELEM] 2 [B-ELVAL] / [I-ELVAL] 3 [I-ELVAL] Polinomios [B-EXTYPE] completo. [B-EXCHAR] Cantidad [O] de [O] términos [B-ELEM] 5 [B-ELCOUNT] Ordenado [B-EXCHAR]
+215,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 6 [B-ATVAL] , [O] completo [B-EXCHAR] , [O] no [B-EXCHAR] ordenado [I-EXCHAR] y [O] con [O] 7 [B-ELCOUNT] términos [B-ELEM]"
+215,Polinomio [B-EXTYPE] fraccionario [B-NSET] de [O] grado [B-ATRIB] 6 [B-ATVAL] completo [B-EXCHAR]
+217,"polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 7 [B-ATVAL] , [O] completo [B-EXCHAR] , [O] ordenado [B-EXCHAR] de [O] forma [O] creciente [O] y [O] con [O] 8 [B-ELCOUNT] términos [B-ELEM]"
+217,"Polinomio [B-EXTYPE] con [O] coeficientes [B-ELEM] fraccionarios [B-NSET] negativos [B-ELCHAR] de [O] grado [B-ATRIB] 7 [B-ATVAL] , [O] completo [B-EXCHAR]"
+217,Polinomio [B-ATVAL] fraccionario [B-NSET] de [O] grado [B-ATRIB] 7 [B-ATVAL] completo [B-EXCHAR]
+234,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 3 [B-ATVAL] Completo [B-EXCHAR]
+234,"Polinimio [B-EXTYPE] de [O] grado [B-ATRIB] 3 [B-ATVAL] ordenado [B-EXCHAR] , [O] sin [O] coeficientes [B-ELEM] nulos [B-ELCHAR]"
+236,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 5 [B-ATVAL] , [O] desordenado [B-EXCHAR] . [O]"
+236,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 5 [B-ATVAL] completo [B-EXCHAR]
+237,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 6 [B-ATVAL] , [O] ordenado [B-EXCHAR] , [O] con [O] variable=x [B-ELEM] , [O] algunos [O] fracciones [B-NSET]"
+237,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 6 [B-ATVAL] Completo [B-EXCHAR]
+238,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 7 [B-ATVAL]
+249,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 10 [B-ATVAL] completo [B-EXCHAR] y [O] desordenado. [B-EXCHAR] La [O] mayoría [O] de [O] los [O] coeficientes [B-ELEM] son [O] fracciones [B-NSET]
+249,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 10 [B-ATVAL]
+250,Polinomio [B-EXTYPE] de [O] primer [B-ATVAL] grado [B-ATRIB] completo. [B-EXCHAR] Coeficiente [B-ELEM] principal [I-ELEM] 33 [B-ELVAL]
+250,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 1 [B-ATVAL]
+252,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 7 [B-ATVAL]
+254,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 10 [B-ATVAL] , [O] coeficiente [B-ELEM] principal [I-ELEM] 2 [B-ELVAL] / [I-ELVAL] 10 [I-ELVAL] , [O] ordenando [B-EXCHAR] y [O] completo [B-ATRIB]"
+256,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 6 [B-ATVAL] , [O] coeficiente [B-ELEM] principal [I-ELEM] 17 [B-ELVAL] , [O] completo [B-EXCHAR] y [O] ordenado [B-EXCHAR]"
+265,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 1 [B-ATVAL] y [O] numeros [B-ELEM] negativos [B-ELCHAR]
+269,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL] completo [B-EXCHAR]
+273,polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 6 [B-ATVAL] completo [B-EXCHAR] compuesto [O] de [O] coeficientes [B-ELEM] racionales [B-NSET] y [O] decimales [B-NSET]
+273,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 6 [B-ATVAL] X [B-VAR] variable [B-ELEM]
+276,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL] completo [B-EXCHAR]
+277,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 9 [B-ATVAL] completo [B-EXCHAR] y [O] ordenado [B-EXCHAR]
+277,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 9 [B-ATVAL] X [B-VAR] variable [B-ELEM]
+280,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 8 [B-ATVAL] completo [B-EXCHAR] , [O] con [O] 9 [B-ELCOUNT] términos [B-ELEM] , [O] está [O] en [B-EXCHAR] orden [I-EXCHAR]"
+287,Es [O] un [O] polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL] con [O] coeficientes [B-ELEM] reales [B-NSET]
+291,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 1 [B-ATVAL] X [B-VAR] variable [B-ELEM]
+291,"polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 1 [B-ATVAL] completo [B-EXCHAR] , [O] con [O] coeficiente [B-ELEM] principal [I-ELEM] -37 [B-ELVAL] y [O] termino [B-ELEM] independiente [I-ELEM] 24 [B-ELVAL] . [O]"
+297,"Polinomio [B-EXTYPE] grado [B-ATRIB] 6 [B-ATVAL] , [O] completo [B-EXCHAR]"
+297,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 6 [B-ELEM] de [O] 7 [B-ELCOUNT] términos [B-ELEM]
+300,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] uno [B-ATVAL] completo [B-EXCHAR]
+300,Polinomio [B-EXTYPE] de [O] primer [B-ATVAL] grado [B-ATRIB]
+302,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 10 [B-ATVAL] , [O] completo [B-EXCHAR] Desordenado [B-EXCHAR]"
+302,Polinomio [B-EXTYPE] con [O] grado [B-ATRIB] 10 [B-ATVAL]
+306,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL]
+306,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL] , [O] ordenado [B-EXCHAR]"
+319,Polinomios [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 10 [B-ATVAL] con [O] coeficientes [B-ELEM] reales. [B-NSET] El [O] coeficiente [B-ELEM] principal [I-ELEM] es [O] 24 [B-ELVAL] y [O] el [O] término [B-ELEM] independiente [I-ELEM] es [O] 43.6 [B-ELVAL]
+329,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL]
+344,"Polinomio [B-EXTYPE] completo [B-EXCHAR] , [O] desordenado [B-EXCHAR] , [O] de [O] grado [B-ATRIB] 6 [B-ATVAL] con [O] coeficientes [B-ELEM] positivos [B-ELCHAR] y [O] negativos [B-ELCHAR]"
+352,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 6 [B-ATVAL] con [O] 7 [B-ELCOUNT] términos [B-ELEM]
+396,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 1 [B-ATVAL] con [O] coeficiente [B-ELEM] principal [I-ELEM] 3 [B-ELVAL] y [O] terminó [B-ELEM] independiente [I-ELEM] 30.7 [B-ELVAL]
+400,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 5 [B-ATVAL]
+404,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 7 [B-ATVAL]
+404,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] siete [B-ATVAL] , [O] completo [B-EXCHAR]"
+405,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 3 [B-ATVAL]
+405,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 3 [B-ATVAL] , [O] completo [B-EXCHAR] , [O] con [O] coeficiente [B-ELEM] racional [B-NSET]"
+412,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 2 [B-ATVAL]
+412,Polinomio [B-EXTYPE] cuadratico [B-EXCHAR] completo [B-EXCHAR] en [O] orden [B-ATRIB] ascendente [B-ATVAL]
+416,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] tercer [B-ATVAL] grado [B-ATRIB] con [O] algunos [O] coeficientes [B-ELEM] fraccionarios [B-NSET] y [O] otros [O] decimales [B-NSET]
+416,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 3 [B-ATVAL] completo [B-EXCHAR]
+417,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 8 [B-ATVAL] completo [B-EXCHAR] y [O] en [O] orden [B-ATRIB] ascendente [B-ATVAL]
+417,Polinomio [B-EXTYPE] de [O] números [B-ELEM] fraccionarios [B-NSET] completo [B-EXCHAR] y [O] de [O] grado [B-ATRIB] 8. [B-ATVAL] El [O] orden [B-ATRIB] de [O] las [O] potencias [O] es [O] ascendente [B-ATVAL]
+428,"binomio [B-EXTYPE] completo [B-EXCHAR] , [O] coeficiente [B-ELEM] principal [I-ELEM] -6 [B-ELVAL] / [I-ELVAL] 9 [I-ELVAL] , [O] grado [B-ATRIB] 1 [B-ATVAL]"
+472,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL] completo [B-EXCHAR] y [O] desordenado. [B-EXCHAR] Términos [B-ELEM] enteros [B-NSET] y [O] racionales. [B-NSET] Coeficiente [B-ELEM] principal [I-ELEM] -2 [B-ELVAL] , [O] término [B-ELEM] independiente [I-ELEM] -39. [B-ELVAL] Coeficientes [B-ELEM] negativos. [B-ELCHAR] Orden [O] de [O] exponentes [O] : [O] 3 [O] , [O] 2 [O] , [O] 4 [O] , [O] 0 [O] , [O] 1 [O]"
+475,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 1 [B-ATVAL] completo [B-EXCHAR] , [O] con [O] coeficientes [B-ELEM] racionales. [B-NSET] Coeficiente [B-ELEM] principal [I-ELEM] 9 [B-ELVAL] / [I-ELVAL] 7 [I-ELVAL] y [O] término [B-ELEM] independiente [I-ELEM] 43.1 [B-ELVAL]"
+478,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 6 [B-ATVAL] completo [B-EXCHAR] , [O] con [O] 7 [B-ELCOUNT] términos [B-ELEM] , [O] con [O] coeficiente [B-ELEM] principal [I-ELEM] ( [O] -31 [B-ELVAL] ) [O] , [O] ordenado [B-EXCHAR] de [O] menor [O] a [O] mayor [O] y [O] con [O] coeficientes [B-ELEM] enteros [B-NSET] y [O] fraccionarios [B-NSET]"
+479,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 7 [B-ATVAL] completo [B-EXCHAR] , [O] con [O] 8 [B-ELCOUNT] términos [B-ELEM] , [O] con [O] coeficiente [B-ELEM] principal [I-ELEM] 3 [B-ELVAL] , [O] ordenado [B-EXCHAR] de [O] menor [O] grado [O] a [O] mayor [O] grado [O] y [O] con [O] una [O] mezcla [O] de [O] coeficientes [B-ELEM] enteros [B-NSET] y [O] fraccionarios [B-NSET]"
+487,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 10 [B-ATVAL] con [O] todos [O] los [O] coeficientes [B-ELEM] distintos [B-ELCHAR] de [I-ELCHAR] 0 [I-ELCHAR]
+487,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 10 [B-ATVAL]
+489,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 6 [B-ATVAL]
+489,polinomio [B-EXTYPE] desordenado [B-EXCHAR] de [O] grado [B-ATRIB] 6 [B-ATVAL]
+492,Un [O] polinomio [B-EXTYPE] desordenado [B-EXCHAR] de [O] grado [B-ATRIB] 8 [B-ATVAL]
+492,poloniomio [B-EXTYPE] desordenado [B-EXCHAR]
+494,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 10 [B-ATVAL]
+494,"polinomio [B-EXTYPE] ordenado [B-EXCHAR] de [O] 10 [B-ELCOUNT] variables [B-ELEM] , [O] conformado [O] con [O] números [B-ELEM] racionales [B-NSET] y [O] reales [B-NSET]"
+496,polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 7 [B-ATVAL]
+503,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 10 [B-ATVAL] , [O] completo [B-EXCHAR]"
+503,"Polinomio [B-EXTYPE] ordenado [B-EXCHAR] y [O] completo [B-EXCHAR] de [O] grado [B-ATRIB] 10 [B-ATVAL] , [O] con [O] variable [B-ELEM] x [B-VAR] y [O] coeficientes [B-ELEM] racionales [B-NSET] y [O] enteros [B-NSET]"
+517,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 2 [B-ATVAL] completo [B-EXCHAR]
+518,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 3. [B-ATVAL] Coeficiente [B-ELEM] principal [I-ELEM] -17 [B-ELVAL]
+522,Polinomio [B-EXTYPE] grado [B-ATRIB] 5 [B-ATVAL]
+524,Polinomio [B-EXTYPE] grado [B-ATRIB] 5 [B-ATVAL] completo [B-EXCHAR] y [O] ordenado [B-EXCHAR]
+524,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 5 [B-ATVAL]
+532,"Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 9 [B-ATVAL] , [O] ordenado [B-EXCHAR] de [O] mayor [O] potencia [O] a [O] menor [O] y [O] con [O] todos [O] sus [O] coeficientes [B-ELEM] positivos [B-ELCHAR]"
+536,polinomio [B-EXTYPE] grado [B-ATRIB] 3 [B-ATVAL]
+539,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] 5to [B-ATVAL] grado [B-ATRIB] con [O] coeficientes [B-ELEM] negativos [B-ELCHAR] y [O] algunos [O] fraccionarios. [B-NSET] El [O] orden [B-ATRIB] de [O] las [O] potencias [O] es [O] ascendente [B-ATVAL]
+545,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 3 [B-ATVAL] , [O] entero [B-EXCHAR] con [O] coeficientes [B-ELEM] racional [B-NSET] algunos [O] negativos [B-ELCHAR]"
+560,polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 8 [B-ATVAL]
+31,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 5 [B-ATVAL] , [O] números [B-ELEM] complejos [B-NSET] con [O] parte [O] real [O] y [O] parte [O] imaginaria [O] , [O] 6 [B-ELCOUNT] términos [B-ELEM]"
+64,Polinomio [B-EXTYPE] lineal [B-EXCHAR] con [O] coeficientes [B-ELEM] complejos [B-NSET] puros [B-ELCHAR] negativos. [B-ELCHAR] Está [O] completo [B-EXCHAR]
+64,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 1 [B-ATVAL]
+85,Polinomio [B-EXTYPE] complejo [B-NSET] completo [B-EXCHAR] de [O] grado [B-ATRIB] 2 [B-ATVAL]
+85,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 2 [B-ATVAL] , [O] ordenado [B-EXCHAR] y [O] completo [B-EXCHAR] Coeficientes [B-ELEM] imaginarios [B-NSET]"
+86,"Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] séptimo [B-ATVAL] grado [B-ATRIB] , [O] en [O] orden [B-ATRIB] descendiente [B-ATVAL] , [O] con [O] todos [O] sus [O] coeficientes [B-ELEM] complejos [B-NSET]"
+91,Polinomio [B-EXTYPE] desordenado [B-EXCHAR] de [O] grado [B-ATRIB] 8 [B-ATVAL] con [O] todos [O] sus [O] coeficientes [B-ELEM] complejos [B-NSET] y [O] negativos [B-ELCHAR]
+92,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] tercer [B-ATVAL] grado [B-ATRIB] con [O] números [B-ELEM] complejos [B-NSET]
+92,"Polinomio [B-EXTYPE] de [O] tercer [B-ATVAL] grado [B-ATRIB] , [O] completo [B-EXCHAR] , [O] ordenado [B-EXCHAR] en [O] forma [O] ascendente [O] y [O] coeficientes [B-ELEM] complejos [B-NSET] con [O] solo [O] parte [O] imaginaria [O]"
+121,Polinomio [B-EXTYPE] complejo [B-NSET] de [O] grado [B-ATRIB] 2 [B-ATVAL]
+121,Polinomio [B-EXTYPE] completo [B-EXCHAR] y [O] en [O] orden [B-ATRIB] descendiente. [B-ATVAL] El [O] grado [B-ATRIB] es [O] 2 [B-ATVAL] y [O] los [O] coeficientes [B-ELEM] son [O] complejos [B-NSET] negativos [B-ELCHAR]
+124,"Polinimio [B-EXTYPE] complejo [B-NSET] de [O] grado [B-ATRIB] 5 [B-ATVAL] , [O] ordenado [B-EXCHAR]"
+127,Polinomio [B-EXTYPE] cuadratico [B-EXCHAR] completo [B-EXCHAR]
+130,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 7 [B-ATVAL] completo [B-EXCHAR]
+146,"Polinomio [B-EXTYPE] , [O] de [O] grado [B-ATRIB] 7 [B-ATVAL] , [O] compuesto [O] por [O] 8 [B-ELCOUNT] términos [B-ELEM] y [O] los [O] coeficientes [B-ELEM] son [O] números [O] complejos [B-NSET]"
+162,Polinomio [B-EXTYPE] complejo [B-NSET] completo [B-EXCHAR] de [O] grado [B-ATRIB] 6 [B-ATVAL]
+173,Ecuacion [B-EXTYPE] polinomica [I-EXTYPE] completa [B-EXCHAR] de [O] grado [B-ATRIB] 1. [B-ATVAL] Sus [O] coeficientes [B-ELEM] son [O] números [O] complejos [B-NSET]
+173,Polinomio [B-EXTYPE] lineal [B-EXCHAR] de [O] coeficientes [B-ELEM] complejos [B-NSET] y [O] negativos. [B-ELCHAR] El [O] coeficiente [B-ELEM] principal [I-ELEM] es [O] -3i [B-ELVAL]
+222,"Polinomio [B-EXTYPE] completo [B-EXCHAR] , [O] de [O] grado [B-ATRIB] 7 [B-ATVAL]"
+222,"un [O] polinomio [B-EXTYPE] a [O] coeficientes [B-ELEM] complejos. [B-NSET] El [O] polinomio [B-EXTYPE] no [B-EXCHAR] está [I-EXCHAR] ordenado [I-EXCHAR] , [O] su [O] grado [B-ATRIB] es [O] 7 [B-ATVAL] , [O] ya [O] que [O] es [O] el [O] orden [O] más [O] grande [O] con [O] coeficiente [O] no [O] nulo [O] ( [O] coeficiente [B-ELEM] principal [I-ELEM] es [O] -9i [B-ELVAL] ) [O] y [O] el [O] término [B-ELEM] independiente [I-ELEM] es [O] -22i [B-ELVAL] . [O]"
+225,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] coeficientes [B-ELEM] complejos [B-NSET] negativos [B-ELCHAR] con [O] parte [O] imaginaria. [O] El [O] grado [B-ATRIB] del [O] polinomio [B-EXTYPE] es [O] 4 [B-ATVAL]
+229,"es [O] un [O] polinomio [B-EXTYPE] completo [B-EXCHAR] y [O] desordenado [B-EXCHAR] de [O] grado [B-ATRIB] 5 [B-ATVAL] , [O] con [O] términos [B-ELEM] independiente [I-ELEM] 17i [B-ELVAL] y [O] coeficiente [B-ELEM] principal [I-ELEM] 8+5i [B-ELVAL]"
+229,Polinomio [B-EXTYPE] complejo [B-NSET] y [O] completo [B-EXCHAR] desordenado [B-EXCHAR] de [O] grado [B-ATRIB] 5 [B-ATVAL]
+264,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] seis [B-ATVAL] completo [B-EXCHAR] ordenado [B-EXCHAR] con [O] números [O] imaginarios [B-NSET] en [O] los [O] coeficientes [B-ELEM]
+279,"Un [O] polinomio [B-EXTYPE] de [O] coeficientes [B-ELEM] complejos [B-NSET] negativos [B-ELCHAR] de [O] grado [B-ATRIB] 5 [B-ATVAL] , [O] sin [B-EXCHAR] orden [I-EXCHAR] y [O] completo [B-EXCHAR]"
+279,Es [O] un [O] polinomio [B-EXTYPE] con [O] coeficientes [B-ELEM] complejos [B-NSET] y [O] de [O] grado [B-ATRIB] 5 [B-ATVAL]
+296,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 3 [B-ATVAL] con [O] constantes [B-ELEM] complejas [B-NSET]
+296,"Polinomio [B-EXTYPE] grado [B-ATRIB] 3 [B-ATVAL] , [O] completo [B-EXCHAR]"
+334,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] cuatro [B-ATVAL] , [O] completo [B-EXCHAR] y [O] desordenado [B-EXCHAR]"
+341,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 8 [B-ATVAL] con [O] coeficientes [B-ELEM] negativos [B-ELCHAR] complejos. [B-NSET] Está [O] completo [B-EXCHAR] y [O] en [O] orden [B-ATRIB] ascendente [B-ATVAL]
+356,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 8 [B-ATVAL] incompleto [B-EXCHAR]
+356,"Es [O] un [O] polinomio [B-EXTYPE] completo [B-EXCHAR] , [O] ordenado [B-EXCHAR] , [O] con [O] constantes [B-ELEM] complejas [B-NSET] , [O] y [O] grado [B-ATRIB] 8 [B-ATVAL]"
+357,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 1 [B-ATVAL] con [O] números [B-ELEM] complejos [B-NSET] y [O] todos [O] los [O] términos [B-ELEM] positivos [B-ELCHAR]
+357,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 1 [B-ATVAL] completo [B-EXCHAR]
+359,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 8 [B-ATVAL] completo [B-EXCHAR]
+359,"Es [O] un [O] polinomio [B-EXTYPE] , [O] de [O] 9 [B-ELCOUNT] términos [B-ELEM] , [O] con [O] grado [B-ATRIB] 8 [B-ATVAL] , [O] completo [B-EXCHAR] , [O] y [O] con [O] constantes [B-ELEM] que [O] acompañan [O] a [O] las [O] variables [O] , [O] pertenecientes [O] a [O] los [O] complejos [B-NSET]"
+370,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 5 [B-ATVAL] con [O] coeficientes [B-ELEM] imaginarios [B-NSET]
+381,"Polinomio [B-EXTYPE] de [O] variable [B-ELEM] x [B-VAR] , [O] de [O] grado [B-ATRIB] 1 [B-ATVAL] y [O] coeficientes [B-ELEM] imaginarios [B-NSET]"
+423,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 7 [B-ATVAL] completo [B-EXCHAR] y [O] ordenado [B-EXCHAR] de [O] forma [O] descendiente [O]
+432,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 3 [B-ATVAL] , [O] completo [B-EXCHAR] , [O] desordenado [B-EXCHAR]"
+435,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 6 [B-ATVAL] , [O] completo [B-EXCHAR] , [O] compuesto [O] de [O] números [B-ELEM] complejos [B-NSET]"
+445,Es [O] un [O] polinomio [B-EXTYPE] con [O] números [B-ELEM] complejos [B-NSET] como [O] coeficientes [B-ELEM] de [O] x [B-VAR]
+463,Polinomio [B-EXTYPE] de [O] potencia [B-ATRIB] mayor [O] 8 [B-ELVAL]
+481,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] cuatro [B-ATVAL] completo [B-EXCHAR]
+508,Polinomio [B-EXTYPE]
+508,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 8 [B-ATVAL] con [O] coeficientes [B-ELEM] complejos [B-NSET]
+511,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] dos [B-ATVAL] con [O] coeficientes [B-ELEM] de [O] numeros [O] complejos [B-NSET]
+520,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 5 [B-ATVAL] con [O] números [B-ELEM] complejos [B-NSET]
+533,"Polinomio [B-EXTYPE] en [O] indeterminada [B-ELEM] x [B-VAR] de [O] 4to [B-ATVAL] grado [B-ATRIB] , [O] completo [B-EXCHAR] y [O] con [O] coeficientes [B-ELEM] complejos. [B-NSET] Está [O] ordenado [B-EXCHAR] de [O] forma [O] ascendente [O]"
+538,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] quinto [B-ATVAL] grado [B-ATRIB] con [O] coeficientes [B-ELEM] complejos. [B-NSET] El [O] polinomio [B-EXTYPE] está [O] en [O] orden [B-ATRIB] descendiente [B-ATVAL]
+538,Polinomio [B-EXTYPE] complejo [B-NSET] de [O] grado [B-ATRIB] 5 [B-ATVAL]
+29,"Sistema [B-EXTYPE] homogéneo [B-EXCHAR] de [O] 3 [B-ELCOUNT] ecuaciones [B-ELEM] y [O] 2 [B-ELCOUNT] incógnitas [B-ELEM] ( [O] y [B-VAR] , [O] z [B-VAR] ) [O]"
+29,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] homogenea [B-EXCHAR]
+40,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] lineal [B-EXCHAR] con [O] tres [B-ELCOUNT] incógnita [B-ELEM] y [O] tres [B-ELCOUNT] ecuaciones [B-ELEM]
+44,"Sistema [B-EXTYPE] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 3 [B-ELCOUNT] incógnitas [B-ELEM] , [O] ordenado [B-EXCHAR] y [O] con [O] algunos [O] coeficientes [B-ELEM] fraccionarios [B-NSET]"
+44,"Sistema [B-EXTYPE] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 3 [B-ELCOUNT] incógnitas [B-ELEM] , [O] las [O] incógnitas [B-ELEM] son [O] x [B-VAR] , [O] y [B-VAR] y [O] z [B-VAR] , [O] en [O] un [O] caso [O] , [O] el [O] resultado [B-ELEM] es [O] una [O] fracción [B-NSET]"
+50,"Sistema [B-EXTYPE] de [O] tres [B-ELCOUNT] ecuaciones [B-ELEM] con [O] tres [B-ELCOUNT] variables [B-ELEM] , [O] cuatro [B-ELCOUNT] coeficientes [B-ELEM] negativos [B-ELCHAR] , [O] el [O] resto [O] positivos [B-ELCHAR] . [O]"
+52,"Sistema [B-EXTYPE] de [O] 3 [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 3 [B-ELCOUNT] variables [B-ELEM] , [O] con [O] los [O] coeficientes [B-ELEM] de [O] la [O] primer [O] variable [O] ( [O] x [B-VAR] ) [O] nulos [B-ELCHAR] en [O] la [O] segunda [O] y [O] tercera [O] ecuacion [B-ELEM] , [O] los [O] de [O] la [O] segunda [O] ( [O] y [B-VAR] ) [O] en [O] la [O] primera [O] y [O] los [O] de [O] la [O] tercera [O] ( [O] z [B-VAR] ) [O] nulos [B-ELCHAR] en [O] la [O] tercer [O] ecuacion [B-ELEM]"
+73,"Sistema [B-EXTYPE] homogéneo [B-EXCHAR] de [O] 3 [B-ELCOUNT] ecuaciones [B-ELEM] , [O] con [O] 3 [B-ELCOUNT] incógnitas [B-ELEM] ( [O] x [B-VAR] , [O] y [B-VAR] , [O] z [B-VAR] ) [O] ordenado [B-EXCHAR] y [O] con [O] muchos [O] coeficientes [B-ELEM] fraccionarios [B-NSET]"
+73,Sistema [B-EXTYPE] de [O] 3 [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 3 [B-ELCOUNT] incógnitas [B-ELEM]
+96,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] de [O] 3 [B-ELCOUNT] variables [B-ELEM]
+96,"Sistema [B-EXTYPE] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] 3 [B-ELCOUNT] incógnitas [B-ELEM] , [O] x [B-VAR] , [O] z [B-VAR] e [O] y [B-VAR] c. [O] La [O] primera [B-ELEM] ecuación [I-ELEM] tiene [O] dos [B-ELCOUNT] variables [B-ELEM] , [O] x [B-VAR] e [O] y [B-VAR] , [O] y [O] la [O] segunda [B-ELEM] ecuación [I-ELEM] tiene [O] dos [B-ELCOUNT] variables [B-ELEM] , [O] z [B-VAR] e [O] y [B-VAR] . [O]"
+113,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] lineales [B-EXCHAR] compatible [B-EXCHAR] determinado [B-EXCHAR] con [O] tres [B-ELCOUNT] ecuaciones [B-ELEM] y [O] tres [B-ELCOUNT] incógnitas [B-ELEM]
+125,"Sistema [B-EXTYPE] de [O] 3 [B-ELCOUNT] ecuaciones [B-ELEM] y [O] 3 [B-ELCOUNT] variables [B-ELEM] x [B-VAR] , [O] y [B-VAR] , [O] z. [B-VAR] Las [O] ecuaciones [B-ELEM] no [O] están [O] en [O] orden [O]"
+125,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] con [O] tres [B-ELCOUNT] ecuaciones [B-ELEM] y [O] tres [B-ELCOUNT] incognitas [B-ELEM]
+129,"Sistema [B-EXTYPE] de [O] 3 [B-ELCOUNT] ecuaciones [B-ELEM] incompletas [B-ELCHAR] con [O] 3 [B-ELCOUNT] incógnitas [B-ELEM] x [B-VAR] , [O] y [B-VAR] , [O] z. [B-VAR] El [O] sistema [B-EXTYPE] es [O] homogéneo [B-EXCHAR]"
+129,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] homogeneo [B-EXCHAR]
+132,Sistema [B-EXTYPE] de [I-EXTYPE] ecuacion [I-EXTYPE] de [O] 3 [B-ELCOUNT] variables [B-ELEM]
+132,sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] de [O] 3 [B-ELCOUNT] ecuaciones [B-ELEM]
+147,sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] homogéneo [B-EXCHAR]
+163,Sistema [B-EXTYPE] homogeneo [B-EXCHAR] de [O] tres [B-ELCOUNT] ecuaciones [B-ELEM] lineales [B-ELCHAR] con [O] tres [B-ELCOUNT] incognitas [B-ELEM]
+166,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] conformado [O] por [O] dos [B-ELCOUNT] ecuaciones. [B-ELEM] Ambas [O] ecuaciones [B-ELEM] con [O] una [B-ELCOUNT] única [O] variable [B-ELEM] por [O] ecuación [B-ELEM]
+183,"Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] compatible [B-EXCHAR] indeterminado [B-EXCHAR] , [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] y [O] 3 [B-ELCOUNT] incógnitas [B-ELEM]"
+183,"Sistema [B-EXTYPE] de [O] 2 [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 3 [B-ELCOUNT] incógnitas [B-ELEM] ( [O] x [B-VAR] , [O] y [B-VAR] , [O] z [B-VAR] ) [O] . [O] Las [O] ecuaciones [B-ELEM] están [O] completas [B-ELCHAR] y [O] desordenadas [B-ELCHAR]"
+202,Sistema [B-EXTYPE] de [O] 3 [B-ELCOUNT] ecuaciones [B-ELEM] y [O] 3 [B-ELCOUNT] variables. [B-ELEM] El [O] sistema [B-EXTYPE] es [O] completo [B-EXCHAR] y [O] en [B-EXCHAR] desorden. [I-EXCHAR] Todos [O] los [O] coeficientes [B-ELEM] de [O] las [O] x [B-VAR] son [O] positivos [B-ELCHAR]
+202,"es [O] un [O] sistema [B-EXTYPE] de [O] 3 [B-ELCOUNT] ecuaciones [B-ELEM] con [O] variables [B-ELEM] x [B-VAR] , [O] y [B-VAR] , [O] z [B-VAR] multiplicada [O] por [O] escalares [O]"
+216,Sistema [B-EXTYPE] de [O] 2 [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 3 [B-ELCOUNT] variables [B-ELEM] cada [O] uno [O]
+216,sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] de [O] 3 [B-ELCOUNT] variables [B-ELEM]
+244,sistema [B-EXTYPE] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] y [O] 3 [B-ELCOUNT] incognitas [B-ELEM]
+244,Sistema [B-EXTYPE] de [O] 2 [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 3 [B-ELCOUNT] incognitas [B-ELEM]
+274,"sistema [B-EXTYPE] de [O] tres [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 3 [B-ELCOUNT] variables [B-ELEM] ( [O] x [B-VAR] , [O] y [B-VAR] , [O] z [B-VAR] ) [O] compuesto [O] de [O] coeficientes [B-ELEM] enteros [B-NSET] y [O] fraccionarios [B-NSET]"
+298,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] de [O] tres [B-ELCOUNT] variables [B-ELEM]
+304,sistema [B-EXTYPE] homogeneo [B-EXCHAR] de [O] 3 [B-ELCOUNT] ecuaciones [B-ELEM] de [O] con [O] 3 [B-ELCOUNT] incógnitas [B-ELEM]
+304,"Es [O] un [O] sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] , [O] con [O] 3 [B-ELCOUNT] ecuaciones [B-ELEM] y [O] 3 [B-ELCOUNT] incógnitas [B-ELEM] que [O] no [B-EXCHAR] esta [I-EXCHAR] ordenado [I-EXCHAR] en [O] ( [O] x [B-VAR] , [O] y [B-VAR] , [O] z [B-VAR] ) [O] . [O] las [O] 3 [B-ELCOUNT] igualadas [O] a [O] cero [B-ELVAL]"
+322,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] lineales [B-ELVAL] con [O] tres [B-ELCOUNT] variables [B-ELEM] y [O] dos [B-ELCOUNT] ecuaciones. [B-ELEM] La [O] mayoria [O] de [O] los [O] coeficientes [B-ELEM] son [O] fracciones [B-NSET]
+336,Sistema [B-EXTYPE] de [O] 3 [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 3 [B-ELCOUNT] incógnitas [B-ELEM] de [O] grado [B-ATRIB] 1 [B-ATVAL]
+366,"Es [O] un [O] sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] de [O] 2 [B-ELCOUNT] ecuaciones [B-ELEM] y [O] 3 [B-ELCOUNT] incógnitas [B-ELEM] , [O] el [O] cual [O] constituye [O] un [O] sistema [B-EXTYPE] compatible [B-EXCHAR] indeterminado [B-EXCHAR]"
+366,"Sistema [B-EXTYPE] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 3 [B-ELCOUNT] incógnitas [B-ELEM] x [B-VAR] , [O] y [B-VAR] , [O] z. [B-VAR] La [O] primer [B-ELEM] ecuación [I-ELEM] está [O] incompleta [B-ELCHAR] con [O] solo [O] la [O] variable [B-ELEM] z [B-VAR]"
+387,Sistema [B-EXTYPE] de [O] tres [B-ELCOUNT] ecuaciones. [B-ELEM] Una [O] de [O] ellas [O] de [O] tres [B-ELCOUNT] variables [B-ELEM] y [O] las [O] dos [B-ELCOUNT] restantes [O] de [O] dos [B-ELCOUNT] variables [B-ELEM] o [O] incógnitas [B-ELEM] . [O]
+403,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] con [O] tres [B-ELCOUNT] incógnitas [B-ELEM]
+424,"Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] de [O] 3 [B-ELCOUNT] variables [B-ELEM] ( [O] x [B-VAR] , [O] y [B-VAR] , [O] z [B-VAR] ) [O]"
+431,"sistema [B-EXTYPE] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] con [O] tres [B-ELEM] variables [B-ELCOUNT] ( [O] x [B-VAR] , [O] y [B-VAR] , [O] z [B-VAR] ) [O] lineales [B-ELCHAR]"
+449,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] con [O] 3 [B-ELCOUNT] ecuaciones [B-ELEM] y [O] 3 [B-ELCOUNT] incógnitas [B-ELEM]
+449,Sistema [B-EXTYPE] de [O] tres [B-ELCOUNT] ecuaciones [B-ELEM] con [O] tres [B-ELCOUNT] variables [B-ELEM]
+454,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] homogeneo [B-EXCHAR] de [O] tres [B-ELCOUNT] variables [B-ELEM] de [O] grado [B-ATRIB] uno [B-ATVAL] cada [O] una [O] con [O] tres [B-ELCOUNT] términos [B-ELEM]
+457,sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] con [O] 3 [B-ELCOUNT] incognitas. [B-ELEM] Es [O] homogeneo [B-EXCHAR]
+461,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE]
+488,"Sistema [B-EXTYPE] de [O] 3 [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 3 [B-ELCOUNT] variables [B-ELEM] ( [O] x [B-VAR] , [O] y [B-VAR] , [O] z [B-VAR] ) [O] con [O] todos [O] sus [O] coeficientes [B-ELEM] distintos [O] de [O] 0 [B-ELVAL]"
+490,sistema [B-EXTYPE] de [O] 3 [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 2 [B-ELCOUNT] incógnitas [B-ELEM] en [O] cada [O] una [O] de [O] ellas [O] pero [O] no [O] necesariamente [O] iguales [O] entre [O] sí [O] las [O] 3 [B-ELCOUNT]
+510,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] con [O] 3 [B-ELCOUNT] variables [B-ELEM]
+525,Sistema [B-EXTYPE] de [O] 3 [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 3 [B-ELCOUNT] incógnitas [B-ELEM]
+526,"Sistema [B-EXTYPE] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] , [O] una [O] con [O] una [B-ELCOUNT] variable [B-ELEM] y [O] dos [B-ELCOUNT] términos [B-ELEM] , [O] y [O] otra [O] con [O] tres [B-ELCOUNT] variables [B-ELEM] y [O] 4 [B-ELCOUNT] terminos [B-ELEM]"
+540,Sistema [B-EXTYPE] de [O] 3 [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 3 [B-ELCOUNT] variables. [B-ELEM] Las [O] dos [B-ELCOUNT] primeras [O] ecuaciones [B-ELEM] están [O] incompletas [B-ELCHAR]
+540,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] de [O] 3 [B-ELCOUNT] incógnitas [B-ELEM] y [O] 3 [B-ELCOUNT] ecuaciones [B-ELEM] incompletas [B-ELCHAR]
+554,Sistema [B-EXTYPE] de [O] 3 [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 3 [B-ELCOUNT] incógnitas [B-ELEM] incompleto. [B-EXCHAR] Algunos [O] coeficientes [B-ELEM] son [O] fraccionarios [B-NSET]
+6,"sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] de [O] 4 [B-ELCOUNT] variables [B-ELEM] y [O] 3 [B-ELCOUNT] ecuaciones [B-ELEM] , [O] no [B-EXCHAR] homogeneo [I-EXCHAR] con [O] coeficientes [B-ELEM] reales [B-NSET] y [O] fraccionarios [B-NSET]"
+6,"Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] de [O] 3x4. [B-EXCHAR] Variables [B-ELEM] : [O] d [B-VAR] , [O] a [B-VAR] , [O] b [B-VAR] , [O] c [B-VAR] Ecuaciones [B-ELEM] igualadas [O] a [O] 29 [B-ELVAL] , [O] 11 [B-ELVAL] , [O] 42 [B-ELVAL] respectivamente [O] Orden [B-ATRIB] de [O] variables [B-ELEM] en [O] cada [O] ecuación [B-ELEM] : [O] d [B-VAR] , [O] a [B-VAR] , [O] b [B-VAR] , [O] c [B-VAR] = [O] 29 [B-ELVAL] a [B-VAR] , [O] d [B-VAR] , [O] c [B-VAR] , [O] b [B-VAR] = [O] 11 [B-ELVAL] a [B-VAR] , [O] b [B-VAR] , [O] d [B-VAR] , [O] c [B-VAR] = [O] 42 [B-ELVAL]"
+14,Sistema [B-EXTYPE] de [O] 4 [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 4 [B-ELCOUNT] incognitas. [B-ELEM] No [O] teniendo [O] todas [O] las [O] incógnitas [B-ELEM] del [O] mismo [O] lado. [O] Usando [O] coeficientes [B-ELEM] fraccionarios [B-NSET] positivos [B-ELCHAR] y [O] negativos [B-ELCHAR]
+30,"un [O] sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] de [O] 4 [B-ELCOUNT] ecuaciones [B-ELEM] y [O] 4 [B-ELCOUNT] incógnitas [B-ELEM] ( [O] es [O] decir [O] , [O] de [O] 4x4 [B-EXCHAR] ) [O] donde [O] varios [O] coeficientes [B-ELEM] de [O] las [O] variables [B-ELEM] son [O] números [O] enteros [B-NSET]"
+49,Sistema [B-EXTYPE] lineal [B-EXCHAR] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] de [O] cuatro [B-ELCOUNT] variables [B-ELEM] con [O] coeficientes [B-ELEM] fraccionarios [B-NSET] . [O]
+109,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] lineales [B-ELCHAR] compatible [B-EXCHAR] indeterminado [B-EXCHAR] con [O] tres [B-ELCOUNT] ecuaciones [B-ELEM] y [O] cuatro [B-ELCOUNT] variables [B-ELEM]
+122,"Sistema [B-EXTYPE] de [O] 2 [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 4 [B-ELCOUNT] variables [B-ELEM] a [B-VAR] , [O] b [B-VAR] , [O] c [B-VAR] y [O] d [B-VAR]"
+122,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] con [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] y [O] 4 [B-ELCOUNT] variables [B-ELEM] completas [B-ELCHAR]
+133,"Sistema [B-EXTYPE] de [O] 4 [B-ELCOUNT] ecuaciones [B-ELEM] completo [B-EXCHAR] con [O] 4 [B-ELCOUNT] incógnitas [B-ELEM] a [B-VAR] , [O] b [B-VAR] , [O] c [B-VAR] y [O] d. [B-VAR] Las [O] ecuaciones [B-ELEM] se [O] distribuyen [O] a [O] ambos [O] lados [O] de [O] la [O] igualdad [O]"
+133,sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] de [O] 4 [B-ELCOUNT] variables [B-ELEM]
+164,"Sistema [B-EXTYPE] de [I-EXTYPE] dos [I-EXTYPE] ecuaciones [I-EXTYPE] , [O] con [O] cuatro [B-ELCOUNT] variables [B-ELEM]"
+167,"Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] de [O] 2 [B-ELCOUNT] ecuaciones [B-ELEM] , [O] una [O] con [O] dos [B-ELCOUNT] incógnita [B-ELEM] y [O] otra [O] con [O] 3 [B-ELCOUNT] incógnitas. [B-ELEM] Ambas [O] ecuaciones [B-ELEM] de [O] grado [B-ATRIB] 1 [B-ATVAL]"
+185,"Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] de [O] 4 [B-ELCOUNT] incógnitas [B-ELEM] y [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] , [O] compatible [B-EXCHAR] indeterminado [B-EXCHAR]"
+185,"Sistema [B-EXTYPE] lineal [B-EXCHAR] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 4 [B-ELCOUNT] incógnitas. [B-ELEM] Las [O] ecuaciones [B-ELEM] están [O] completas [B-ELCHAR] y [O] tienen [O] variables [B-ELEM] a [B-VAR] , [O] b [B-VAR] , [O] c [B-VAR] y [O] d [B-VAR]"
+189,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] de [O] cuatro [B-ELCOUNT] incógnitas [B-ELEM] y [O] cuatro [B-ELCOUNT] ecuaciones [B-ELEM]
+214,Sistema [B-EXTYPE] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 4 [B-ELCOUNT] incognitas [B-ELEM]
+220,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE]
+220,"Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] lineal [B-EXCHAR] , [O] no [B-EXCHAR] ordenado [I-EXCHAR] , [O] de [O] 4 [B-ELCOUNT] ecuaciones [B-ELEM] y [O] 4 [B-ELCOUNT] incógnitas [B-ELEM] . [O]"
+246,Sistema [B-EXTYPE] de [O] 2 [B-ELCOUNT] ecuaciones [B-ELEM] y [O] 4 [B-ELCOUNT] incognitas [B-ELEM]
+246,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] con [O] 2 [B-ELCOUNT] ecuaciones [B-ELEM] y [O] 4 [B-ELCOUNT] incógnitas. [B-ELEM] Ambas [O] ecuaciones [B-ELEM] están [O] completas [B-ELCHAR]
+247,Sistema [B-EXTYPE] de [O] 4 [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 4 [B-ELCOUNT] incognitas [B-ELEM]
+247,"sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] de [O] 4 [B-ELCOUNT] incognitas [B-ELEM] y [O] 4 [B-ELCOUNT] ecuaciones [B-ELEM] , [O] compatible [B-EXCHAR] determinado [B-EXCHAR] , [O] homogeneo [B-EXCHAR]"
+258,"Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] con [O] 4 [B-ELCOUNT] variables [B-ELEM] , [O] no [B-EXCHAR] homogeneo [I-EXCHAR]"
+281,"Sistema [B-EXTYPE] de [O] 3 [B-ELCOUNT] ecuaciones [B-ELEM] , [O] teniendo [O] cada [O] una [O] 4 [B-ELCOUNT] incognitas [B-ELEM]"
+323,Un [O] sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] formado [O] por [O] 2 [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 4 [B-ELCOUNT] incognitas [B-ELEM] . [O]
+330,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] con [O] cuatro [B-ELCOUNT] ecuaciones [B-ELEM] y [O] cuatro [B-ELCOUNT] incógnitas [B-ELEM]
+353,"Sistema [B-EXTYPE] de [O] cuatro [B-ELCOUNT] ecuaciones [B-ELEM] lineales [B-ELCHAR] con [O] 4 [B-ELCOUNT] variables [B-ELEM] : [O] d [B-VAR] , [O] a [B-VAR] , [O] b [B-VAR] , [O] c [B-VAR]"
+353,"Sist [B-EXTYPE] de [O] 4 [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 4 [B-ELCOUNT] incognitas [B-ELEM] Sistema [B-EXTYPE] compatible [B-EXCHAR] determinado [B-EXCHAR] Variables= [B-ELEM] a [B-VAR] , [O] b [B-VAR] , [O] c [B-VAR] , [O] d. [B-VAR] Homogeneo [B-EXCHAR]"
+355,Sistema [B-EXTYPE] de [I-EXTYPE] ecuación [I-EXTYPE] de [O] 4 [B-ELCOUNT] variables [B-ELEM] y [O] 2 [B-ELCOUNT] ecuaciones. [B-ELEM] El [O] sistema [B-EXTYPE] tendrá [O] infinitas [O] soluciones [O]
+371,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE]
+377,"Sistema [B-EXTYPE] de [O] 3 [B-ELCOUNT] ecuaciones [B-ELEM] , [O] de [O] variables [B-ELEM] a [B-VAR] , [O] c [B-VAR] , [O] b [B-VAR] y [O] d. [B-VAR] Todas [O] de [O] grado [B-ATRIB] 1 [B-ATVAL] y [O] de [O] 4 [B-ELCOUNT] términos [B-ELEM] cada [O] una [O]"
+385,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] de [O] 4 [B-ELCOUNT] variables [B-ELEM]
+385,"Un [O] sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] completo [B-EXCHAR] con [O] 4 [B-ELCOUNT] ecuaciones [B-ELEM] y [O] 4 [B-ELCOUNT] incógnitas. [B-ELEM] Las [O] incógnitas [B-ELEM] son [O] a [B-VAR] , [O] b [B-VAR] c [B-VAR] y [O] d. [B-VAR] Los [O] términos [B-ELEM] están [O] distribuidos [O] a [O] ambos [O] lados [O] de [O] las [O] igualdades [O]"
+408,Sistema [B-EXTYPE] de [O] tres [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 4 [B-ELCOUNT] variables [B-ELEM] . [O]
+443,Sistema [B-EXTYPE] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM]
+465,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE]
+495,"Sist [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] con [O] incógnitas [B-ELEM] a [B-VAR] , [O] b [B-VAR] , [O] c [B-VAR] y [O] d [B-VAR]"
+495,sistema [B-EXTYPE] de [O] 3 [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 4 [B-ELCOUNT] variables [B-ELEM] en [O] la [O] cual [O] no [B-ELCHAR] están [I-ELCHAR] ordenadas [I-ELCHAR] respectivamente [O] cada [O] una [O] de [O] ellas [O]
+497,Un [O] sistema [B-EXTYPE] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] para [O] cuatro [B-ELCOUNT] incógnitas [B-ELEM]
+546,"Sistema [B-EXTYPE] de [O] 3 [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 4 [B-ELCOUNT] incognitas [B-ELEM] usando [O] numeros [O] enteros [B-NSET] y [O] fracciones [B-NSET] , [O] positivos [B-ELCHAR] y [O] negativos [B-ELCHAR] como [O] coeficientes. [B-ELEM] Usando [O] "" [O] a [B-VAR] "" [O] , [O] "" [O] b [B-VAR] "" [O] , [O] "" [O] c [B-VAR] "" [O] y [O] "" [O] d [B-VAR] "" [O] como [O] incógnitas [B-ELEM]"
+551,Sistema [B-EXTYPE] compuesto [O] por [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] lineales [B-ELCHAR] de [O] 4 [B-ELCOUNT] incognitas [B-ELEM]
+552,"Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] con [O] 4 [B-ELCOUNT] variables [B-ELEM] , [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] y [O] variables [B-ELEM] a [B-VAR] , [O] b [B-VAR] , [O] c [B-VAR] y [O] d. [B-VAR] Las [O] ecuaciones [B-ELEM] estan [O] completas [B-ELCHAR] y [O] desordenadas [B-ELCHAR]"
+11,polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 7 [B-ATVAL] el [O] mismo [O] está [O] desordenado [B-EXCHAR] pero [O] completo [B-EXCHAR]
+12,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] seis [B-ATVAL] con [O] siete [B-ELCOUNT] términos [B-ELEM]
+13,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 7 [B-ATVAL] completo [B-EXCHAR] con [O] coeficientes [B-ELEM] enteros [B-NSET]
+17,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 7 [B-ATVAL] completo [B-EXCHAR] , [O] con [O] todos [O] sus [O] coeficientes [B-ELEM] negativos [B-ELCHAR] y [O] enteros [B-NSET]"
+20,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 1 [B-ATVAL] con [O] dos [B-ELCOUNT] términos [B-ELEM]
+20,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] uno [B-ATVAL] con [O] coeficientes [B-ELEM] negativos [B-ELCHAR]
+37,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 3 [B-ATVAL] desordenado [B-EXCHAR]
+61,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 8 [B-ATVAL] y [O] numeros [B-ELEM] enteros [B-NSET]
+70,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 6 [B-ATVAL] completo [B-EXCHAR]
+70,"Polinomio [B-EXTYPE] completo [B-EXCHAR] , [O] desordenado [B-EXCHAR] de [O] sexto [B-ATVAL] grado [B-ATRIB] con [O] coeficientes [B-ELEM] enteros [B-NSET] negativos [B-ELCHAR]"
+72,"Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] variable [B-ELEM] x [B-VAR] , [O] de [O] orden [B-ATRIB] 4 [B-ATVAL]"
+100,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 7 [B-ATVAL] completo [B-EXCHAR] de [O] 8 [B-ELCOUNT] terminos [B-ELEM]
+100,"Polinomio [B-EXTYPE] de [O] coeficientes [B-ELEM] naturales [B-NSET] , [O] de [O] grado [B-ATRIB] 7 [B-ATVAL] , [O] completo [B-EXCHAR] y [O] ordenado [B-EXCHAR] con [O] potencias [O] descendientes [O]"
+111,"polinomio [B-EXTYPE] de [O] grado [B-ATRIB] uno [B-ATVAL] , [O] completo [B-EXCHAR] , [O] con [O] coeficientes [B-ELEM] enteros [B-NSET] y [O] negativos [B-ELCHAR]"
+118,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 5 [B-ATVAL] completo [B-EXCHAR] con [O] coeficiente [B-ELEM] principal [I-ELEM] -5 [B-ELVAL]
+118,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 5 [B-ATVAL] de [O] 6 [B-ELCOUNT] terminos [B-ELEM]
+135,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 8 [B-ATVAL] , [O] completo [B-EXCHAR] , [O] con [O] 9 [B-ELCOUNT] términos [B-ELEM]"
+145,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 1 [B-ATVAL]
+155,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 3 [B-ATVAL]
+175,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 1 [B-ATVAL] completo [B-EXCHAR] , [O] dos [B-ELCOUNT] terminos [B-ELEM]"
+175,Monomio [B-EXTYPE] con [O] coeficientes [B-ELEM] 39 [B-ELVAL]
+176,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] seis [B-ATVAL] , [O] completo [B-EXCHAR] y [O] en [O] orden [B-ATRIB] descendiente [B-ATVAL]"
+176,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 6 [B-ATVAL] completo [B-EXCHAR]
+182,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] ocho. [B-ATVAL] Todos [O] sus [O] coeficientes [B-ELEM] son [O] negativos [B-ELCHAR] y [O] está [O] ordenado [B-EXCHAR] respecto [O] al [O] orden [O] de [O] sus [O] grados [O]
+182,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 8 [B-ATVAL] completo [B-EXCHAR] , [O] con [O] todos [O] los [O] coeficientes [B-ELEM] enteros [B-NSET] negativos [B-ELCHAR] y [O] pequeños. [B-ELCHAR] El [O] orden [B-ATRIB] del [O] polinomio [B-EXTYPE] es [O] ascendente [B-ATVAL] en [O] potencias [O]"
+203,es [O] un [O] polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 8 [B-ATVAL] completo [B-EXCHAR] que [O] empieza [O] con [O] el [O] grado [O] más [O] bajo [O] ( [O] 0 [B-ELVAL] ) [O] y [O] termina [O] con [O] el [O] más [O] alto [O] ( [O] 8 [B-ELVAL] ) [O]
+205,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 5 [B-ATVAL] completo [B-EXCHAR] con [O] coeficientes [B-ELEM] negativos [B-ELCHAR]
+205,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 5 [B-ATVAL] de [O] coeficientes [B-ELEM] positivos [B-ELCHAR] y [O] completo. [B-EXCHAR] Está [O] en [B-EXCHAR] orden [I-EXCHAR]
+206,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL] con [O] coeficientes [B-ELEM] negativos [B-ELCHAR]
+206,Un [O] polinomio [B-ELEM] de [O] 4to [B-ATVAL] grado [B-ATRIB] con [O] coeficientes [B-ELEM] enteros [B-NSET] negativos. [B-ELCHAR] Es [O] completo [B-EXCHAR] y [O] desordenado [B-EXCHAR]
+241,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 8 [B-ATVAL] , [O] variable=x [B-ELEM] , [O] ordenado [B-EXCHAR] de [O] menor [O] a [O] mayor [O]"
+241,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 8 [B-ATVAL] completo [B-EXCHAR]
+243,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 3 [B-ATVAL] Coeficientes [B-ELEM] enteros [B-NSET] Termino [B-ELEM] Independiente=15 [I-ELEM]
+243,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 3 [B-ATVAL]
+260,"polinomio [B-EXTYPE] , [O] grado [B-ATRIB] 7 [B-ATVAL] , [O] completo [B-EXCHAR]"
+314,Polinomios [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 6 [B-ATVAL] y [O] con [O] coeficientes [B-ELEM] enteros [B-NSET]
+343,"Coef. [B-ELEM] Principal [I-ELEM] : [O] -37 [B-ELVAL] Esta [O] ordenado [B-EXCHAR] , [O] polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 2 [B-ATVAL] Termino [B-ELEM] independiente [I-ELEM] : [O] 34 [B-ELVAL]"
+343,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 2 [B-ATVAL]
+350,"Polinomio [B-EXTYPE] de [O] tercer [B-ATVAL] grado [B-ATRIB] en [O] variable [B-ELEM] x [B-VAR] , [O] completo [B-EXCHAR] y [O] ordenado [B-EXCHAR] en [O] forma [O] ascendente [O]"
+358,"un [O] polinomio [B-EXTYPE] de [O] 7 [B-ELCOUNT] términos [B-ELEM] completo [B-EXCHAR] , [O] de [O] grado [B-ATRIB] 6 [B-ATVAL] siendo [O] las [O] constantes [B-ELEM] que [O] acompañan [O] a [O] las [O] variables [O] números [O] naturales [B-NSET]"
+358,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 6 [B-ATVAL] completo [B-EXCHAR]
+374,Polinomio [B-EXTYPE] de [O] cuarto [B-ATVAL] grado [B-ATRIB] completo [B-EXCHAR]
+374,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL] , [O] completo [B-EXCHAR] , [O] con [O] coeficientes [B-ELEM] enteros [B-NSET]"
+406,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] cinco [B-ATVAL] , [O] completo [B-EXCHAR] con [O] coeficientes [B-ELEM] enteros [B-NSET]"
+410,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 2 [B-ATVAL] completo [B-EXCHAR] , [O] con [O] primera [B-ELEM] componente [I-ELEM] negativa [B-ELCHAR] y [O] segunda [O] y [O] tercera [O] positiva [B-ELCHAR] . [O]"
+422,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 7 [B-ATVAL] completo [B-EXCHAR]
+426,Polinomio [B-EXTYPE] grado [B-ATRIB] 1 [B-ATVAL] completo [B-EXCHAR] con [O] indeterminada [B-ELEM] x [B-VAR]
+433,"Polinomio [B-EXTYPE] lineal [B-EXCHAR] con [O] 2 [B-ELCOUNT] términos [B-ELEM] , [O] está [O] en [O] orden [B-ATRIB] descendiente [B-ATVAL]"
+441,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 8 [B-ATVAL] , [O] con [O] coeficiente [B-ELEM] principal [I-ELEM] 2 [B-ELVAL]"
+455,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] siete [B-ATVAL] , [O] completo [B-EXCHAR]"
+456,polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL] con [O] 5 [B-ELCOUNT] terminos [B-ELEM]
+464,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 1 [B-ATVAL] , [O] con [O] coeficientes [B-ELEM] múltiplos [O] de [O] 4 [B-ELVAL]"
+464,Polinomio [B-EXTYPE] con [O] coeficiente [B-ELEM] lineal [I-ELEM] 4 [B-ELVAL] e [O] independiente [B-ELEM] 16 [B-ELVAL]
+500,Un [O] polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 7 [B-ATVAL] desordenado [B-EXCHAR]
+513,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] siete [B-ATVAL] , [O] de [O] ocho [B-ELCOUNT] terminos [B-ELEM]"
+535,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 8 [B-ATVAL] incompleto [B-EXCHAR]
+553,"Polinomio [B-EXTYPE] de [O] quinto [B-ATVAL] grado [B-ATRIB] completo [B-EXCHAR] , [O] ordenado [B-EXCHAR] en [O] forma [O] descendente [O] con [O] coeficientes [B-ELEM] positivos [B-ELCHAR] naturales [B-NSET]"
+25,"Polinimio [B-EXTYPE] de [O] grado [B-ATRIB] 7 [B-ATVAL] , [O] completo [B-EXCHAR] con [O] coeficientes [B-ELEM] fraccionarios [B-NSET] negativos. [B-ELCHAR] El [O] orden [B-ATRIB] de [O] las [O] potencias [O] es [O] ascendente [B-ATVAL]"
+34,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] cuatro [B-ATVAL] ordenado [B-EXCHAR] de [O] forma [O] descendente [O]
+136,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 4 [B-ATVAL] y [O] con [O] 5 [B-ELCOUNT] términos [B-ELEM]
+138,"Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 3 [B-ATVAL] , [O] con [O] 4 [B-ELCOUNT] términos [B-ELEM]"
+141,polinomio [B-ATVAL] con [O] coeficientes [B-ELEM] fraccionarios [B-NSET] y [O] de [O] grado [B-ATRIB] 6 [B-ATVAL]
+159,"polinomio [B-EXTYPE] de [O] grado [B-ATRIB] seis [B-ATVAL] , [O] completo [B-EXCHAR] ordenado [B-EXCHAR] , [O] de [O] siete [B-ELCOUNT] términos [B-ELEM] , [O] una [B-ELCOUNT] variable [B-ELEM] y [O] coeficientes [B-ELEM] fraccionarios [B-NSET]"
+172,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL] completo [B-EXCHAR] y [O] desordenado. [B-EXCHAR] Tiene [O] todos [O] sus [O] coeficientes [B-ELEM] fraccionarios [B-NSET] y [O] negativos [B-ELCHAR]
+172,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL]
+188,Polinomio [B-EXTYPE] lineal [B-EXCHAR] completo [B-EXCHAR] con [O] coeficientes [B-ELEM] fraccionarios [B-NSET]
+188,polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 1 [B-ATVAL] completo [B-EXCHAR]
+224,es [O] un [O] polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 1 [B-ATVAL] con [O] coeficiente [B-ELEM] principal [I-ELEM] 6 [B-ELVAL] / [I-ELVAL] 13 [I-ELVAL] y [O] termino [B-ELEM] independiente [I-ELEM] 14 [B-ELVAL] / [I-ELVAL] 3 [I-ELVAL]
+224,Un [O] polinomio [B-EXTYPE] lineal [B-EXCHAR] completo [B-EXCHAR] de [O] coeficientes [B-ELEM] fraccionarios [B-NSET]
+231,"Polinomio [B-EXTYPE] de [O] números [B-ELEM] fraccionarios [B-NSET] , [O] de [O] grado [B-ATRIB] 2 [B-ATVAL] y [O] completo. [B-EXCHAR] El [O] coeficiente [B-ELEM] principal [I-ELEM] es [O] negativo [B-ELCHAR] , [O] el [O] coeficiente [B-ELEM] lineal [I-ELEM] es [O] positivo [B-ELEM] y [O] tambien [O] el [O] coeficiente [B-ELEM] independiente [I-ELEM]"
+231,polinomio [B-EXTYPE] grado [B-ATRIB] 2 [B-ATVAL]
+239,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 5 [B-ATVAL]
+239,Polinomio [B-EXTYPE] en [O] orden [B-ATRIB] ascendente [B-ATVAL] de [O] potencias [O] de [O] quinto [B-ATVAL] grado [B-ATRIB] con [O] valores [O] fraccionarios [B-NSET]
+272,polinomio [B-EXTYPE] grado [B-ATRIB] 7 [B-ATVAL] completo [B-EXCHAR] con [O] coeficientes [B-ELEM] racionales [B-NSET]
+272,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 7 [B-ATVAL] completo [B-EXCHAR] , [O] sin [B-EXCHAR] orden [I-EXCHAR] y [O] con [O] todos [O] sus [O] coeficientes [B-ELEM] fraccionarios [B-NSET] negativos [B-ELCHAR]"
+294,"Polinomio [B-EXTYPE] grado [B-ATRIB] 8 [B-ATVAL] , [O] completo [B-EXCHAR]"
+294,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 8 [B-EXCHAR] de [O] 9 [B-ELCOUNT] términos [B-ELEM]
+326,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 6 [B-ATVAL]
+337,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 3 [B-ATVAL]
+345,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 3 [B-ATVAL] con [O] 4 [B-ELCOUNT] términos [B-ELEM]
+351,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 3 [B-ATVAL] completo [B-EXCHAR] con [O] variable [B-ELEM] x [B-VAR]
+351,"un [O] polinomio [B-EXTYPE] de [O] 4 [B-ELCOUNT] términos [B-ELEM] , [O] de [O] grado [B-ATRIB] 3 [B-ATVAL] completo [B-EXCHAR] y [O] con [O] constantes [B-ELEM] negativas [B-ELCHAR]"
+354,"un [O] polinomio [B-EXTYPE] de [O] 7 [B-ELCOUNT] términos [B-ELEM] , [O] de [O] grado [B-ATRIB] 6 [B-ATVAL] , [O] completo [B-EXCHAR] , [O] ordenado [B-EXCHAR] , [O] con [O] constantes [B-ELEM] racionales [B-NSET]"
+354,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 6 [B-ATVAL] completo [B-EXCHAR] con [O] variable [B-ELEM] x [B-VAR]
+363,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] seis [B-ATVAL] completo [B-EXCHAR]
+363,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 6 [B-ATVAL] , [O] ordenado [B-EXCHAR] , [O] todos [O] los [O] coeficientes [B-ELEM] de [O] signo [O] negativo [B-ELCHAR] y [O] fraccionarios [B-NSET]"
+365,Polinomio [B-EXTYPE] grado [B-ATRIB] ocho [B-ATVAL] ordenado [B-EXCHAR] de [O] menor [O] a [O] mayor [O] potencia [O]
+365,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] ocho [B-ATVAL]
+378,"Un [O] polinomio [B-EXTYPE] cuadrático [B-EXCHAR] de [O] coeficientes [B-ELEM] fraccionarios [B-NSET] completo. [B-EXCHAR] 15 [B-ELVAL] / [I-ELVAL] 16 [I-ELVAL] es [O] el [O] coeficiente [B-ELEM] principal [I-ELEM] , [O] -20 [B-ELVAL] / [I-ELVAL] 15 [I-ELVAL] el [O] lineal [B-ELEM] y [O] 4 [B-ELVAL] / [I-ELVAL] 18 [I-ELVAL] el [O] independiente [B-ELEM]"
+378,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 2 [B-ATVAL] , [O] contiene [O] 3 [B-ELCOUNT] términos [B-ELEM] y [O] está [O] completo [B-EXCHAR]"
+379,"Polinomio [B-EXTYPE] de [O] dos [B-ELCOUNT] términos [B-ELEM] , [O] con [O] maximo [B-ELEM] exponente [I-ELEM] 1 [B-ELVAL]"
+379,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 1 [B-ATVAL] , [O] tiene [O] 2 [B-ELCOUNT] términos [B-ELEM] y [O] contiene [O] variable [B-ELEM] x [B-VAR]"
+391,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 6 [B-ATVAL] completo [B-EXCHAR]
+409,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 2 [B-ATVAL] de [O] 3 [B-ELCOUNT] terminos. [B-ELEM] Su [O] coeficiente [B-ELEM] principal [I-ELEM] es [O] 2 [B-ELVAL] / [I-ELVAL] 13 [I-ELVAL] . [O]
+411,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 5 [B-ATVAL] completo [B-EXCHAR]
+427,"binomio [B-EXTYPE] , [O] grado [B-ATRIB] 1 [B-ATVAL] , [O] completo [B-EXCHAR] , [O] coeficiente [B-ELEM] principal [I-ELEM] -1 [B-ELVAL] / [I-ELVAL] 4 [I-ELVAL]"
+440,Polinomio [B-EXTYPE] grado [B-ATRIB] 7 [B-ATVAL] ordendo [B-EXCHAR] de [O] forma [O] de [O] grado [B-ATRIB] decreciente [B-ATVAL]
+440,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 7 [B-ATVAL]
+448,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 7 [B-ATVAL] completo [B-EXCHAR] , [O] con [O] 8 [B-ELCOUNT] términos [B-ELEM] , [O] con [O] coeficiente [B-ELEM] principal [I-ELEM] ( [O] 4 [B-ELVAL] / [I-ELVAL] 3 [I-ELVAL] ) [O] , [O] con [O] coeficientes [B-ELEM] fraccionarios [B-NSET] desordenados [B-ELCHAR] . [O]"
+452,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] uno [B-ATVAL] , [O] completo [B-EXCHAR] y [O] variable [B-ELEM] x [B-VAR]"
+460,expresion [B-EXTYPE] polinomica [I-EXTYPE] de [O] grado [B-ATRIB] 5 [B-EXCHAR] con [O] 6 [B-ELCOUNT] terminos [B-ELEM]
+471,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 7 [B-ATVAL]
+473,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 3 [B-ATVAL]
+493,polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 3 [B-ATVAL]
+505,"Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 6 [B-ATVAL] , [O] con [O] variable [B-ELEM] x [B-VAR] , [O] desordenado [B-EXCHAR] , [O] con [O] coeficientes [B-ELEM] fraccionario [B-NSET] . [O]"
+505,polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 6 [B-ATVAL] completo [B-EXCHAR]
+515,Coeficiente [B-ELEM] mayor [I-ELEM] grado [O] 10 [B-ELVAL] / [I-ELVAL] 11 [I-ELVAL] Grado [B-ATRIB] de [O] polinomio [B-EXTYPE] 6 [B-ATVAL]
+542,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 7 [B-ATVAL] completo [B-EXCHAR] , [O] desordenado [B-EXCHAR] con [O] todos [O] sus [O] coeficientes [B-ELEM] fraccionarios [B-NSET] y [O] negativos [B-ELCHAR]"
+543,"Polinomio [B-EXTYPE] con [O] coeficientes [B-ELEM] fraccionarios [B-NSET] , [O] completo [B-EXCHAR] de [O] grado [B-ATRIB] 4 [B-ATVAL]"
+556,"Polinomio [B-EXTYPE] ordenado [B-EXCHAR] de [O] forma [O] decreciente [O] con [O] todas [O] fracciones [B-NSET] como [O] coeficientes. [B-ELEM] Está [O] completo [B-EXCHAR] , [O] de [O] grado [B-ATRIB] 8 [B-ATVAL]"
+556,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 8 [B-ATVAL] completo [B-EXCHAR] , [O] con [O] coeficientes [B-ELEM] fraccionarios [B-NSET] , [O] con [O] signos [B-EXCHAR] mixtos [I-EXCHAR] y [O] en [O] orden [B-ATRIB] descendente [B-ATVAL]"
+10,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] dos [B-ATVAL] con [O] coeficientes [B-ELEM] negativos [B-ELCHAR]
+10,polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 2 [B-ATVAL] completo [B-EXCHAR] ordenado [B-EXCHAR] de [O] 3 [B-ELCOUNT] terminos [B-ELEM] con [O] coeficientes [B-ELEM] decimales [B-NSET]
+32,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL] ordenado [B-EXCHAR]
+51,Un [O] polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 8 [B-ATVAL] completo. [B-EXCHAR] Los [O] coeficientes [B-ELEM] son [O] reales [B-NSET] con [O] un [B-ELCOUNT] decimal [B-NSET] . [O]
+51,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 8 [B-ATVAL]
+68,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 5 [B-ATVAL] completo [B-EXCHAR]
+79,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 3 [B-ATVAL]
+79,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 4 [B-ATVAL] con [O] coeficientes [B-ELEM] decimales [B-NSET] positivos. [B-ELCHAR] Los [O] terminos [B-ELEM] no [B-ELCHAR] estan [I-ELCHAR] ordenados [I-ELCHAR]
+90,"Polinimio [B-EXTYPE] completo [B-EXCHAR] , [O] desordenado [B-EXCHAR] de [O] grado [B-ATRIB] 6 [B-ATVAL] con [O] coeficientes [B-ELEM] decimales [B-NSET]"
+126,"Polinomio [B-EXTYPE] de [O] coeficientes [B-ELEM] positivos [B-ELCHAR] decimales [B-NSET] , [O] completo [B-EXCHAR] y [O] de [O] grado [B-ATRIB] 5. [B-ATVAL] Esta [O] ordenado [B-EXCHAR] de [O] mayor [O] a [O] menor [O]"
+126,Es [O] un [O] polinomio [B-EXTYPE] de [O] grado [B-ATRIB] cinco [B-ATVAL] completo [B-EXCHAR]
+137,"Una [O] expresión [B-EXTYPE] polinomica [I-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL] , [O] con [O] coeficiente [B-ELEM] principal [I-ELEM] 38.3 [B-ELVAL] , [O] coeficiente [B-ELEM] de [I-ELEM] grado [I-ELEM] 3 [I-ELEM] de [O] 1.5 [B-ELVAL] , [O] coeficiente [B-ELEM] de [I-ELEM] grado [I-ELEM] 2 [I-ELEM] de [O] 6.3 [B-ELVAL] , [O] coeficiente [B-ELEM] grado [I-ELEM] 1 [I-ELEM] de [O] 13.1 [B-ELVAL] y [O] termino [B-ELEM] independiente [I-ELEM] de [O] 4 [B-ELVAL]"
+154,polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 5 [B-ATVAL]
+154,"polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 5 [B-ATVAL] con [O] todos [O] sus [O] términos [B-ELEM] , [O] con [O] coeficientes [B-ELEM] racionales [B-NSET] expresados [O] como [O] números [O] con [O] coma [O]"
+157,"Es [O] el [O] opuesto [O] a [O] un [O] polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 5 [B-ATVAL] , [O] compuesto [O] por [O] 6 [B-ELCOUNT] términos [B-ELEM] dónde [O] los [O] coeficientes [B-ELEM] son [O] números [O] racionales [B-NSET]"
+181,Polinomio [B-EXTYPE] cuadrático [B-EXCHAR] completo [B-EXCHAR] con [O] coeficientes [B-ELEM] decimales. [B-NSET] Está [O] en [O] orden [B-ATRIB] creciente [B-ATVAL]
+193,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 7 [B-ATVAL] completo [B-EXCHAR] con [O] coeficientes [B-ELEM] decimales [B-NSET] negativos. [B-ELCHAR] Ordenado [B-EXCHAR] de [O] forma [O] descendiente [O]
+193,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 7 [B-ATVAL] con [O] todos [O] sus [O] coeficientes [B-ELEM] decimales [B-NSET] negativos. [B-ELCHAR] El [O] polinomio [B-EXTYPE] está [O] ordenado [B-EXCHAR] en [O] orden [B-ATRIB] descendente [B-ATVAL]
+208,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 2 [B-ATVAL] completo [B-EXCHAR]
+208,Polinomio [B-EXTYPE] de [O] segundo [B-ATVAL] grado [B-ATRIB] completo [B-EXCHAR] y [O] con [O] números [B-ELEM] decimales [B-NSET]
+223,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 8 [B-ATVAL]
+230,polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 1 [B-ATVAL]
+230,Un [O] polinomio [B-EXTYPE] lineal [B-EXCHAR] de [O] coeficientes [B-ELEM] decimales [B-NSET] y [O] completo [B-EXCHAR]
+232,"es [O] un [O] polinomio [B-EXTYPE] de [O] grado [B-ATRIB] uno [B-ATVAL] completo [B-EXCHAR] , [O] con [O] coeficiente [B-ELEM] principal [I-ELEM] -15,3 [B-ELVAL] y [O] término [B-ELEM] independiente [I-ELEM] -39 [B-ELVAL]"
+232,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 1 [B-ATVAL] completo [B-EXCHAR] con [O] números [B-ELEM] decimales [B-NSET] negativos [B-ELCHAR]
+240,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 5 [B-ATVAL] Coeficientes [B-ELEM] decimales [B-NSET] Coeficiente [B-ELEM] Independiente=5.8 [I-ELEM] 6 [B-ELCOUNT] términos [B-ELEM]
+240,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 5 [B-ATVAL]
+267,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL] completo [B-EXCHAR]
+267,polinomio [B-EXTYPE] completo [B-EXCHAR] y [O] desordenado [B-EXCHAR] de [O] grado [B-ATRIB] 4 [B-ATVAL]
+295,"Polinomio [B-EXTYPE] grado [B-ATRIB] 4 [B-ATVAL] , [O] completo [B-EXCHAR]"
+295,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL] con [O] 5 [B-ELCOUNT] terminos [B-ELEM]
+308,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 2 [B-ATVAL] , [O] ordenado [B-EXCHAR]"
+308,un [O] polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 2 [B-ATVAL] completo [B-EXCHAR]
+325,Polinomios [B-EXTYPE] cuadrático [B-EXCHAR] completo [B-EXCHAR] con [O] coeficientes [B-ELEM] decimales [B-NSET]
+333,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] cuatro [B-ATVAL] , [O] completo [B-EXCHAR] y [O] ordenado [B-EXCHAR] , [O] con [O] coeficientes [B-ELEM] negativos [B-ELCHAR]"
+338,Polinimio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL] completo [B-EXCHAR] y [O] coeficientes [B-ELEM] decimales [B-NSET] positivos [B-ELCHAR]
+342,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL] completo [B-EXCHAR]
+399,Polinomio [B-EXTYPE] grado [B-ATRIB] 5 [B-ATVAL] completo [B-EXCHAR]
+407,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 3 [B-ATVAL] completo. [B-EXCHAR] Posee [O] 4 [B-ELCOUNT] terminos [B-ELEM] , [O] los [O] terminos [B-ELEM] 2 [I-ELEM] y [I-ELEM] 3 [I-ELEM] son [O] negativos [B-ELCHAR] . [O]"
+418,"Polinomio [B-EXTYPE] de [O] sexto [B-ATVAL] grado [B-ATRIB] completo [B-EXCHAR] , [O] con [O] coeficientes [B-ELEM] decimales [B-NSET] negativos [B-ELCHAR]"
+419,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 7 [B-ATVAL] , [O] completo [B-EXCHAR] , [O] desordenado [B-EXCHAR] y [O] con [O] coeficientes [B-ELEM] decimales [B-NSET]"
+419,Polinomio [B-EXTYPE] grado [B-ATRIB] 7 [B-ATVAL] desordenado [B-EXCHAR] completo [B-EXCHAR]
+429,"polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 3 [B-ATVAL] , [O] completo [B-EXCHAR] , [O] con [O] coeficiente [B-ELEM] principal [I-ELEM] 25.8 [B-ELVAL] , [O] con [O] 4 [B-ELCOUNT] términos [B-ELEM]"
+429,"polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 3 [B-ATVAL] , [O] tiene [O] el [O] primer [B-ELEM] coeficiente [I-ELEM] negativo [B-ELCHAR] , [O] y [O] ningun [B-ELCOUNT] coeficiente [B-ELEM] es [O] entero [B-NSET]"
+459,polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 2 [B-ATVAL] con [O] 3 [B-ELCOUNT] terminos [B-ELEM]
+462,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL]
+499,Un [O] polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 5 [B-ATVAL] desordenado [B-EXCHAR]
+523,Polinomio [B-EXTYPE] completo [B-EXCHAR] grado [B-ATRIB] 4 [B-ATVAL]
+523,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL] completo [B-EXCHAR] de [O] 5 [B-ELCOUNT] terminos [B-ELEM]
+537,"Polinomio [B-EXTYPE] de [O] coeficientes [B-ELEM] decimales [B-NSET] negativos [B-ELCHAR] , [O] completo [B-EXCHAR] y [O] de [O] grado [B-ATRIB] 3 [B-ATVAL]"
+2,"polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 6 [B-ATVAL] con [O] coeficiente [B-ELEM] principal [I-ELEM] -149 [B-ELVAL] , [O] de [O] dos [B-ELCOUNT] términos [B-ELEM]"
+2,polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 6 [B-ATVAL] de [O] dos [B-ELCOUNT] términos. [B-ELEM] Solo [O] términos [B-ELEM] principal [I-ELEM] y [O] de [O] potencia [O] 3 [B-ELVAL]
+15,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 11 [B-ATVAL] con [O] dos [B-ELCOUNT] términos [B-ELEM] con [O] números [B-ELEM] fraccionarios [B-NSET]
+18,Polinomio [B-EXTYPE] incompleto [B-EXCHAR] de [O] grado [B-ATRIB] 1 [B-ATVAL]
+18,Monomio [B-EXTYPE] de [O] grado [B-ATRIB] 1. [B-ATVAL] Coeficiente [B-ELEM] 190 [B-ELVAL]
+18,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 1 [B-ATVAL]
+24,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 9 [B-ATVAL] , [O] desordenado [B-EXCHAR] con [O] todos [B-ELCOUNT] los [O] coeficientes [B-ELEM] negativos [B-NSET]"
+48,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] doce [B-ATVAL] incompleto [B-EXCHAR] , [O] falta [O] un [O] término. [B-ELEM] Todo [B-ELCOUNT] los [O] coeficientes [B-ELEM] son [O] positivos [B-ELCHAR] . [O]"
+58,"Monomio [B-EXTYPE] de [O] grado [B-ATRIB] 3 [B-ATVAL] , [O] coeficiente [B-ELEM] principal [I-ELEM] 167 [B-ELVAL] , [O] variable [B-ELEM] x [B-VAR]"
+58,Polinomio [B-EXTYPE] de [O] tercer [B-ATRIB] grado [B-ATVAL] con [O] solo [O] término [B-ELEM] principal [I-ELEM] y [O] coeficiente [B-ELEM] natural [B-NSET] grande [B-ELCHAR]
+66,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 1 [B-ATVAL]
+66,Polinomio [B-EXTYPE] grado [B-ATRIB] 1 [B-ATVAL]
+69,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 8 [B-ATVAL] incompleto [B-EXCHAR] con [O] solo [O] termino [B-ELEM] principal [I-ELEM] y [O] negativo [B-ELCHAR]
+69,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 8 [B-ATVAL] incompleto [B-EXCHAR]
+69,Polinomio [B-EXTYPE] grado [B-ATRIB] 8 [B-ATVAL]
+77,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 3 [B-ATVAL] sin [O] término [B-ELEM] cuadrático [I-ELEM]
+82,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 3 [B-ATVAL] incompleto [B-EXCHAR] con [O] 3 [B-ELCOUNT] términos. [B-ELEM] Termino [B-ELEM] independiente [I-ELEM] fraccionario [B-NSET]
+82,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 3 [B-ATVAL] con [O] números [B-ELEM] grandes [B-ELCHAR] positivos. [B-ELCHAR] Está [O] ordenado [B-EXCHAR] de [O] forma [O] decreciente [O] y [O] le [O] falta [O] el [O] término [B-ELEM] cuadratico [I-ELEM]
+93,Polinomio [B-EXTYPE] lineal [B-EXCHAR] con [O] solo [O] término [B-ELEM] principal. [I-ELEM] El [O] coeficiente [B-ELEM] principal [I-ELEM] es [O] 198 [B-ELVAL]
+94,"Polinomio [B-EXTYPE] incompleto [B-EXCHAR] de [O] grado [B-ATRIB] 15 [B-ATVAL] , [O] ordenado [B-EXCHAR] en [O] forma [O] descendiente [O] y [O] todos [O] sus [O] coeficientes [B-ELEM] positivos [B-ELCHAR]"
+95,"Polinomio [B-EXTYPE] incompleto [B-EXCHAR] de [O] grado [B-ATRIB] 10 [B-ATVAL] sin [B-ELCOUNT] término [B-ELEM] lineal [I-ELEM] , [O] coeficientes [B-ELEM] negativos [B-ELCHAR] y [O] valores [O] grandes [O] cercanos [O] al [O] 100 [O]"
+95,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 10 [B-ATVAL] incompleto [B-EXCHAR]
+117,Un [O] polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL] incompleto [B-EXCHAR] con [O] tres [B-ELCOUNT] terminos [B-ELEM]
+117,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL] incompleto [B-EXCHAR] con [O] 3 [B-ELCOUNT] terminos [B-ELEM] y [O] coeficiente [B-ELEM] principal [I-ELEM] -119 [B-ELVAL]
+134,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 6 [B-ATVAL] incompleto [B-EXCHAR]
+139,"Polinomio [B-EXTYPE] incompleto [B-EXCHAR] de [O] grado [B-ATRIB] 7 [B-ATVAL] con [O] dos [B-ELCOUNT] términos [B-ELEM] , [O] el [O] coeficiente [B-ELEM] principal [I-ELEM] y [O] el [O] término [B-ELEM] independiente [I-ELEM]"
+139,Polinomio [B-EXTYPE] de [O] séptimo [B-ATVAL] grado [B-ATRIB] con [O] solo [O] términos [B-ELEM] principal [I-ELEM] e [O] independiente [B-ELEM]
+142,Monomio [B-EXTYPE] de [O] grado [B-ATRIB] 1 [B-ATVAL] con [O] coeficiente [B-ELEM] fraccionario [B-NSET] positivo [B-ELCHAR]
+142,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 1 [B-ATVAL] incompleto [B-EXCHAR] con [O] 1 [B-ELCOUNT] término [B-ELEM]
+149,"polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 6 [B-ATVAL] , [O] incompleto [B-EXCHAR] , [O] de [O] dos [B-ELCOUNT] términos [B-ELEM]"
+150,"monomio [B-EXTYPE] de [O] grado [B-ATRIB] quince [B-ATVAL] , [O] con [O] coeficiente [B-ELEM] entero [B-NSET]"
+187,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 6 [B-ATVAL] incompleto [B-EXCHAR] con [O] coeficiente [B-ELEM] principal [I-ELEM] de [O] -9 [B-ELVAL] y [O] todos [B-ELCOUNT] los [O] números [B-ELEM] negativos [B-ELCHAR]
+187,polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 6 [B-ATVAL] incompleto [B-EXCHAR]
+197,"Polinomio [B-EXTYPE] grado [B-ATRIB] 9 [B-ATVAL] , [O] incompleto [B-EXCHAR] , [O] coeficiente [B-ELEM] principal [I-ELEM] 26 [B-ELVAL] y [O] 6 [B-ELCOUNT] términos [B-ELEM]"
+209,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 11 [B-ATVAL] incompleto [B-EXCHAR] con [O] coeficientes [B-ELEM] negativos [B-ELCHAR]
+210,"Polinomio [B-EXTYPE] de [O] dos [B-ELCOUNT] términos [B-ELEM] , [O] uno [O] de [O] potencia [B-ELEM] 12 [B-ELVAL] y [O] otro [O] 7. [B-ELVAL] Los [O] coeficientes [B-ELEM] son [O] respectivamente [O] 158 [B-ELVAL] y [O] 55 [B-ELVAL]"
+221,Polinomio [B-EXTYPE] incompleto [B-EXCHAR] de [O] grado [B-ATRIB] 8 [B-ATVAL]
+221,"polinomio [B-EXTYPE] , [O] tiene [O] grado [B-ATRIB] 8 [B-ATVAL] , [O] está [O] ordenado [B-EXCHAR] aunque [O] incompleto. [B-EXCHAR] El [O] coeficiente [B-ELEM] principal [I-ELEM] es [O] -139 [B-ELVAL] y [O] el [O] término [B-ELEM] independiente [I-ELEM] es [O] 0 [B-ELVAL] . [O]"
+228,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 6 [B-ATVAL] , [O] coeficiente [B-ELEM] principal [I-ELEM] -75 [B-ELVAL] / [I-ELVAL] 154 [I-ELVAL] , [O] incompleto [B-EXCHAR]"
+245,Polinomio [B-EXTYPE] incompleto [B-EXCHAR] de [O] grado [B-ATRIB] 8 [B-ATVAL]
+283,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 15 [B-ATVAL] , [O] con [O] 7 [B-ELCOUNT] términos [B-ELEM] , [O] y [O] todos [B-ELCOUNT] ellos [O] restando [O]"
+311,Polinomios [B-EXTYPE] de [O] grado [B-ATRIB] 15 [B-ATVAL] con [O] coeficientes [B-ELEM] racionales. [B-NSET] El [O] término [B-ELEM] independiente [I-ELEM] es [O] -74 [B-ELVAL] y [O] el [O] coeficiente [B-ELEM] principal [I-ELEM] es [O] 150 [B-ELVAL] . [O]
+335,"polinomio [B-EXTYPE] a [O] coeficientes [B-ELEM] reales [B-NSET] ( [O] incluso [O] racionales [B-NSET] ) [O] . [O] estaría [O] ordenado [B-EXCHAR] en [O] forma [O] descendiente [O] , [O] su [O] grado [B-ATRIB] es [O] 4 [B-ATVAL] , [O] coeficiente [B-ELEM] principal [I-ELEM] -65 [B-ELVAL] y [O] el [O] término [B-ELEM] independiente [I-ELEM] es [O] 0 [B-ELVAL] . [O]"
+335,Polinomio [B-EXTYPE] completo [B-EXCHAR] de [O] grado [B-ATRIB] 4 [B-ATVAL]
+339,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 2 [B-ATVAL]
+340,Monomio [B-EXTYPE] de [O] grado [B-ATRIB] 10 [B-ATVAL]
+346,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 8 [B-ATVAL] , [O] esta [O] incompleto [B-EXCHAR] , [O] faltan [O] los [O] terminos [B-ELEM] de [O] grados [O] 7,6,5,4,2,1,0 [B-ELVAL] Coef. [B-ELEM] Principal:189 [I-ELEM]"
+346,Polinimio [B-EXTYPE] incompleto [B-EXCHAR] de [O] grado [B-ATRIB] 8 [B-ATVAL]
+348,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 11 [B-ATVAL] Polinomio [B-EXTYPE] desordenado [B-EXCHAR] Faltan [O] los [O] monomios [B-ELEM] de [O] grados [O] 10,9,6,5,3,2,1,0 [B-ELVAL] Coef. [B-ELEM] Proncipal:64 [I-ELEM]"
+348,Polinomio [B-EXTYPE] incompleto [B-EXCHAR] de [O] grado [B-ATRIB] 11 [B-ATVAL]
+369,"Polinomio [B-EXTYPE] incompleto [B-EXCHAR] de [O] grado [B-ATRIB] 13 [B-ATVAL] de [O] 13 [B-ELCOUNT] términos [B-ELEM] , [O] falta [O] el [O] término [B-ELEM] con [O] exponente [O] 12 [B-ELVAL] . [O]"
+372,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 1 [B-ATVAL] incompleto [B-EXCHAR]
+380,Polinomio [B-EXTYPE] incompleto [B-EXCHAR] de [O] grado [B-ATRIB] 2 [B-ATVAL] con [O] coeficiente [B-ELEM] principal [I-ELEM] -79 [B-ELVAL]
+380,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 2 [B-ATVAL] , [O] se [O] encuentra [O] incompleto [B-EXCHAR] y [O] solo [O] tiene [O] un [B-ELCOUNT] término [B-ELEM]"
+384,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 8 [B-ATVAL] incompleto [B-EXCHAR] con [O] 4 [B-ELCOUNT] terminos [B-ELEM]
+413,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 11 [B-ATVAL] incompleto [B-EXCHAR]
+413,"Polinomio [B-EXTYPE] con [O] coeficientes [B-ELEM] negativos [B-ELCHAR] de [O] grado [B-ATRIB] 11 [B-ATVAL] , [O] incompleto [B-EXCHAR] y [O] con [O] números [B-ELEM] grandes [B-ELCHAR]"
+421,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 13 [B-ATVAL] incompleto [B-EXCHAR] con [O] 8 [B-ELCOUNT] términos [B-ELEM] y [O] coeficientes [B-ELEM] grandes [B-ELCHAR] positivos [B-ELCHAR]
+425,Polinomio [B-EXTYPE] incompleto [B-EXCHAR] de [O] grado [B-ATRIB] 15 [B-ATVAL] ( [O] variable [B-ELEM] x [B-VAR] ) [O]
+430,"polinomio [B-EXTYPE] grado [B-ATRIB] 12 [B-ATVAL] , [O] incompleto [B-EXCHAR] y [O] solo [O] 4 [B-ELCOUNT] términos [B-ELEM] con [O] coeficientes [B-ELEM] enteros [B-NSET] positivos [B-ELCHAR]"
+430,"polinomio [B-EXTYPE] grado [B-ATRIB] 12 [B-ATVAL] , [O] incompleto [B-EXCHAR] , [O] 4 [B-ELCOUNT] términos [B-ELEM] , [O] coeficiente [B-ELEM] principal [I-ELEM] 39 [B-ELVAL]"
+437,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 5 [B-ATVAL]
+437,Polinomio [B-EXTYPE] grado [B-ATRIB] 5 [B-ATVAL] incompleto [B-EXCHAR]
+442,"Polinomios [B-EXTYPE] de [O] coeficientes [B-ELEM] reales [B-NSET] , [O] ordenados [B-EXCHAR] de [O] mayor [O] a [O] menor [O] grado [O] , [O] a [O] excepción [O] del [O] grado [O] 9,8 [B-ELVAL] y [O] 4 [B-ELVAL]"
+442,"Polinomio [B-EXTYPE] incompleto [B-EXCHAR] y [O] ordenado [B-EXCHAR] de [O] forma [O] descendiente [O] , [O] de [O] grado [B-ATRIB] 14 [B-ATVAL] con [O] números [B-ELEM] mayores [O] a [O] 100 [O] y [O] todos [O] positivos [B-ELCHAR]"
+450,"Es [O] un [O] polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 10 [B-ATVAL] , [O] incompleto [B-EXCHAR]"
+466,"Polinomio [B-EXTYPE] ordenado [B-EXCHAR] de [O] grado [B-ATRIB] 13 [B-ATVAL] , [O] incompleto [B-EXCHAR] y [O] con [O] 3 [B-ELCOUNT] términos [B-ELEM] , [O] coeficientes [B-ELEM] enteros [B-NSET] y [O] fraccionarios [B-NSET] , [O] donde [O] el [O] coeficiente [B-ELEM] principal [I-ELEM] es [O] -84 [B-ELVAL] . [O]"
+467,"Polinomio [B-EXTYPE] desordenado [B-EXCHAR] e [O] incompleto [B-EXCHAR] ( [O] falta [O] el [O] término [B-ELEM] independiente [I-ELEM] ) [O] de [O] grado [B-ATRIB] 9. [B-ATVAL] Se [O] compone [O] con [O] coeficientes [B-ELEM] enteros [B-NSET] y [O] fraccionarios [B-NSET] , [O] su [O] coeficiente [B-ELEM] principal [I-ELEM] es [O] -195. [B-ELVAL] Está [O] formado [O] por [O] 9 [B-ELCOUNT] términos [B-ELEM] . [O]"
+467,Polinomio [B-EXTYPE] desordenado [B-EXCHAR] de [O] grado [B-ATRIB] 9 [B-ATVAL] con [O] coeficientes [B-ELEM] positivos [B-ELCHAR] y [O] negativos [B-ELCHAR] grandes [B-ELCHAR] y [O] algunas [O] fracciones [B-NSET]
+480,"Polinomio [B-EXTYPE] desordenado [B-EXCHAR] e [O] incompleto [B-EXCHAR] de [O] grado [B-ATRIB] 11 [B-ATVAL] , [O] con [O] 11 [B-ELCOUNT] términos [B-ELEM] y [O] coeficientes [B-ELEM] enteros [B-NSET] y [O] fraccionarios [B-NSET] . [O]"
+483,Polinomio [B-EXTYPE] incompleto [B-EXCHAR] de [O] grado [B-ATRIB] uno [B-ATVAL]
+486,"Un [O] polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 13 [B-ATVAL] ordenado [B-EXCHAR] de [O] mayor [O] a [O] menor [O] , [O] los [O] coeficientes [B-ELEM] del [O] polinomio [B-EXTYPE] que [O] van [O] del [O] grado [O] 12 [O] hasta [O] el [O] 3 [O] son [O] igual [O] a [O] 0 [B-ELVAL]"
+498,"Monomio [B-EXTYPE] con [O] coeficiente [B-ELEM] negativo [B-ELCHAR] , [O] variable [B-ELEM] “x” [B-ELCHAR] y [O] su [O] exponente [B-ATRIB] o [O] grado [B-ATRIB] 4 [B-ATVAL]"
+521,Polinomio [B-EXTYPE] incompleto [B-EXCHAR] de [O] grado [B-ATRIB] 4. [B-ATVAL] Coeficiente [B-ELEM] principal [I-ELEM] 67 [B-ELVAL]
+529,Polinomio [B-EXTYPE] incompleto [B-EXCHAR] de [O] grado [B-ATRIB] 7 [B-ATVAL]
+529,Polinomio [B-EXTYPE] de [O] séptimo [B-ATVAL] grado [B-ATRIB] con [O] coeficientes [B-ELEM] grandes [B-ELCHAR] y [O] positivos. [B-ELCHAR] Son [O] coeficientes [B-ELEM] enteros [B-NSET] y [O] fraccionarios. [B-NSET] El [O] polinomio [B-EXTYPE] es [O] desordenado [B-EXCHAR] y [O] le [O] faltan [O] los [O] términos [B-ELEM] cuadrático [I-ELEM] e [O] independiente [B-ELEM]
+8,polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 2 [B-ATVAL] con [O] 2 [B-ELCOUNT] términos [B-ELEM] incompleto [B-EXCHAR]
+8,Polinomio [B-EXTYPE] incompleto [B-EXCHAR] de [O] grado [B-ATRIB] dos [B-ATVAL] con [O] coeficiente [B-ELEM] principal [I-ELEM] negativo [B-ELCHAR]
+43,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL] , [O] con [O] números [B-ELEM] complejos [B-NSET] , [O] en [B-EXCHAR] desorden [I-EXCHAR]"
+43,"Polinomio [B-EXTYPE] incompleto [B-EXCHAR] de [O] cuarto [B-ATVAL] grado [B-ATRIB] en [O] indeterminada [B-ELEM] "" [O] y [B-VAR] "" [O] , [O] le [O] falta [O] solo [O] el [O] termino [B-ELEM] independiente. [I-ELEM] El [O] coeficiente [B-ELEM] principal [I-ELEM] es [O] un [O] número [O] complejo [B-NSET]"
+46,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] cinco [B-ATVAL] , [O] hay [O] números [B-ELEM] complejos [B-NSET] , [O] en [O] desorden [B-EXCHAR] , [O] 3 [B-ELCOUNT] términos [B-ELEM]"
+57,"Polinomio [B-EXTYPE] grado [B-ATRIB] 4 [B-EXCHAR] y [O] variable [B-ELEM] "" [O] y [B-VAR] "" [O]"
+57,Polinomio [B-EXTYPE] de [O] cuarto [B-ATVAL] grado [B-ATRIB] con [O] solo [O] el [O] termino [B-ELEM] principal. [I-ELEM] El [O] coeficiente [B-ELEM] principal [I-ELEM] es [O] 5 [B-ELVAL] y [O] la [O] variable [O] es [O] y [B-VAR]
+67,Polinomio [B-EXTYPE] grado [B-ATRIB] 2 [B-ATVAL]
+67,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 2 [B-ATVAL] incompleto [B-EXCHAR]
+74,Polinomio [B-EXTYPE] incompleto [B-EXCHAR] de [O] grado [B-ATRIB] 4 [B-ATVAL] con [O] indeterminada [B-ELEM] y [B-VAR]
+81,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 15 [B-ATVAL] incompleto [B-EXCHAR] y [O] desordenado. [B-EXCHAR] La [O] indeterminada [B-ELEM] es [O] "" [O] y [B-VAR] "" [O]"
+81,Polinomio [B-EXTYPE] complejo [B-NSET] de [O] grado [B-ATRIB] 15 [B-ATVAL] incompleto [B-EXCHAR]
+83,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 13 [B-ATVAL] con [O] coeficientes [B-ELEM] complejos [B-NSET] , [O] fraccionarios [B-NSET] y [O] naturales [B-NSET]"
+83,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 13 [B-ATVAL] Incompleto [B-EXCHAR] y [O] desordenado [B-EXCHAR] Coeficientes [B-ELEM] enteros [B-NSET] , [O] raciones [B-NSET] e [O] imaginarios [B-NSET]"
+99,Polinomio [B-EXTYPE] incompleto [B-EXCHAR] de [O] grado [B-ATRIB] 10 [B-ATVAL] con [O] variable [B-ELEM] y [B-VAR]
+99,"Polinomio [B-EXTYPE] en [O] variable [B-ELEM] "" [O] y [B-VAR] "" [O] de [O] décimo [B-ATVAL] grado [B-ATRIB] , [O] incompleto [B-EXCHAR] , [O] con [O] 6 [B-ELCOUNT] términos [B-ELEM]"
+116,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 9 [B-ATVAL] en [O] indeterminada [B-ELEM] y [B-VAR]
+116,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 9 [B-ATVAL] incompleto [B-EXCHAR] desordenado [B-EXCHAR] , [O] variable [B-ELEM] y [B-VAR] , [O] 5 [B-ELCOUNT] términos [B-ELEM] , [O] coeficiente [B-ELEM] principal [I-ELEM] -24 [B-ELVAL]"
+128,Polinimio [B-EXTYPE] de [O] grado [B-ATRIB] 15 [B-ATVAL] incompleto [B-EXCHAR]
+128,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 15 [B-ATVAL] en [O] indeterminada [B-ELEM] "" [O] y [B-VAR] "" [O] . [O] El [O] polinomio [B-EXTYPE] está [O] incompleto [B-EXCHAR] y [O] desordenado [B-EXCHAR]"
+140,polinomio [B-EXTYPE] grado [B-ATRIB] 4 [B-ATVAL]
+144,polinomio [B-EXTYPE] grado [B-ATRIB] 1 [B-ATVAL]
+200,"Un [O] polinomio [B-EXTYPE] incompleto [B-EXCHAR] cuadrático [B-EXCHAR] con [O] números [B-ELEM] negativos. [B-ELCHAR] Le [O] falta [O] el [O] término [B-ELEM] lineal [I-ELEM] y [O] la [O] variable [B-ELEM] es [O] "" [O] y [B-VAR] "" [O]"
+200,"es [O] la [O] resta [B-EXTYPE] de [O] un [O] número [B-ELEM] entero [B-NSET] negativo [B-ELCHAR] con [O] un [O] número [B-ELEM] complejo [B-NSET] multiplicado [O] por [O] una [O] variable [B-ELEM] "" [O] y [B-VAR] "" [O] al [B-ELCHAR] cuadrado [I-ELCHAR]"
+207,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 13 [B-ATVAL] incompleto [B-EXCHAR] con [O] Coeficiente [B-ELEM] de [O] números [O] complejos [B-NSET] negativos. [B-ELCHAR] Solo [O] tiene [O] termino [B-ELEM] principal [I-ELEM]
+207,Polinomio [B-EXTYPE] con [O] potencia [B-ELEM] máxima [I-ELEM] 13. [B-ELVAL] Solo [O] término [B-ELEM] principal [I-ELEM] y [O] coeficiente [B-ELEM] -11i [B-ELVAL]
+213,Un [O] polinomio [B-EXTYPE] en [O] indeterminada [B-ELEM] y [B-VAR] de [O] quinto [B-ATVAL] grado. [B-ATRIB] Solo [O] le [O] debe [O] faltar [O] el [O] término [B-ELEM] de [I-ELEM] potencia [I-ELEM] 4 [I-ELEM]
+213,Polinomio [B-EXTYPE] desordenado [B-EXCHAR] Grado [B-ATRIB] 5 [B-ATVAL] Incompleto [B-EXCHAR] ( [O] falta [O] termino [B-ELEM] de [I-ELEM] grado [I-ELEM] 4 [I-ELEM] ) [O] Coeficiente [B-ELEM] independiente [I-ELEM] ( [O] -6 [B-ELVAL] / [I-ELVAL] 4 [I-ELVAL] ) [O]
+218,"polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 9 [B-ATVAL] , [O] incompleto [B-EXCHAR] y [O] con [O] 3 [B-ELCOUNT] términos [B-ELEM]"
+218,"Polinomio [B-EXTYPE] con [O] 2 [B-ELCOUNT] coeficientes [B-ELEM] fraccionarios [B-NSET] y [O] uno [B-ELCOUNT] entero [B-NSET] , [O] de [O] grado [B-ATRIB] 9 [B-ATVAL] incompleto [B-EXCHAR]"
+226,"polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL] incompleto [B-EXCHAR] con [O] 1 [B-ELCOUNT] termino [B-ELEM] de [O] coeficiente [B-ELEM] negativo [B-ELCHAR] y [O] variable [B-ELEM] "" [O] y [B-VAR] "" [O]"
+226,monomio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL] con [O] variable [B-ELEM] y [B-VAR]
+292,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 6 [B-ATVAL] con [O] con [O] una [B-ELCOUNT] constante [B-ELEM] de [O] número [O] complejo [B-NSET]
+292,polinomio [B-EXTYPE] incompleto [B-EXCHAR] de [O] grado [B-ATRIB] 5 [B-ATVAL]
+361,Monomio [B-EXTYPE] con [O] variable [B-ELEM] y [B-VAR]
+361,Polinomio [B-EXTYPE] con [O] variable [B-ELEM] y [B-VAR] de [O] grado [B-ATRIB] 1 [B-ATVAL] Coeficiente [B-ELEM] principal [I-ELEM] menos [B-ELVAL] 16 [I-ELVAL]
+375,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 2 [B-ATVAL] incompleto [B-EXCHAR]
+398,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL] incompleto. [B-EXCHAR] Posee [O] números [B-ELEM] complejos [B-NSET] en [O] sus [O] tres [B-ELCOUNT] componentes [B-ELEM] . [O]
+414,"Polinomio [B-EXTYPE] incompleto [B-EXCHAR] en [O] indeterminada [B-ELEM] "" [O] y [B-VAR] "" [O] de [O] grado [B-ATRIB] 14 [B-ATVAL] con [O] 3 [B-ELCOUNT] términos [B-ELEM]"
+414,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 14 [B-ATVAL]
+420,"Polinomio [B-EXTYPE] incompleto [B-EXCHAR] de [O] grado [B-ATRIB] 3 [B-ATVAL] , [O] con [O] indeterminada [B-ELEM] "" [O] y [B-VAR] "" [O] , [O] y [O] términos [B-ELEM] principal [I-ELEM] y [O] lineal [B-ELEM]"
+420,Un [O] polinomio [B-EXTYPE] cúbico [B-EXCHAR] en [O] indeterminada [B-ELEM] y. [B-VAR] Tiene [O] términos [B-ELEM] lineal [I-ELEM] y [O] principal [B-ELEM]
+453,Polinomio [B-EXTYPE] incompleto [B-EXCHAR] de [O] grado [B-ATRIB] nueve [B-ATVAL] con [O] algunos [O] números [B-ELEM] imaginarios. [B-NSET] Variable [B-ELEM] y [B-VAR]
+468,"Polinomio [B-EXTYPE] ordenado [B-EXCHAR] e [O] incompleto [B-EXCHAR] de [O] grado [B-ATRIB] 3 [B-ATVAL] , [O] con [O] coeficiente [B-ELEM] principal [I-ELEM] -7 [B-ELVAL] , [O] conformado [O] por [O] 2 [B-ELCOUNT] términos. [B-ELEM] Conformado [O] con [O] coeficientes [B-ELEM] enteros [B-NSET] y [O] compejos [B-NSET] . [O]"
+468,"Polinomio [B-EXTYPE] cúbico [B-EXCHAR] incompleto [B-EXCHAR] con [O] variable [B-ELEM] "" [O] y [B-VAR] "" [O]"
+476,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 2 [B-ATVAL] incompleto [B-EXCHAR] , [O] con [O] 2 [B-ELCOUNT] términos [B-ELEM] , [O] con [O] coeficiente [B-ELEM] principal [I-ELEM] ( [O] -9 [B-ELVAL] / [I-ELVAL] 4 [I-ELVAL] ) [O] , [O] ordenado [B-EXCHAR] de [O] mayor [O] a [O] menor [O] y [O] con [O] coeficientes [B-ELEM] fraccionarios [B-NSET] . [O]"
+491,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 13 [B-ATVAL] de [O] coeficientes [B-ELEM] pertenecientes [O] al [O] cuerpo [O] de [O] los [O] numeros [O] complejos [B-NSET] , [O] con [O] el [O] coeficiente [B-ELEM] de [O] y^3 [O] nulo [B-ELCHAR]"
+491,Un [O] polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 13 [B-ATVAL]
+506,Polinomio [B-EXTYPE] incompleto [B-EXCHAR] de [O] grado [B-ATRIB] 10 [B-ATVAL] con [O] 3 [B-ELCOUNT] terminos [B-ELEM]
+506,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 9 [B-ATVAL] y [O] variable [B-ELEM] y. [B-VAR] Incompleto [B-EXCHAR] y [O] desordenado. [B-EXCHAR] Con [O] coeficientes [B-ELEM] racionales [B-NSET] y [O] enteros [B-NSET]
+541,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 12 [B-ATVAL] con [O] coeficientes [B-ELEM] complejos [B-NSET] y [O] enteros [B-NSET]
+541,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 12 [B-ATVAL] desordenado [B-EXCHAR] e [O] incompleto [B-EXCHAR] con [O] indeterminada [B-ELEM] "" [O] y [B-VAR] "" [O]"
+544,"Monomio [B-EXTYPE] de [O] grado [B-ATRIB] 1 [B-ATVAL] con [O] coeficiente [B-ELEM] natural [B-NSET] , [O] usando [O] "" [O] y [B-VAR] "" [O] como [O] variable [B-ELEM]"
+21,"Polinomio [B-EXTYPE] de [O] quinto [B-ATVAL] grado [B-ATRIB] , [O] incompleto [B-EXCHAR] y [O] la [O] variable [B-ELEM] es [O] z [B-VAR]"
+54,"Polinomio [B-EXTYPE] en [O] indeterminada [B-ELEM] z [B-VAR] , [O] de [O] grado [B-ATRIB] 7 [B-ATVAL] con [O] coeficientes [B-ELEM] negativos [B-ELCHAR] , [O] y [O] solo [O] los [O] términos [B-ELEM] lineal [I-ELEM] y [O] principal [B-ELEM]"
+60,"Polinomio [B-EXTYPE] con [O] coeficientes [B-ELEM] complejo [B-NSET] y [O] naturales [B-NSET] , [O] de [O] grado [B-ATRIB] 9 [B-ATVAL] e [O] incompleto. [B-EXCHAR] Tiene [O] 5 [B-ELCOUNT] términos [B-ELEM]"
+60,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 9 [B-ATVAL] , [O] incompleto [B-EXCHAR] y [O] desordenado [B-EXCHAR] Coeficiente [B-ELEM] enteros [B-NSET] e [O] imaginarios [B-NSET]"
+65,"Polinomio [B-EXTYPE] con [O] variable [B-ELEM] "" [O] z [B-VAR] "" [O] de [O] grado [B-ATRIB] 14 [B-ATVAL] y [O] solo [O] términos [B-ELEM] independiente [I-ELEM] , [O] lineal [B-ELEM] y [O] principal [B-ELEM]"
+65,Polinimio [B-EXTYPE] incompleta [B-EXCHAR] de [O] grado [B-ATRIB] 14 [B-ATVAL]
+88,Polinomio [B-EXTYPE] de [O] de [O] grado [B-ATRIB] 4 [B-ATVAL] con [O] solo [O] término [B-ELEM] principal [I-ELEM] e [O] independiente. [B-ELEM] El [O] término [B-ELEM] independiente [I-ELEM] es [O] negativo [B-ELCHAR] y [O] complejo [B-NSET]
+131,"Polinomio [B-EXTYPE] , [O] desordenado [B-EXCHAR] , [O] de [O] grado [B-ATRIB] 15 [B-ATVAL]"
+156,Polinomio [B-EXTYPE] incompleto [B-EXCHAR] de [O] grado [B-ATRIB] 8 [B-ATVAL] con [O] variable [B-ELEM] z [B-VAR]
+171,"Polinomio [B-EXTYPE] en [O] indeterminada [B-ELEM] "" [O] z [B-VAR] "" [O] de [O] 7mo [B-ATVAL] grado [B-ATRIB] incompleto. [B-EXCHAR] Tiene [O] solo [O] términos [B-ELEM] de [O] potencia [O] 4 [B-ELVAL] , [O] 6 [B-ELVAL] y [O] 7. [B-ELVAL] El [O] coeficiente [B-ELEM] del [O] término [O] de [O] potencia [O] 4 [O] tiene [O] coeficiente [B-ELEM] complejo [B-NSET]"
+171,"Polinomio [B-EXTYPE] incompleto [B-EXCHAR] de [O] grado [B-ATRIB] 7 [B-ATVAL] , [O] presenta [O] en [O] los [O] coeficientes [B-ELEM] números [O] complejos [B-NSET] y [O] fracciones [B-NSET]"
+177,Polinomio [B-EXTYPE] incompleto [B-EXCHAR] grado [B-ATRIB] 3 [B-ATVAL] de [O] un [B-ELCOUNT] termino [B-ELEM]
+177,"Polinomio [B-EXTYPE] de [O] tercer [B-ATVAL] grado [B-ATRIB] con [O] solo [O] término [B-ELEM] principal [I-ELEM] , [O] cuyo [O] coeficiente [B-ELEM] es [O] fraccionario. [B-NSET] La [O] variable [B-ELEM] del [O] polinomio [B-EXTYPE] es [O] z [B-VAR]"
+191,"Polinomio [B-EXTYPE] incompleto [B-EXCHAR] , [O] desordenado [B-EXCHAR] , [O] de [O] quinto [B-ATVAL] grado [B-ATRIB] con [O] variable [B-ELEM] "" [O] z [B-VAR] "" [O]"
+191,Un [O] polinomio [B-EXTYPE] de [O] 5to [B-ATVAL] grado [B-ATRIB] en [O] indeterminada [B-ELEM] z. [B-VAR] Incompleto [B-EXCHAR] y [O] desordenado. [B-EXCHAR] Tiene [O] coeficiente [B-ELEM] principal [I-ELEM] 11 [B-ELVAL] y [O] el [O] término [B-ELEM] independiente [I-ELEM] es [O] complejo [B-NSET]
+194,Polinomio [B-EXTYPE] de [O] 9no [B-ATVAL] grado [B-ATRIB] con [O] indeterminada [B-ELEM] z [B-VAR] y [O] con [O] solo [O] término [B-ELEM] principal [I-ELEM] y [O] término [B-ELEM] de [I-ELEM] potencia [I-ELEM] 7 [I-ELEM]
+194,Polinomio [B-EXTYPE] en [O] indeterminada [B-ELEM] z [B-VAR] de [O] grado [B-ATRIB] 9 [B-ATVAL] con [O] solo [O] términos [B-ELEM] principal [I-ELEM] y [O] de [O] potencia [B-ELEM] 7 [I-ELEM]
+204,es [O] un [O] escalar [B-ELEM] ( [O] 23 [B-ELVAL] ) [O] por [O] la [O] variable [B-ELEM] z [B-VAR] elevada [O] a [O] la [O] sexta [B-ELVAL] potencia [B-ELEM]
+204,Monomio [B-EXTYPE] de [O] grado [B-ATRIB] 6 [B-ATVAL] en [O] indeterminada [B-ELEM] z [B-VAR] con [O] coeficiente [B-ELEM] 23 [B-ELVAL]
+233,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 9 [B-ATVAL] , [O] coeficiente [B-ELEM] principal [I-ELEM] -1 [B-ELVAL] , [O] incompleto [B-EXCHAR] y [O] desordenado [B-EXCHAR]"
+235,Polinomio [B-EXTYPE] incompleto [B-EXCHAR]
+235,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 7 [B-ATVAL] , [O] variable=z [B-ELEM] , [O] desordenado [B-EXCHAR] , [O] con [O] constantes [B-ELEM] imaginarias [B-NSET]"
+248,Polinomio [B-EXTYPE] incompleto [B-EXCHAR] de [O] grado [B-ATRIB] 4 [B-ATVAL]
+248,polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 4 [B-ATVAL] incompleto [B-EXCHAR] y [O] desordenado [B-EXCHAR] donde [O] el [O] coeficiente [B-ELEM] que [O] acompaña [O] a [O] la [O] variable [B-ELEM] principal [I-ELEM] es [O] un [O] número [O] racional [B-NSET]
+262,Polinomio [B-EXTYPE] en [O] indeterminada [B-ELEM] z [B-VAR] de [O] grado [B-ATRIB] 13 [B-ATVAL] que [O] incluye [O] 3 [B-ELCOUNT] coeficientes [B-ELEM] complejos. [B-NSET] No [B-EXCHAR] está [I-EXCHAR] ordenado [I-EXCHAR]
+266,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 5 [B-ATVAL] incompleto [B-EXCHAR]
+278,Es [O] un [O] polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 5 [B-ATVAL] y [O] esta [O] incompleto [B-EXCHAR]
+278,Polinomio [B-EXTYPE] de [O] quinto [B-ATVAL] grado [B-ATRIB] incompleto [B-EXCHAR] y [O] con [O] variable [B-ELEM] z. [B-VAR] El [O] polinomio [B-EXTYPE] no [O] tiene [O] orden [B-ATRIB] alguno [O]
+286,Es [O] un [O] monomio [B-EXTYPE] de [O] grado [B-ATRIB] 1 [B-ATVAL] con [O] un [O] coeficiente [B-ELEM] principal [I-ELEM] igual [O] a [O] 25 [B-ELVAL]
+301,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] tres [B-ATVAL] , [O] incompleto [B-EXCHAR]"
+301,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 3 [B-ATVAL]
+316,Monomio [B-EXTYPE] de [O] grado [B-ATRIB] 2 [B-ATVAL] de [O] coeficiente [B-ELEM] -7 [B-ELVAL]
+321,Polinomio [B-EXTYPE] cúbico [B-EXCHAR] en [O] indeterminada [B-ELEM] z [B-VAR] con [O] solo [O] término [B-ELEM] principal [I-ELEM]
+349,Polinomio [B-EXTYPE] incompleto [B-EXCHAR] de [O] grado [B-ATRIB] 2 [B-ATVAL]
+349,"Grado:2 [B-ATRIB] Coef. [B-ELEM] Principal [I-ELEM] : [O] 14 [B-ELVAL] , [O] incompleto [B-EXCHAR] le [O] falta [O] el [O] termino [O] de [O] grado [O] 1 [O] e [O] independiente [O] Variable [B-ELEM] : [O] z [B-VAR]"
+360,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 14 [B-ATVAL] , [O] no [B-EXCHAR] ordenado [I-EXCHAR] , [O] incompleto [B-EXCHAR] y [O] variable [B-ELEM] z [B-VAR]"
+360,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 14 [B-ATVAL] incompleto [B-EXCHAR]
+364,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 9 [B-ATVAL] con [O] números [B-ELEM] complejos [B-NSET]
+364,un [O] polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 9 [B-ATVAL] incompleto [B-EXCHAR] con [O] variable [B-ELEM] z [B-VAR]
+376,polinomio [B-EXTYPE] incompleto [B-EXCHAR] de [O] orden [B-ATRIB] 7 [B-ATVAL]
+389,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 7 [B-ATVAL] incompleto [B-EXCHAR] en [O] indeterminada [B-ELEM] z [B-VAR]
+393,"polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 9 [B-ATVAL] incompleto [B-EXCHAR] con [O] numeros [B-ELEM] complejos [B-NSET] , [O] fracciones [B-NSET] y [O] enteros [B-NSET]"
+415,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 5 [B-ATVAL] incompleto [B-EXCHAR]
+415,"Polinomio [B-EXTYPE] incompleto [B-EXCHAR] con [O] variable [B-ELEM] "" [O] z [B-VAR] "" [O] de [O] grado [B-ATRIB] 5. [B-ATVAL] Tiene [O] todos [B-ELCOUNT] los [O] términos [B-ELEM] menos [O] el [O] cuadratico [O] y [O] el [O] lineal [O]"
+438,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 12 [B-ATVAL] con [O] un [O] número [B-ELEM] imaginario [B-NSET]
+438,Polinomio [B-EXTYPE] grado [B-ATRIB] 12 [B-ATVAL] incompleto [B-EXCHAR]
+458,polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 10 [B-ATVAL] con [O] 8 [B-ELCOUNT] terminos [B-ELEM] e [O] indeterminada [B-ELEM] z [B-VAR]
+502,"polinomio [B-EXTYPE] en [O] variable [B-ELEM] z [B-VAR] , [O] de [O] grado [B-ATRIB] 4 [B-ATVAL]"
+502,"Monomio [B-EXTYPE] con [O] variable [B-ELEM] z [B-VAR] , [O] de [O] grado [B-ATRIB] 4 [B-ATVAL] y [O] coeficiente [B-ELEM] principal [I-ELEM] negativo [B-ELCHAR] y [O] entero [B-NSET]"
+504,Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 2 [B-ATVAL] en [O] variable [B-ELEM] z [B-VAR]
+504,"Polinomio [B-EXTYPE] de [O] grado [B-ATRIB] 2 [B-ATVAL] , [O] con [O] variable [B-ELEM] z [B-VAR] , [O] con [O] coeficiente [B-ELEM] principal [I-ELEM] negativo [B-ELCHAR] y [O] fraccionario. [B-NSET] Sin [O] término [B-ELEM] lineal [I-ELEM] y [O] término [B-ELEM] independiente [I-ELEM] fraccionario [B-NSET]"
+509,"Polinomio [B-EXTYPE] incompleto [B-EXCHAR] de [O] grado [B-ATRIB] 15 [B-ATVAL] con [O] indeterminada [B-ELEM] "" [O] z [B-VAR] "" [O] . [O] Desordenado [B-EXCHAR]"
+45,"sistema [B-EXTYPE] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] con [O] dos [B-ELCOUNT] incógnitas [B-ELEM] , [O] en [O] los [O] términos [B-ELEM] que [O] contienen [O] x [B-VAR] , [O] la [O] variable [O] está [O] multiplicada [O] por [O] una [O] fracción [O] , [O] en [O] los [O] de [O] y [B-VAR] por [O] un [O] entero [O] . [O]"
+80,Sistema [B-EXTYPE] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] con [O] dos [B-ELCOUNT] incógnitas [B-ELEM]
+80,"Sistema [B-EXTYPE] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] con [O] dos [B-ELCOUNT] incógnitas. [B-ELEM] La [O] segunda [B-ELEM] ecuación [I-ELEM] no [B-ELCHAR] es [I-ELCHAR] completa [I-ELCHAR] , [O] le [O] falta [O] la [O] variable [B-ELEM] "" [O] y [B-VAR] "" [O]"
+97,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] de [O] 2 [B-ELCOUNT] variables [B-ELEM]
+97,"Sistema [B-EXTYPE] de [O] dos [B-ELCOUNT] incógnitas [B-ELEM] y [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] completo [B-EXCHAR] y [O] ordenado [B-EXCHAR] , [O] con [O] coeficientes [B-ELEM] negativos. [B-ELCHAR] Las [O] incógnitas [B-ELEM] son [O] "" [O] x [B-VAR] "" [O] e [O] "" [O] y [B-VAR] "" [O]"
+119,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] de [O] 2 [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 2 [B-ELCOUNT] variables [B-ELEM]
+119,sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] lineales [B-EXCHAR]
+120,Sistema [B-EXTYPE] de [O] 2 [B-ELCOUNT] ecuaciones [B-ELEM] y [O] dos [B-ELCOUNT] incógnitas [B-ELEM] en [O] distinto [O] orden [O]
+120,"Sistema [B-EXTYPE] de [I-EXTYPE] ecuacion [I-EXTYPE] de [O] 2 [B-ELCOUNT] ecuaciones [B-ELEM] lineales [B-ELCHAR] de [O] dos [B-ELCOUNT] variables [B-ELEM] , [O] con [O] coeficientes [B-ELEM] distintos [O] de [O] 0 [B-ELVAL]"
+151,sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] con [O] una [B-ELCOUNT] variable [B-ELEM]
+151,sistema [B-EXTYPE] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 1 [B-ELCOUNT] variable [B-ELEM] y [O] coeficientes [B-ELEM] racionales [B-NSET]
+168,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] conformado [O] por [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] ambas [O] grado [B-ATRIB] uno [B-ATVAL] y [O] con [O] variables [B-ELEM] diferentes [O]
+169,"Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] conformado [O] de [O] dos [B-ELCOUNT] ecuaciones. [B-ELEM] Ecuación [B-ELEM] 1 [I-ELEM] de [O] una [B-ELCOUNT] única [O] variable [B-ELEM] , [O] ecuación [B-ELEM] 2 [I-ELEM] de [O] 2 [B-ELCOUNT] variables [B-ELEM]"
+180,"Sistema [B-EXTYPE] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 2 [B-ELCOUNT] incógnitas. [B-ELEM] La [O] segunda [B-ELEM] ecuación [I-ELEM] es [O] incompleta [B-ELCHAR] con [O] solo [O] incógnita [B-ELEM] "" [O] y [B-VAR] "" [O]"
+180,"Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] compatible [B-EXCHAR] determinado [B-EXCHAR] , [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] y [O] dos [B-ELCOUNT] incógnitas [B-ELEM]"
+211,Sistema [B-EXTYPE] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] lineales [B-ELCHAR] de [O] dos [B-ELCOUNT] incognitas [B-ELEM]
+242,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] Dos [B-ELCOUNT] ecuaciones [B-ELEM] y [O] dos [B-ELCOUNT] incógnitas [B-ELEM] Y [B-VAR] y [O] X [B-VAR]
+251,"Un [O] sistema [B-EXTYPE] de [O] 2 [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 2 [B-ELCOUNT] incógnitas [B-ELEM] , [O] x [B-VAR] e [O] y. [B-VAR] Los [O] coeficientes [B-ELEM] de [O] las [O] variables [O] son [O] fracciones [B-NSET]"
+251,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] de [O] dos [B-ELCOUNT] variables [B-ELEM]
+259,Sistemas [B-EXTYPE] de [O] 2 [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 2 [B-ELCOUNT] variables [B-ELEM]
+299,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] Con [O] dos [B-ELCOUNT] incógnitas [B-ELEM]
+299,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE]
+303,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE]
+303,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] con [O] dos [B-ELCOUNT] incógnitas [B-ELEM] y [O] coeficientes [B-ELEM] fraccionarios [B-NSET] positivos [B-ELCHAR]
+331,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] con [O] más [O] incógnitas [B-ELEM] ( [O] 2 [B-ELCOUNT] ) [O] que [O] ecuaciones [B-ELEM] ( [O] 1 [B-ELCOUNT] ) [O]
+367,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE]
+368,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] de [O] dos [B-ELCOUNT] variables [B-ELEM]
+388,Sistema [B-EXTYPE] incompleto [B-EXCHAR] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] con [O] dos [B-ELCOUNT] variables [B-ELEM]
+390,Sistema [B-EXTYPE] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] con [O] dos [B-ELCOUNT] variables [B-ELEM]
+402,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] con [O] dos [B-ELCOUNT] incógnitas [B-ELEM]
+402,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] con [O] 2 [B-ELCOUNT] ecuaciones [B-ELEM] y [O] 2 [B-ELCOUNT] incógnitas [B-ELEM]
+439,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] 2 [B-ELCOUNT] variables [B-ELEM] y [O] 2 [B-ELCOUNT] incógnitas. [B-ELEM] Cada [O] ecuacion [B-ELEM] tiene [O] una [B-ELCOUNT] sola [O] variable [B-ELEM]
+439,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] con [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] y [O] dos [B-ELCOUNT] incógnitas [B-ELEM]
+470,2 [B-ELCOUNT] ecuaciones [B-ELEM] de [O] dos [B-ELCOUNT] variables [B-ELEM] de [O] grado [B-ATRIB] 1 [B-ATVAL]
+474,Dos [B-ELCOUNT] ecuaciones [B-ELEM] con [O] dos [B-ELCOUNT] variables [B-ELEM] de [O] grado [B-ATRIB] 1 [B-ATVAL]
+477,Sistema [B-EXTYPE] de [O] 2 [B-ELCOUNT] ecuaciones [B-ELEM] lineales [B-ELCHAR] con [O] 2 [B-ELCOUNT] variables [B-ELEM] no [B-ELCHAR] homogéneas [I-ELCHAR] . [O]
+516,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] de [O] dos [B-ELCOUNT] incógnitas [B-ELEM]
+9,"Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] homogéneo [B-EXCHAR] de [O] 2x2. [B-EXCHAR] Orden [B-ATRIB] de [O] las [O] variables [B-ELEM] : [O] y [B-VAR] , [O] x [B-VAR]"
+9,sistema [B-EXTYPE] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] con [O] dos [B-ELCOUNT] variables [B-ELEM] homogéneo [B-EXCHAR] lineal [B-EXCHAR]
+16,Sistema [B-EXTYPE] homogéneo [I-EXTYPE] de [O] 2 [B-ELCOUNT] ecuaciones [B-ELEM] y [O] 2 [B-ELCOUNT] incógnitas [B-ELEM] usando [O] coeficientes [B-ELEM] enteros [B-NSET] escritos [O] de [O] forma [O] fraccionaria [O]
+19,"Sistema [B-EXTYPE] de [O] 2 [B-ELCOUNT] ecuaciones [B-ELEM] y [O] 2 [B-ELCOUNT] incógnitas [B-ELEM] , [O] todas [B-ELCOUNT] de [O] grado [B-ATRIB] 1 [B-ATVAL] usando [O] algunos [O] coeficientes [B-ELEM] fraccionarios [B-NSET]"
+59,Sistema [B-EXTYPE] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] homogeneas [B-ELCHAR] de [O] variables [B-ELEM] X [B-VAR] e [O] Y [B-VAR]
+59,"Sistema [B-EXTYPE] de [O] 2 [B-ELCOUNT] ecuaciones [B-ELEM] homogéneo [B-ELCHAR] con [O] dos [B-ELCOUNT] incógnitas [B-ELEM] , [O] x [B-VAR] e [O] y. [B-VAR] Las [O] variables [B-ELEM] están [O] desordenadas [B-ELCHAR]"
+89,Sistema [B-EXTYPE] homogéneo [B-EXCHAR] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] ordenado [B-EXCHAR] con [O] coeficientes [B-ELEM] negativos [B-ELCHAR]
+105,"Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] homogéneo [B-EXCHAR] , [O] completo [B-EXCHAR] y [O] en [B-EXCHAR] orden. [I-EXCHAR] Tiene [O] 2 [B-ELCOUNT] ecuaciones [B-ELEM] y [O] 2 [B-ELCOUNT] variables [B-ELEM] , [O] x [B-VAR] e [O] y [B-VAR]"
+114,Sistema [B-EXTYPE] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] con [O] dos [B-ELCOUNT] variables [B-ELEM]
+152,"Sistema [B-EXTYPE] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] , [O] homogéneo [B-EXCHAR] , [O] completo [B-EXCHAR] y [O] en [B-EXCHAR] orden. [I-EXCHAR] Tiene [O] coeficientes [B-ELEM] negativos [B-ELCHAR]"
+152,"sistema [B-EXTYPE] de [O] 2 [B-ELCOUNT] ecuaciones [B-ELEM] homogéneas [B-ELCHAR] con [O] 2 [B-ELCOUNT] variables [B-ELEM] , [O] con [O] coeficientes [B-ELEM] fraccionarios [B-NSET] y [O] coeficientes [B-ELEM] negativos [B-ELCHAR]"
+158,Sistema [B-EXTYPE] compuesto [O] por [O] dos [O] ecuaciones [B-ELEM] lineales [B-ELCHAR] homogeneas [B-ELCHAR] de [O] dos [B-ELCOUNT] incognitas [B-ELEM]
+160,Sistema [B-EXTYPE] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] lineales [B-ELCHAR] homogeneo [B-EXCHAR] de [O] dos [B-ELCOUNT] incognitas [B-ELEM]
+178,Sistema [B-EXTYPE] homogeneo [B-EXCHAR] de [O] ecuaciones [B-ELEM] lineales [B-ELCHAR]
+178,Sistema [B-EXTYPE] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] con [O] dos [B-ELCOUNT] variables [B-ELEM]
+201,es [O] un [O] sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] homogéneo [B-EXCHAR] con [O] variables [B-ELEM] x [B-VAR] e [O] y [B-VAR] multiplicada [O] por [O] escalares [O]
+201,"Sistema [B-EXTYPE] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] y [O] dos [B-ELCOUNT] incógnitas [B-ELEM] , [O] homogéneo [B-EXCHAR] y [O] completo. [B-EXCHAR] Los [O] coeficientes [B-ELEM] de [O] las [O] x [B-VAR] son [O] fraccionarios [B-NSET]"
+219,Sistema [B-EXTYPE] de [O] 2 [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 2 [B-ELCOUNT] variables [B-ELEM] cada [O] uno [O]
+219,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] de [O] 2 [B-ELCOUNT] variables [B-ELEM]
+253,Sistema [B-EXTYPE] homogeneo [B-EXCHAR] de [O] 2 [B-ELCOUNT] ecuaciones [B-ELEM] con [O] 2 [B-ELCOUNT] incognitas [B-ELEM]
+261,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] lineales [B-ELCHAR] compatible [B-EXCHAR] determinado [B-EXCHAR] con [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] y [O] dos [B-ELCOUNT] incógnitas [B-ELEM]
+268,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] con [O] x [B-VAR] e [O] y [B-VAR] como [O] variables [B-ELEM]
+270,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] lineales [B-ELCHAR] Sistema [B-EXTYPE] compatible [B-EXCHAR] x [B-VAR] e [O] y [B-VAR] variables [B-ELEM]
+270,sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] compuesto [O] de [O] coeficientes [B-ELEM] racionales [B-NSET] y [O] uno [B-ELCOUNT] entero. [B-NSET] El [O] sistema [B-EXTYPE] es [O] homogeneo [B-EXCHAR]
+271,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] lineales [B-ELCHAR] Ecuaciones [B-ELEM] de [O] grado [B-ATRIB] 1 [B-ATVAL] Sistema [B-EXTYPE] compatible [B-EXCHAR] Dos [B-ELCOUNT] variables [B-ELEM]
+271,sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] compuesto [O] de [O] coeficientes [B-ELEM] racionales [B-NSET] y [O] uno [B-ELCOUNT] entero [B-NSET]
+305,"sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] de [O] 2 [B-ELCOUNT] ecuaciones [B-ELEM] igualadas [O] a [O] 0 [B-ELVAL] , [O] con [O] 2 [B-ELCOUNT] incognitas [B-ELEM]"
+305,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] con [O] 2 [B-ELCOUNT] incógnitas [B-ELEM]
+313,Sistema [B-EXTYPE] homogéneo [B-EXCHAR] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] con [O] dos [B-ELCOUNT] incógnitas [B-ELEM] a [O] coeficientes [B-ELEM] enteros [B-NSET] y [O] fraccionarios [B-NSET]
+362,"Sist. [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] , [O] dos [B-ELCOUNT] variables [B-ELEM] , [O] dos [B-ELCOUNT] ecuaciones. [B-ELEM] Homogeneo [B-EXCHAR]"
+362,"Sistema [B-EXTYPE] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] con [O] dos [B-ELCOUNT] variables [B-ELEM] , [O] sistema [B-EXTYPE] homogéneo [B-EXCHAR]"
+395,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] homogeneo [B-EXCHAR]
+447,Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] homogéneo [B-EXCHAR]
+451,"Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] de [O] 2x2 [B-EXCHAR] homogéneo. [B-EXCHAR] Variables [B-ELEM] "" [O] y [B-VAR] "" [O] y [O] "" [O] x [B-VAR] "" [O] en [O] respectivo [O] orden. [O] Coeficientes [B-ELEM] de [I-ELEM] y [I-ELEM] : [O] -10 [B-ELVAL] / [I-ELVAL] 6 [I-ELVAL] en [O] la [O] primera [B-ELEM] ecuación [I-ELEM] ; [O] -35 [B-ELVAL] en [O] la [O] segunda [B-ELEM] ecuación. [I-ELEM] Coeficientes [B-ELEM] de [I-ELEM] x [I-ELEM] : [O] -36 [B-ELVAL] en [O] la [O] primera [B-ELEM] ecuación [I-ELEM] ; [O] -43 [B-ELVAL] en [O] la [O] segunda [B-ELEM] ecuación [I-ELEM] . [O]"
+469,"Sistema [B-EXTYPE] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] lineales [B-ELCHAR] con [O] dos [B-ELCOUNT] incógnitas [B-ELEM] , [O] homogéneo [B-EXCHAR] . [O]"
+507,sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] con [O] dos [B-ELCOUNT] variables [B-ELEM]
+507,"Sistema [B-EXTYPE] de [I-EXTYPE] ecuaciones [I-EXTYPE] homogéneo [B-EXCHAR] , [O] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] con [O] dos [B-ELCOUNT] incógnitas [B-ELEM]"
+555,"Sistema [B-EXTYPE] homogéneo [B-EXCHAR] de [O] dos [B-ELCOUNT] ecuaciones [B-ELEM] , [O] completo [B-EXCHAR] , [O] desordenado [B-EXCHAR]"

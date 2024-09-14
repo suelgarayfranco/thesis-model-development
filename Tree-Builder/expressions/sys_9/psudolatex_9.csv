@@ -1,0 +1,30 @@
+\begin{cases} - VN.y + VF.x = 0 \\VN.y + VF.x = 0 \end{cases}
+\begin{cases} VF.y - VN.x = 0 \\VF.y + VN.x = 0 \end{cases}
+\begin{cases} - VN.x - VN.y = 0 \\- VN.x - VF.y = 0 \end{cases}
+\begin{cases} - VF.y + VN.x = 0 \\- VF.y + VN.x = 0 \end{cases}
+\begin{cases} - VF.x + VF.y = 0 \\VF.x - VN.y = 0 \end{cases}
+\begin{cases} - VF.y - VN.x = 0 \\- VN.y - VN.x = 0 \end{cases}
+\begin{cases} - VN.x - VF.y = 0 \\- VF.x - VN.y = 0 \end{cases}
+\begin{cases} - VF.y - VN.x = 0 \\- VF.y - VN.x = 0 \end{cases}
+\begin{cases} - VF.y - VN.x = 0 \\- VN.y - VN.x = 0 \end{cases}
+\begin{cases} - VF.x - VF.y = 0 \\- VF.x - VN.y = 0 \end{cases}
+\begin{cases} VF.y + VF.x = 0 \\VN.y + VF.x = 0 \end{cases}
+\begin{cases} VF.x + VN.y = 0 \\VN.x + VF.y = 0 \end{cases}
+\begin{cases} VF.x + VN.y = 0 \\VN.x + VF.y = 0 \end{cases}
+\begin{cases} VF.y + VF.x = 0 \\VN.y + VF.x = 0 \end{cases}
+\begin{cases} VF.y + VF.x = 0 \\VN.y + VN.x = 0 \end{cases}
+\begin{cases} - VF.y - VN.x = 0 \\- VF.y - VN.x = 0 \end{cases}
+\begin{cases} - VN.x - VF.y = 0 \\VN.x - VN.y = 0 \end{cases}
+\begin{cases} VF.x + VF.y = 0 \\VN.x + VN.y = 0 \end{cases}
+\begin{cases} - VN.y - VF.x = 0 \\VF.x - VF.y = 0 \end{cases}
+\begin{cases} - VF.x - VF.y = 0 \\- VF.x - VN.y = 0 \end{cases}
+\begin{cases} - VN.x - VN.y = 0 \\- VF.x - VF.y = 0 \end{cases}
+\begin{cases} - VF.y - VN.x = 0 \\- VF.x - VF.y = 0 \end{cases}
+\begin{cases} - VN.x - VF.y = 0 \\- VN.y - VN.x = 0 \end{cases}
+\begin{cases} - VF.y - VN.x = 0 \\- VF.y - VF.x = 0 \end{cases}
+\begin{cases} - VF.y - VN.x = 0 \\- VN.y - VN.x = 0 \end{cases}
+\begin{cases} VN.x + VF.y = 0 \\VN.y + VN.x = 0 \end{cases}
+\begin{cases} VF.x + VF.y = 0 \\VN.x + VF.y = 0 \end{cases}
+\begin{cases} VN.x + VN.y = 0 \\VN.x + VN.y = 0 \end{cases}
+\begin{cases} VN.y + VF.x = 0 \\VF.y + VN.x = 0 \end{cases}
+\begin{cases} VF.y + VF.x = 0 \\VF.y + VF.x = 0 \end{cases}

@@ -1,0 +1,11 @@
+inputs,outputs
+generar pseudolatex: sistema de dos ecuaciones y 3 incognitas,\begin{cases} VN.x + VN.y + VN.z = VN \\VN.y + VN.z = VN \end{cases}
+generar pseudolatex: Polinomio de primer grado incompleto,VNx
+"generar pseudolatex: Polinomio de grado tres completo. Posee 4 terminos, los terminos dos y tres son negativos.",VD - VDx - VDx^{2} + VDx^{3}
+generar pseudolatex: Polinomio con décimo grado,VRx^{2} + VRx^{3} + VRx^{4} + VR + VRx^{5} + VRx + VRx^{9} + VRx^{7} + VRx^{8}
+generar pseudolatex: Binomio lineal completo. El coeficiente del término principal es fraccionario negativo,- VR - VRx
+generar pseudolatex: sistema de ecuaciones homogéneo,\begin{cases} - VN.y - VF.x = 0 \\- VF.y - VN.x = 0 \end{cases}
+"generar pseudolatex: polinomio, tiene octavo grado, está ordenado aunque incompleto. El coeficiente principal es -139 y el término independiente es 0.",- VNx^{8} - VNx^{2} - VNx
+generar pseudolatex: polinomio de primer grado completo,- VC - VC.x
+generar pseudolatex: Polinomio de grado 6 completo con variable x,VF + VFx + VFx^{2} + VFx^{3} + VFx^{4} - VFx^{5} + VFx^{6}
+generar pseudolatex: Sistema de cuatro ecuaciones con cuatro incognitas. No teniendo todas las incógnitas del mismo lado. Usando coeficientes fraccionarios positivos y negativos,\begin{cases} - VF.d + VF.b + VF.c - VN.a = 0 \\- VF.d - VN.b - VN.c - VN.a = 0 \\- VF.d - VN.b - VN.c - VN.a = 0 \end{cases}
