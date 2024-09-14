@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 sns.set_theme()
 
-df = pd.read_csv('./model/test-logs/manual-evaluation-no-base-model.csv')
+df = pd.read_csv('./model/test-logs/manual-evaluation.csv')
 
 hue_order = ['0', '1b', '2a', '2b', '3']
 
